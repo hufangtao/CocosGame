@@ -1,0 +1,309 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aniOneColorBomb",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 0.3,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "content/bombzzj1/bg2": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 19
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/bg3": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 150
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 150
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.1,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 270
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/bg1": {
+        "comps": {},
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/bg4": {
+        "comps": {},
+        "props": {
+          "scale": [
+            {
+              "frame": 0.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.6,
+                "y": 0.6
+              }
+            },
+            {
+              "frame": 0.3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.6,
+                "y": 0.6
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1,
+              "value": false
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": false
+            },
+            {
+              "frame": 0.3,
+              "value": false
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/zhazhiji-big": {
+        "comps": {},
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 90
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 270
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "content/bombzzj1": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "content/bombzzj2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/bg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/bgStar1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "content/bombzzj1/bgStar2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt-behind",
+    "texture": "8d95c8f0-8f38-475a-b219-dadfa30c68b2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      306,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-second",
+    "texture": "a3422e63-91ad-491e-b33f-8dda69c8b44b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

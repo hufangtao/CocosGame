@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pve-star-light",
+    "texture": "8dd1dcfe-b9f5-4bcb-9805-52c130d898f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      103,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      103,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

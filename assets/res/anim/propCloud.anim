@@ -1,0 +1,160 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "propCloud",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.48333333333333334,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "pve-cloud2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -745,
+              "curve": "sineOut"
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 368
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 272
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pve-cloud1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -855,
+              "curve": "sineOut"
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 305
+            },
+            {
+              "frame": 0.45,
+              "value": 272
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pve-cloud3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.03333333333333333,
+              "value": -876,
+              "curve": "sineOut"
+            },
+            {
+              "frame": 0.3,
+              "value": 316
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 264
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pve-cloud4": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.05,
+              "value": -833,
+              "curve": "sineOut"
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 152
+            },
+            {
+              "frame": 0.45,
+              "value": 110
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.05,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "pve-cloud5": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.06666666666666667,
+              "value": -855,
+              "curve": "sineOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 150
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 100
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

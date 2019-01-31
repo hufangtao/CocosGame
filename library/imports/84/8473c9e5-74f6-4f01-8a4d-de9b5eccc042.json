@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TV-effect-light",
+    "texture": "b42c2739-398d-49c5-89d4-323c8d5e1318",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

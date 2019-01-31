@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-Wan",
+    "texture": "997091fe-a85e-42ce-a728-4d90662d8858",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      74,
+      78
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      76,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

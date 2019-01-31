@@ -1,0 +1,5317 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1548228921510,
+    "meta": 1541500800000,
+    "relativePath": "image"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1541500800000,
+    "meta": 1548232466029,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1541500800000,
+    "meta": 1548232466031,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1541500800000,
+    "meta": 1548232466048,
+    "relativePath": "image\\default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1541500800000,
+    "meta": 1548232466038,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1541500800000,
+    "meta": 1548232466049,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1541500800000,
+    "meta": 1548232466058,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1541500800000,
+    "meta": 1548232466059,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1541500800000,
+    "meta": 1548232466068,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1541500800000,
+    "meta": 1548232466067,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1541500800000,
+    "meta": 1548232466077,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1541500800000,
+    "meta": 1548232466088,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1541500800000,
+    "meta": 1548232466078,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1541500800000,
+    "meta": 1548232466086,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1541500800000,
+    "meta": 1548232466096,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1541500800000,
+    "meta": 1548232466098,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1541500800000,
+    "meta": 1548232466107,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1541500800000,
+    "meta": 1548232466116,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1541500800000,
+    "meta": 1548232466108,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1548228873510,
+    "meta": 1541500800000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1541500800000,
+    "meta": 1548232466132,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1548228921865,
+    "meta": 1541500800000,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1541500800000,
+    "meta": 1548232466200,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1548228921876,
+    "meta": 1541500800000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1541500800000,
+    "meta": 1548232466201,
+    "relativePath": "particle\\atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1548228921528,
+    "meta": 1541500800000,
+    "relativePath": "prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1541500800000,
+    "meta": 1548232466138,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1541500800000,
+    "meta": 1548232466138,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1541500800000,
+    "meta": 1548232466148,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1541500800000,
+    "meta": 1548232466153,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1541500800000,
+    "meta": 1548232466153,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1541500800000,
+    "meta": 1548232466155,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1541500800000,
+    "meta": 1548232466156,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1541500800000,
+    "meta": 1548232466158,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1541500800000,
+    "meta": 1548232466159,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1541500800000,
+    "meta": 1548232466161,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1541500800000,
+    "meta": 1548232466162,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1541500800000,
+    "meta": 1548232466164,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1541500800000,
+    "meta": 1548232466165,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1541500800000,
+    "meta": 1548232466167,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1541500800000,
+    "meta": 1548232466169,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1541500800000,
+    "meta": 1548232466171,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1541500800000,
+    "meta": 1548232466172,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1541500800000,
+    "meta": 1548232466174,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1541500800000,
+    "meta": 1548232466175,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "5525b2dc-c0fd-4813-ac75-8b8cedc40881": {
+    "asset": 1547187412323,
+    "meta": 1541746681137,
+    "relativePath": "resources"
+  },
+  "8e23e4c2-a2d3-41d3-a65a-dcfb23d59744": {
+    "asset": 1547776233591,
+    "meta": 1544522094768,
+    "relativePath": "res\\anim"
+  },
+  "0aca3444-d58b-4d16-8ee0-a876e8026f86": {
+    "asset": 1544522106381,
+    "meta": 1544522257428,
+    "relativePath": "res\\anim\\aniAreaNormal.anim"
+  },
+  "4b3209d8-c838-4c31-95fc-9a8f6c069d79": {
+    "asset": 1546928890926,
+    "meta": 1546931420552,
+    "relativePath": "res\\anim\\aniBonusTime.anim"
+  },
+  "a6d06892-3261-48b6-b9f1-ce66718e058c": {
+    "asset": 1544522106856,
+    "meta": 1544522257490,
+    "relativePath": "res\\anim\\aniCross.anim"
+  },
+  "ef320f6b-1075-4695-a204-0c75b9434709": {
+    "asset": 1544522106652,
+    "meta": 1544522257509,
+    "relativePath": "res\\anim\\aniGate.anim"
+  },
+  "11be11d4-8bc3-4389-a30a-d5ee8d877bc1": {
+    "asset": 1544522106702,
+    "meta": 1544522257522,
+    "relativePath": "res\\anim\\aniGate2.anim"
+  },
+  "ed4671c2-7ee0-4858-ac98-9b4cae63843a": {
+    "asset": 1544522106498,
+    "meta": 1544522257531,
+    "relativePath": "res\\anim\\aniGenBomb.anim"
+  },
+  "250317c0-7ab1-418d-9c8e-746b108dcffb": {
+    "asset": 1544522106443,
+    "meta": 1544522257548,
+    "relativePath": "res\\anim\\aniGuide.anim"
+  },
+  "d80b196d-54ae-480d-899f-99ba35ba2941": {
+    "asset": 1544522106550,
+    "meta": 1544522257580,
+    "relativePath": "res\\anim\\aniLoading.anim"
+  },
+  "74ecbd67-bfc1-49d9-bf48-3e2ff5b70b69": {
+    "asset": 1544522106576,
+    "meta": 1544522257590,
+    "relativePath": "res\\anim\\aniSpawnStar.anim"
+  },
+  "4ee17808-c067-4c38-8e47-3d13718bfb3c": {
+    "asset": 1544522106806,
+    "meta": 1544522257603,
+    "relativePath": "res\\anim\\aniSpawnZZJ.anim"
+  },
+  "0ab75393-2286-400a-87bd-15a3d884798e": {
+    "asset": 1544522106817,
+    "meta": 1544522257607,
+    "relativePath": "res\\anim\\aniWaitting.anim"
+  },
+  "9d6bf1b7-8aaf-4d10-87c0-f95b2d77ff98": {
+    "asset": 1544522106640,
+    "meta": 1544522257618,
+    "relativePath": "res\\anim\\aniZZJ.anim"
+  },
+  "1e9a7acb-1490-4e94-902d-1eaf54cbadce": {
+    "asset": 1544522106580,
+    "meta": 1544522257626,
+    "relativePath": "res\\anim\\choose-scene-cloud.anim"
+  },
+  "4886cf8b-f74f-42a4-baca-cabac4d87ac0": {
+    "asset": 1544522106799,
+    "meta": 1544522257644,
+    "relativePath": "res\\anim\\choose-scene.anim"
+  },
+  "15c63607-4f9f-470b-99a6-3000a32cfb32": {
+    "asset": 1544522106394,
+    "meta": 1544522257634,
+    "relativePath": "res\\anim\\GamePush.anim"
+  },
+  "8bf20a6d-0a99-47b8-88b6-f833ce520240": {
+    "asset": 1544522106511,
+    "meta": 1544522257657,
+    "relativePath": "res\\anim\\player-location.anim"
+  },
+  "f3d13af1-7995-4757-83d6-d6803d0c81be": {
+    "asset": 1544522106670,
+    "meta": 1544522257662,
+    "relativePath": "res\\anim\\PlaySplash.anim"
+  },
+  "38f32928-7bf8-4f60-a640-82571ae562bf": {
+    "asset": 1544522106742,
+    "meta": 1544522257665,
+    "relativePath": "res\\anim\\pve-lose-cloud.anim"
+  },
+  "5cebc3d2-3f7a-48c2-a119-7420f04e804d": {
+    "asset": 1544522106277,
+    "meta": 1544522257674,
+    "relativePath": "res\\anim\\pvp-win.anim"
+  },
+  "c420ff0e-40dd-42f4-8021-000db5ff5254": {
+    "asset": 1544522106557,
+    "meta": 1544522257680,
+    "relativePath": "res\\anim\\pvp-win-star.anim"
+  },
+  "bbe015ad-1a04-41e1-bb9d-49b29a92b131": {
+    "asset": 1544522106912,
+    "meta": 1544522257681,
+    "relativePath": "res\\anim\\readyGo.anim"
+  },
+  "14e18e16-37f9-4f11-9b64-b737dded59d4": {
+    "asset": 1544522106433,
+    "meta": 1544522257683,
+    "relativePath": "res\\anim\\result-light.anim"
+  },
+  "3d1e65a3-f91d-4169-a5f4-b7fee1200c0e": {
+    "asset": 1548229375319,
+    "meta": 1541746680314,
+    "relativePath": "resources\\config"
+  },
+  "9d893552-a84e-48fc-8c7f-8d86a4682897": {
+    "asset": 1541746669077,
+    "meta": 1548229553121,
+    "relativePath": "resources\\config\\SysChatFace.json"
+  },
+  "aa8102d9-7ed5-4e3d-896b-d9d0bf2e87c3": {
+    "asset": 1541746668203,
+    "meta": 1548229553123,
+    "relativePath": "resources\\config\\SysConf.json"
+  },
+  "f946f36b-3d40-439e-9a86-9a5dc7435997": {
+    "asset": 1541746668197,
+    "meta": 1548229553125,
+    "relativePath": "resources\\config\\SysExchange.json"
+  },
+  "1f61b0d8-28da-4693-a1d8-4e4af792de8f": {
+    "asset": 1541746668225,
+    "meta": 1548229553128,
+    "relativePath": "resources\\config\\SysFemaleName.json"
+  },
+  "0062a874-91dc-474c-924e-bfc525fd27ba": {
+    "asset": 1541746668181,
+    "meta": 1548229553130,
+    "relativePath": "resources\\config\\SysGoods.json"
+  },
+  "5368defb-e8de-495c-a267-42a30a545dbe": {
+    "asset": 1541746669090,
+    "meta": 1548229553132,
+    "relativePath": "resources\\config\\SysHead.json"
+  },
+  "28e4ce57-7ee4-42ff-a820-119265f51bb1": {
+    "asset": 1541746668206,
+    "meta": 1548229553134,
+    "relativePath": "resources\\config\\SysHonor.json"
+  },
+  "f2e85920-6111-4b98-8094-e69bd24347d9": {
+    "asset": 1541746668194,
+    "meta": 1548229553142,
+    "relativePath": "resources\\config\\SysMaleName.json"
+  },
+  "fbca5f24-a60b-4c1a-ae40-ef60e2dfbe90": {
+    "asset": 1547449351612,
+    "meta": 1548229553147,
+    "relativePath": "resources\\config\\SysShare.json"
+  },
+  "03feb7bd-f80c-47ff-842b-912cf33841bb": {
+    "asset": 1541746668172,
+    "meta": 1548229553149,
+    "relativePath": "resources\\config\\SysSurname.json"
+  },
+  "64efde33-be54-4c69-86d6-441721c44d71": {
+    "asset": 1541746669095,
+    "meta": 1548229553151,
+    "relativePath": "resources\\config\\SysTask.json"
+  },
+  "1577ab10-8307-48a2-b8cc-f33bbfdac99d": {
+    "asset": 1541746669084,
+    "meta": 1548229554151,
+    "relativePath": "resources\\config\\SysTurntable.json"
+  },
+  "dfe459e0-2b8d-4d4a-b06c-e44059a31ff2": {
+    "asset": 1548229377137,
+    "meta": 1541746669141,
+    "relativePath": "resources\\jsLib"
+  },
+  "13630e07-6ec0-4e0c-924b-7586858938fa": {
+    "asset": 1541746667186,
+    "meta": 1541746982900,
+    "relativePath": "resources\\jsLib\\base64.min.js"
+  },
+  "18e7b265-eec5-45d8-80b2-abb2680a25ca": {
+    "asset": 1541746667142,
+    "meta": 1541746983010,
+    "relativePath": "resources\\jsLib\\dy-game.js"
+  },
+  "6c5a1b5f-3c0f-4dec-ba3a-fb54fbd60bd2": {
+    "asset": 1548385364293,
+    "meta": 1541746667207,
+    "relativePath": "resources\\jsLib\\jszip"
+  },
+  "69553e3c-dea5-4d06-8da1-6cf7555c1ef7": {
+    "asset": 1541746667201,
+    "meta": 1541746983643,
+    "relativePath": "resources\\jsLib\\es6-promise.js"
+  },
+  "599f850c-973f-4a51-a506-a79e3e0350bb": {
+    "asset": 1548229377137,
+    "meta": 1548229554316,
+    "relativePath": "resources\\jsLib\\res-remote-url.js"
+  },
+  "b0f5da74-7e6c-404c-8eb0-a380e997bdd0": {
+    "asset": 1541746680928,
+    "meta": 1541746668168,
+    "relativePath": "resources\\prefab"
+  },
+  "6591bf05-ef60-49ea-af59-b85c2b819c79": {
+    "asset": 1548229376100,
+    "meta": 1541746680553,
+    "relativePath": "resources\\prefab\\component"
+  },
+  "8dc6de8d-2b62-42b9-ac9b-9275d5e16107": {
+    "asset": 1541746680961,
+    "meta": 1548229554328,
+    "relativePath": "resources\\prefab\\component\\PlaymateHead.prefab"
+  },
+  "3050c810-a9d2-4bd2-a7c1-618b42b98a57": {
+    "asset": 1548229376825,
+    "meta": 1541746680922,
+    "relativePath": "resources\\prefab\\home"
+  },
+  "e639e360-c3e3-4a58-9011-4a000739025a": {
+    "asset": 1548229376958,
+    "meta": 1541746680925,
+    "relativePath": "resources\\prefab\\levelChoose"
+  },
+  "e66ccf07-56fa-4fe1-aec1-80a5318367c8": {
+    "asset": 1548229376963,
+    "meta": 1541746680928,
+    "relativePath": "resources\\prefab\\login"
+  },
+  "f77704bb-e9b2-4b32-9715-67eb5be47288": {
+    "asset": 1548229376800,
+    "meta": 1541746680919,
+    "relativePath": "resources\\prefab\\play"
+  },
+  "70915d68-8b0c-4b61-9e7e-d4191aba9ebb": {
+    "asset": 1541746680434,
+    "meta": 1548229554460,
+    "relativePath": "resources\\prefab\\play\\PlayPlaymateHead.prefab"
+  },
+  "ecb61c92-6b0d-4430-95f8-0ead357b69ae": {
+    "asset": 1541746680382,
+    "meta": 1548229554672,
+    "relativePath": "resources\\prefab\\play\\TileBg.prefab"
+  },
+  "06277887-a05a-4e52-a1c7-bc4d2200eca7": {
+    "asset": 1546407772050,
+    "meta": 1541746680317,
+    "relativePath": "resources\\res"
+  },
+  "cadddfa7-6004-4ae3-8e22-ed337c19d81d": {
+    "asset": 1548229373306,
+    "meta": 1546565506748,
+    "relativePath": "res\\game\\pve\\gate"
+  },
+  "4aee334b-6b1e-4f0d-892a-d5dc70f94c82": {
+    "asset": 1548229373694,
+    "meta": 1546565506749,
+    "relativePath": "res\\game\\pve\\pveStar"
+  },
+  "aebf53a8-f198-4860-96b2-d52c2e5916ef": {
+    "asset": 1546565506922,
+    "meta": 1548232467322,
+    "relativePath": "res\\game\\pve\\pveStar\\star_01.png"
+  },
+  "ff32625b-60b4-431a-b607-0c754aa6f39c": {
+    "asset": 1546565506939,
+    "meta": 1548232467324,
+    "relativePath": "res\\game\\pve\\pveStar\\star_02.png"
+  },
+  "a94b53e3-603f-43c5-8556-894cfecabc59": {
+    "asset": 1546565506945,
+    "meta": 1548232467334,
+    "relativePath": "res\\game\\pve\\pveStar\\star_03.png"
+  },
+  "d2d2bde8-1e2f-4622-9510-4ac512c0fe88": {
+    "asset": 1546565506983,
+    "meta": 1548232467336,
+    "relativePath": "res\\game\\pve\\pveStar\\star_04.png"
+  },
+  "d41d89b0-7002-4141-aef1-a78568a0306d": {
+    "asset": 1546565506996,
+    "meta": 1548232467346,
+    "relativePath": "res\\game\\pve\\pveStar\\star_05.png"
+  },
+  "f7ccb87a-6c8b-4319-9506-6584662fb6f5": {
+    "asset": 1546565507026,
+    "meta": 1548232467348,
+    "relativePath": "res\\game\\pve\\pveStar\\star_06.png"
+  },
+  "4c918b7e-c462-466a-b879-42099b43a81b": {
+    "asset": 1546565507034,
+    "meta": 1548232467357,
+    "relativePath": "res\\game\\pve\\pveStar\\star_07.png"
+  },
+  "b4689a22-385a-472b-8403-e5d9a98a0522": {
+    "asset": 1546565507047,
+    "meta": 1548232467364,
+    "relativePath": "res\\game\\pve\\pveStar\\star_08.png"
+  },
+  "45052abe-3057-4ac3-bed7-f198ac21cb2c": {
+    "asset": 1546565506927,
+    "meta": 1548232467376,
+    "relativePath": "res\\game\\pve\\pveStar\\star_10.png"
+  },
+  "adb3cd6a-bf38-4818-9836-ff3b49437004": {
+    "asset": 1546565507057,
+    "meta": 1548232467368,
+    "relativePath": "res\\game\\pve\\pveStar\\star_09.png"
+  },
+  "bdc7fa0a-a24b-442d-8e62-7b1beb655e6e": {
+    "asset": 1546565506953,
+    "meta": 1548232467388,
+    "relativePath": "res\\game\\pve\\pveStar\\star_12.png"
+  },
+  "0c679ca9-506a-4f41-a0ed-ba8850bde2f5": {
+    "asset": 1546565506940,
+    "meta": 1548232467381,
+    "relativePath": "res\\game\\pve\\pveStar\\star_11.png"
+  },
+  "a98b0eda-aa68-469d-9c6d-bcfb7c10fcea": {
+    "asset": 1546565506965,
+    "meta": 1548232467392,
+    "relativePath": "res\\game\\pve\\pveStar\\star_13.png"
+  },
+  "005cc600-e939-46f0-b0dc-638c4c1bb21d": {
+    "asset": 1546565506994,
+    "meta": 1548232467403,
+    "relativePath": "res\\game\\pve\\pveStar\\star_14.png"
+  },
+  "c5532ee0-a70f-4c69-9ff4-dc23b5bc5fc5": {
+    "asset": 1546565507014,
+    "meta": 1548232467405,
+    "relativePath": "res\\game\\pve\\pveStar\\star_15.png"
+  },
+  "63b29461-2588-4ffc-a7cc-eb521c9ca7ec": {
+    "asset": 1548229371300,
+    "meta": 1544522095753,
+    "relativePath": "res\\game\\tiles\\spawnZZJ"
+  },
+  "05629f31-0508-4149-9440-e56e5fbe29d9": {
+    "asset": 1544522097741,
+    "meta": 1548232468641,
+    "relativePath": "res\\game\\tiles\\spawnZZJ\\gx0001.png"
+  },
+  "ba139015-66ed-487c-a8e9-20486eef5f09": {
+    "asset": 1544522097775,
+    "meta": 1548232468640,
+    "relativePath": "res\\game\\tiles\\spawnZZJ\\gx0002.png"
+  },
+  "1eb89aad-0782-400b-82c7-85c5a79cb579": {
+    "asset": 1544522097780,
+    "meta": 1548232468655,
+    "relativePath": "res\\game\\tiles\\spawnZZJ\\gx0003.png"
+  },
+  "0b71b218-caf3-4dbc-8681-9a8bd3febe9c": {
+    "asset": 1544522097825,
+    "meta": 1548232468653,
+    "relativePath": "res\\game\\tiles\\spawnZZJ\\gx0004.png"
+  },
+  "2977d651-6419-475c-be72-45f2cfa463aa": {
+    "asset": 1544522097840,
+    "meta": 1548232468673,
+    "relativePath": "res\\game\\tiles\\spawnZZJ\\gx0005.png"
+  },
+  "b63771ed-d74d-49da-a8db-d222adcd22a7": {
+    "asset": 1544522097861,
+    "meta": 1548232468670,
+    "relativePath": "res\\game\\tiles\\spawnZZJ\\gx0006.png"
+  },
+  "5df280e5-78df-42a7-9950-b2d2c104c82a": {
+    "asset": 1548229369480,
+    "meta": 1544522107396,
+    "relativePath": "res\\audio"
+  },
+  "104f09db-fc6f-482e-a870-9219e5204e5f": {
+    "asset": 1544522108798,
+    "meta": 1548232467160,
+    "relativePath": "res\\audio\\snd_bg_pve.mp3"
+  },
+  "71b0355f-d32a-4d46-bf14-5cc596b47046": {
+    "asset": 1544776332212,
+    "meta": 1548232469551,
+    "relativePath": "res\\prefab\\layerScore\\pve\\green-back.png"
+  },
+  "955378cf-c7ff-4a10-8560-a3b14ed60890": {
+    "asset": 1544522115842,
+    "meta": 1548232470150,
+    "relativePath": "resources\\res\\prefab\\createRole\\green-confirm.png"
+  },
+  "d1367c2f-aa80-4f0d-afc1-6775181f1207": {
+    "asset": 1544522107468,
+    "meta": 1548232469786,
+    "relativePath": "res\\preload\\green-login.png"
+  },
+  "37af69a9-4e61-4d9f-a5d0-a95b77859522": {
+    "asset": 1546048986295,
+    "meta": 1548232467966,
+    "relativePath": "res\\game\\pvp\\ui\\green-giveup.png"
+  },
+  "43aee029-8f4f-4a5e-b4f3-bcbf0d3447f0": {
+    "asset": 1544776332128,
+    "meta": 1548232469553,
+    "relativePath": "res\\prefab\\layerScore\\pve\\green-restart.png"
+  },
+  "84520bb2-ebd8-4653-9f9f-d3aaf67a7d06": {
+    "asset": 1544776334533,
+    "meta": 1548232469724,
+    "relativePath": "res\\prefab\\rankList\\own-no.png"
+  },
+  "6e015586-8652-42fd-b6d2-8a7e6bee7a54": {
+    "asset": 1544776332444,
+    "meta": 1548232469585,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\grey-opleave.png"
+  },
+  "cf4e0bc4-5eaf-47ca-983f-ccc566e51c5b": {
+    "asset": 1544776333059,
+    "meta": 1548232469606,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\red-again.png"
+  },
+  "efde4583-43d6-4e4e-9b1d-db8c32e57ed6": {
+    "asset": 1546048986601,
+    "meta": 1548232468008,
+    "relativePath": "res\\game\\pvp\\ui\\red-continue.png"
+  },
+  "4287e5e2-c561-4529-97fa-ed350512ab86": {
+    "asset": 1544776332955,
+    "meta": 1548232469604,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\red-continueMatch.png"
+  },
+  "1d2b734a-e572-444c-9bc0-56ff0d1da88e": {
+    "asset": 1544776332199,
+    "meta": 1548232469559,
+    "relativePath": "res\\prefab\\layerScore\\pve\\red-exitpve.png"
+  },
+  "69ab7963-ad9d-4d02-adef-601206e138f3": {
+    "asset": 1544776332951,
+    "meta": 1548232469613,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\red-opinvite.png"
+  },
+  "6a380c2e-29a1-47c8-83b7-11aa245153a0": {
+    "asset": 1544776332268,
+    "meta": 1548232469561,
+    "relativePath": "res\\prefab\\layerScore\\pve\\red-pveagain.png"
+  },
+  "fd89d3a7-60e6-4db7-83e9-0ef5be6a8c20": {
+    "asset": 1544776332999,
+    "meta": 1548232469614,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\red-waitagree.png"
+  },
+  "aa4275be-a58d-4473-8545-2a360acb14f4": {
+    "asset": 1544522104393,
+    "meta": 1548232468817,
+    "relativePath": "res\\game\\ui\\red-pvestart.png"
+  },
+  "d79aa759-46e8-4e17-9509-f7bbc5d233a3": {
+    "asset": 1544776334771,
+    "meta": 1548232469772,
+    "relativePath": "res\\prefab\\rankList\\tab-allrank2.png"
+  },
+  "cde49877-60ac-4ce7-9443-f80013afa3f0": {
+    "asset": 1544776334748,
+    "meta": 1548232469765,
+    "relativePath": "res\\prefab\\rankList\\tab-allrank1.png"
+  },
+  "ae898fa6-9c7d-4965-b79b-fe54daeaa3aa": {
+    "asset": 1544776334735,
+    "meta": 1548232469773,
+    "relativePath": "res\\prefab\\rankList\\tab-friendrank1.png"
+  },
+  "2eb40911-7d7e-44da-abd8-1adfba55ec21": {
+    "asset": 1544776334753,
+    "meta": 1548232469780,
+    "relativePath": "res\\prefab\\rankList\\tab-friendrank2.png"
+  },
+  "c33db9cc-55a8-4412-bc81-76e93d809ffd": {
+    "asset": 1546048979935,
+    "meta": 1548232469334,
+    "relativePath": "res\\prefab\\achievement\\tab-pve1.png"
+  },
+  "a7e07201-672a-46eb-ac82-67e519e981dc": {
+    "asset": 1546048979976,
+    "meta": 1548232469346,
+    "relativePath": "res\\prefab\\achievement\\tab-pve2.png"
+  },
+  "004a7cce-cdc3-45b0-b2ae-e67b34bdb9c9": {
+    "asset": 1546048980078,
+    "meta": 1548232469354,
+    "relativePath": "res\\prefab\\achievement\\tab-pvp2.png"
+  },
+  "4dfd2637-2fe0-44f4-8268-2c2708d2f62e": {
+    "asset": 1546048980072,
+    "meta": 1548232469353,
+    "relativePath": "res\\prefab\\achievement\\tab-pvp1.png"
+  },
+  "7556316b-6ca2-4aeb-9253-d7e9772d11bc": {
+    "asset": 1544776332170,
+    "meta": 1548232469569,
+    "relativePath": "res\\prefab\\layerScore\\pve\\word-jiangli.png"
+  },
+  "f3044500-c9a3-42f9-86ce-edb9e308abbf": {
+    "asset": 1544776332253,
+    "meta": 1548232469568,
+    "relativePath": "res\\prefab\\layerScore\\pve\\word-fenshu.png"
+  },
+  "90107d3c-a0ad-4128-ad78-efeb9b3a35cd": {
+    "asset": 1544522104407,
+    "meta": 1548232468818,
+    "relativePath": "res\\game\\ui\\word-score.png"
+  },
+  "da7f60c8-5ae3-4dbe-a23e-6ec2ae0a935e": {
+    "asset": 1544522094654,
+    "meta": 1548232469127,
+    "relativePath": "res\\levelChoose\\common\\word-target.png"
+  },
+  "704d6ff5-9c18-4815-ab47-0b8ef510c273": {
+    "asset": 1546048980270,
+    "meta": 1548232469372,
+    "relativePath": "res\\prefab\\achievement\\yellow-doflaut.png"
+  },
+  "a9ef60a9-18db-4296-b7c8-53f952d288dc": {
+    "asset": 1544776332094,
+    "meta": 1548232469575,
+    "relativePath": "res\\prefab\\layerScore\\pve\\yellow-nextlevel.png"
+  },
+  "74b94588-fac7-48d7-870f-ecb882866af5": {
+    "asset": 1546565507298,
+    "meta": 1548232468827,
+    "relativePath": "res\\game\\ui\\yellow-GO.png"
+  },
+  "d4eb3121-2929-4ae6-b56d-d32f9d4951e2": {
+    "asset": 1547449358123,
+    "meta": 1547449386215,
+    "relativePath": "res\\ui\\common\\bmFont\\levelFont.fnt"
+  },
+  "41d1d045-40d6-4033-ad2c-6da5d980cd52": {
+    "asset": 1547449358100,
+    "meta": 1548232469938,
+    "relativePath": "res\\ui\\common\\bmFont\\levelFont.png"
+  },
+  "386c19da-a50d-4f31-b5d6-ac2b18fc9d4d": {
+    "asset": 1547449357864,
+    "meta": 1547449386218,
+    "relativePath": "res\\ui\\common\\bmFont\\outline_golden.fnt"
+  },
+  "d5fcbc40-7ed3-4d8a-8ec5-0964bd7b63a9": {
+    "asset": 1547449357817,
+    "meta": 1548232469947,
+    "relativePath": "res\\ui\\common\\bmFont\\outline_golden.png"
+  },
+  "44a15889-c190-4308-b4ee-92c2924ed8ae": {
+    "asset": 1547449358049,
+    "meta": 1547449386222,
+    "relativePath": "res\\ui\\common\\bmFont\\pveScore.fnt"
+  },
+  "aeaad7f7-e450-4866-aca0-6f2fad09d573": {
+    "asset": 1547449358044,
+    "meta": 1548232469954,
+    "relativePath": "res\\ui\\common\\bmFont\\pveScore.png"
+  },
+  "80e14ab8-0132-43b2-8b8c-d77e5ec1af74": {
+    "asset": 1547449358026,
+    "meta": 1547449386235,
+    "relativePath": "res\\ui\\common\\bmFont\\ranknum_blue.fnt"
+  },
+  "cd397514-efb7-435e-8d7c-f925a419be78": {
+    "asset": 1547449358011,
+    "meta": 1548232469962,
+    "relativePath": "res\\ui\\common\\bmFont\\ranknum_blue.png"
+  },
+  "50cced3b-0b46-46dd-b721-d57e1b259a8e": {
+    "asset": 1547449358158,
+    "meta": 1547449386244,
+    "relativePath": "res\\ui\\common\\bmFont\\scoreNum_blue.fnt"
+  },
+  "37a39732-be06-4bf0-a656-a934211b8c93": {
+    "asset": 1547449358138,
+    "meta": 1548232469971,
+    "relativePath": "res\\ui\\common\\bmFont\\scoreNum_blue.png"
+  },
+  "8bc2dcd9-0975-437e-ae51-53dfce80dea2": {
+    "asset": 1547449357726,
+    "meta": 1547449386246,
+    "relativePath": "res\\ui\\common\\bmFont\\scoreNum_red.fnt"
+  },
+  "a9d95e30-9382-42cc-bc48-3aaec3e7be11": {
+    "asset": 1548229369621,
+    "meta": 1544776331233,
+    "relativePath": "res\\particle"
+  },
+  "d7977cc5-58cf-462d-bf66-0322e61e88cb": {
+    "asset": 1544776334957,
+    "meta": 1548232470505,
+    "relativePath": "res\\particle\\particle_bg.plist"
+  },
+  "97279ae9-37a3-4cd4-8f7b-c848bfea084e": {
+    "asset": 1544776334966,
+    "meta": 1548232470508,
+    "relativePath": "res\\particle\\particle_energy.plist"
+  },
+  "3a49b767-0379-48bc-b47c-a7ef46007cde": {
+    "asset": 1547449357708,
+    "meta": 1548232469972,
+    "relativePath": "res\\ui\\common\\bmFont\\scoreNum_red.png"
+  },
+  "11532ed1-9dcb-4bf2-9297-9d65c4cd5aee": {
+    "asset": 1548229375546,
+    "meta": 1541746680048,
+    "relativePath": "resources\\res\\share"
+  },
+  "ce5c675b-9130-4c67-9176-35bfe7790a7e": {
+    "asset": 1541746670807,
+    "meta": 1548232470375,
+    "relativePath": "resources\\res\\share\\juju.jpg"
+  },
+  "319c39d0-e9a8-48a6-85f9-6d272c1556bd": {
+    "asset": 1541746670817,
+    "meta": 1548232470360,
+    "relativePath": "resources\\res\\share\\fruit.jpg"
+  },
+  "2e7cd227-79f5-47c0-ab63-14d2ea14411a": {
+    "asset": 1548229375192,
+    "meta": 1544522108940,
+    "relativePath": "res\\spine"
+  },
+  "e745ed6f-6993-46b4-bc07-d765eb48258a": {
+    "asset": 1546565507340,
+    "meta": 1548232468704,
+    "relativePath": "res\\game\\ui\\anim\\bk-light.png"
+  },
+  "ccc8e563-1a4b-414e-9f79-e10ee33a3098": {
+    "asset": 1546565507375,
+    "meta": 1548232468705,
+    "relativePath": "res\\game\\ui\\anim\\icon-fruites.png"
+  },
+  "d79f0b37-0265-47ea-9137-c4c8dbbb6e4c": {
+    "asset": 1546565507377,
+    "meta": 1548232468714,
+    "relativePath": "res\\game\\ui\\anim\\star-1.png"
+  },
+  "314615a1-40c5-493e-965a-366af81f298d": {
+    "asset": 1546565507385,
+    "meta": 1548232468715,
+    "relativePath": "res\\game\\ui\\anim\\star-2.png"
+  },
+  "2971dff6-c3ea-495f-9346-a27b1b9f7355": {
+    "asset": 1546565507396,
+    "meta": 1548232468726,
+    "relativePath": "res\\game\\ui\\anim\\star-3.png"
+  },
+  "52e9a0f5-e8b5-4dba-9e03-4979e1d63e6f": {
+    "asset": 1544522104159,
+    "meta": 1548232467500,
+    "relativePath": "res\\game\\pve\\word-BonusTime.png"
+  },
+  "2b5ffc00-d53e-4eb4-89e2-65411b2d49d1": {
+    "asset": 1546565507339,
+    "meta": 1548232468738,
+    "relativePath": "res\\game\\ui\\anim\\word-TiaoZhanJieShu.png"
+  },
+  "d690dd9c-d776-4181-aacd-d354cbec4a4a": {
+    "asset": 1546565507465,
+    "meta": 1548232468765,
+    "relativePath": "res\\game\\ui\\guide-hand.png"
+  },
+  "5ba18951-287b-48b1-8d71-e3e850ebdfd3": {
+    "asset": 1546565507310,
+    "meta": 1548232468758,
+    "relativePath": "res\\game\\ui\\guide-bk.png"
+  },
+  "9f1ffa11-e785-4366-b089-c09b95093314": {
+    "asset": 1546565507500,
+    "meta": 1548232468767,
+    "relativePath": "res\\game\\ui\\guide-hand2.png"
+  },
+  "99826f7e-be6a-4dc8-996d-9affd5320dea": {
+    "asset": 1546565507294,
+    "meta": 1548232468777,
+    "relativePath": "res\\game\\ui\\guide-npc.png"
+  },
+  "dc8a350d-9415-4ca1-857b-cc65da824d40": {
+    "asset": 1546565507312,
+    "meta": 1548232468789,
+    "relativePath": "res\\game\\ui\\guide-npc2.png"
+  },
+  "5bac7ab1-67de-42ef-8e49-33e16e0645bb": {
+    "asset": 1546565507504,
+    "meta": 1548232468808,
+    "relativePath": "res\\game\\ui\\img_word_objective.png"
+  },
+  "75687d99-c353-4ca6-8678-f993738df70b": {
+    "asset": 1546565507301,
+    "meta": 1548232468810,
+    "relativePath": "res\\game\\ui\\mask-frame.png"
+  },
+  "59631e09-40df-4a2f-8f0f-52cbd175af9a": {
+    "asset": 1548229373840,
+    "meta": 1544522095738,
+    "relativePath": "res\\game\\pve"
+  },
+  "cee9596f-f053-40e1-8cc8-f00373a9a9e0": {
+    "asset": 1544776331888,
+    "meta": 1548232469512,
+    "relativePath": "res\\prefab\\layerScore\\common\\bk-title-win.png"
+  },
+  "0ed890fd-f9e4-485b-b25a-c9aaa6f42737": {
+    "asset": 1544522104168,
+    "meta": 1548232467217,
+    "relativePath": "res\\game\\pve\\content-bg2.png"
+  },
+  "766229fe-6bb6-4a83-b7b1-7cede58f2ad5": {
+    "asset": 1544522103889,
+    "meta": 1548232467220,
+    "relativePath": "res\\game\\pve\\effect-star-white.png"
+  },
+  "6a5f86b0-fec9-47b2-ab5d-a00862b77e93": {
+    "asset": 1544776332241,
+    "meta": 1548232469546,
+    "relativePath": "res\\prefab\\layerScore\\pve\\effect-light.png"
+  },
+  "66084ed7-077e-4906-9089-0484abc9443e": {
+    "asset": 1546565505693,
+    "meta": 1548232469523,
+    "relativePath": "res\\prefab\\layerScore\\common\\lose-bk-cloud.png"
+  },
+  "110b83f9-321e-44ed-85fd-841a3bd95701": {
+    "asset": 1544522103762,
+    "meta": 1548232467281,
+    "relativePath": "res\\game\\pve\\lose-content-bg.png"
+  },
+  "d72e1bff-de61-4fe5-b0b9-868ce585f4c8": {
+    "asset": 1544522104127,
+    "meta": 1548232467296,
+    "relativePath": "res\\game\\pve\\pve-bk-blue.png"
+  },
+  "001c9818-4b37-40c9-84c0-cec22af6f788": {
+    "asset": 1544522104042,
+    "meta": 1548232467305,
+    "relativePath": "res\\game\\pve\\pve-star.png"
+  },
+  "ad5a0d21-f878-42d9-90d5-2cb44daa30eb": {
+    "asset": 1544776331892,
+    "meta": 1548232469520,
+    "relativePath": "res\\prefab\\layerScore\\common\\pve-title-lose.png"
+  },
+  "f26c9937-1ca8-4f1a-b501-757c970bbaab": {
+    "asset": 1544776331897,
+    "meta": 1548232469530,
+    "relativePath": "res\\prefab\\layerScore\\common\\result-draw.png"
+  },
+  "b42f07d6-99c5-4c4c-8ab1-6701df213466": {
+    "asset": 1544776331819,
+    "meta": 1548232469532,
+    "relativePath": "res\\prefab\\layerScore\\common\\result-lose.png"
+  },
+  "1398a113-94fc-4917-b46e-8986d900ae9b": {
+    "asset": 1544776331911,
+    "meta": 1548232469541,
+    "relativePath": "res\\prefab\\layerScore\\common\\result-win.png"
+  },
+  "cf68ebed-8a9d-4bc0-adec-cf469f75323d": {
+    "asset": 1544522103989,
+    "meta": 1548232467485,
+    "relativePath": "res\\game\\pve\\win-content-bg.png"
+  },
+  "6690f99f-0ded-42bb-bb7b-bc6946b38986": {
+    "asset": 1544522098240,
+    "meta": 1548232468046,
+    "relativePath": "res\\game\\tiles\\baozhu\\arrow.png"
+  },
+  "0f2e37d7-a957-4120-9eb4-6ef59ef54c2a": {
+    "asset": 1544522096520,
+    "meta": 1548232468548,
+    "relativePath": "res\\game\\tiles\\other\\bk-3.png"
+  },
+  "be7dfdf7-7c09-4410-8194-a94e65383609": {
+    "asset": 1544522096554,
+    "meta": 1548232468555,
+    "relativePath": "res\\game\\tiles\\other\\bk-4.png"
+  },
+  "52c93108-a5cc-46f1-a42a-9ddbb10df695": {
+    "asset": 1546565507423,
+    "meta": 1548232468692,
+    "relativePath": "res\\game\\ui\\anim\\bk-cloud1.png"
+  },
+  "fe000f8e-3a66-422e-ace4-8046a57a8b57": {
+    "asset": 1544522096013,
+    "meta": 1548232468184,
+    "relativePath": "res\\game\\tiles\\bomb\\bomb-2.png"
+  },
+  "e7fcff11-e951-4c01-a073-4df65b2a89b7": {
+    "asset": 1544522095947,
+    "meta": 1548232468185,
+    "relativePath": "res\\game\\tiles\\bomb\\bomb-fire.png"
+  },
+  "1966aa98-c5a7-4e77-9c3b-2fbe20293710": {
+    "asset": 1544522095819,
+    "meta": 1548232468193,
+    "relativePath": "res\\game\\tiles\\bomb\\bomb-light.png"
+  },
+  "f066beb6-328f-4540-a488-caf4cd54a6d2": {
+    "asset": 1544522095986,
+    "meta": 1548232468194,
+    "relativePath": "res\\game\\tiles\\bomb\\bomb-light2.png"
+  },
+  "60f2def6-d471-4334-8bdb-891813fce7dc": {
+    "asset": 1544522095805,
+    "meta": 1548232468204,
+    "relativePath": "res\\game\\tiles\\bomb\\bomb.png"
+  },
+  "5c7ec7a0-0309-4e1b-b77c-1e9908aaf28b": {
+    "asset": 1544522096433,
+    "meta": 1548232468569,
+    "relativePath": "res\\game\\tiles\\other\\img_transport.png"
+  },
+  "74fce32b-1ca9-4780-80fd-35b0faf562c2": {
+    "asset": 1544522096617,
+    "meta": 1548232468577,
+    "relativePath": "res\\game\\tiles\\other\\effeft-halo1.png"
+  },
+  "ea593a5a-e004-424c-80a4-5059a74cc30e": {
+    "asset": 1544522096445,
+    "meta": 1548232468579,
+    "relativePath": "res\\game\\tiles\\other\\obstacle-1.png"
+  },
+  "8e42a7ab-c562-4f6f-af03-22b64b35cef3": {
+    "asset": 1544522096594,
+    "meta": 1548232468586,
+    "relativePath": "res\\game\\tiles\\other\\obstacle-5.png"
+  },
+  "58897a80-f34e-4300-af40-62f42871b0b4": {
+    "asset": 1544522096560,
+    "meta": 1548232468597,
+    "relativePath": "res\\game\\tiles\\other\\tileBg_light.png"
+  },
+  "d5a24b18-2c0f-4589-b3a9-1041a76de896": {
+    "asset": 1544522096601,
+    "meta": 1548232468587,
+    "relativePath": "res\\game\\tiles\\other\\obstacle-6.png"
+  },
+  "e91c04c3-9b10-4a0d-9502-757fe8a40af6": {
+    "asset": 1544522098893,
+    "meta": 1548232468346,
+    "relativePath": "res\\game\\tiles\\fruit\\vegetable-2.png"
+  },
+  "69b57806-6eea-4337-9c6c-840a75ccbe28": {
+    "asset": 1544522098884,
+    "meta": 1548232468338,
+    "relativePath": "res\\game\\tiles\\fruit\\vegetable-1.png"
+  },
+  "e62bd562-6a90-4d28-93a4-d39cdd39c04e": {
+    "asset": 1544522098820,
+    "meta": 1548232468353,
+    "relativePath": "res\\game\\tiles\\fruit\\vegetable-5.png"
+  },
+  "aa291807-16ae-46c0-b43f-c95d922ab0f2": {
+    "asset": 1544522098805,
+    "meta": 1548232468347,
+    "relativePath": "res\\game\\tiles\\fruit\\vegetable-3.png"
+  },
+  "5ff0d82c-cebc-47bd-9897-75d8d268bc84": {
+    "asset": 1544522098846,
+    "meta": 1548232468362,
+    "relativePath": "res\\game\\tiles\\fruit\\vegetable-6.png"
+  },
+  "12d995d1-522b-43fd-800f-68a97219f94c": {
+    "asset": 1546565507364,
+    "meta": 1548232468724,
+    "relativePath": "res\\game\\ui\\anim\\word-Readygo.png"
+  },
+  "e23ab1f2-7c78-4112-bd5c-8aaa4493150e": {
+    "asset": 1544522099994,
+    "meta": 1548232468319,
+    "relativePath": "res\\game\\tiles\\fengche\\zhazhiji-bk.png"
+  },
+  "1aacf844-d880-4b08-84fc-482628e917a2": {
+    "asset": 1544522103731,
+    "meta": 1548232467193,
+    "relativePath": "res\\game\\pve\\arrow-down.png"
+  },
+  "aac6072d-5264-4284-9f26-e0639474fa7e": {
+    "asset": 1544522096450,
+    "meta": 1548232468543,
+    "relativePath": "res\\game\\tiles\\other\\bk-1.png"
+  },
+  "15ecffa5-6b55-471c-8409-165297a2bdc6": {
+    "asset": 1544522103885,
+    "meta": 1548232467207,
+    "relativePath": "res\\game\\pve\\bk-board.png"
+  },
+  "fa831ade-456d-48b6-88fc-457aaa626068": {
+    "asset": 1544522104420,
+    "meta": 1548232468740,
+    "relativePath": "res\\game\\ui\\bk-bubble.png"
+  },
+  "04249e09-6f4c-4ba9-a3d0-55acca522350": {
+    "asset": 1544522096497,
+    "meta": 1548232468556,
+    "relativePath": "res\\game\\tiles\\other\\bk-2.png"
+  },
+  "ca6236e0-4730-461d-882a-6baeeecdff4e": {
+    "asset": 1544522104523,
+    "meta": 1548232468746,
+    "relativePath": "res\\game\\ui\\bk-bubble2.png"
+  },
+  "f4f8ecc0-c639-4aa0-b05e-27dabca9fe50": {
+    "asset": 1544522104008,
+    "meta": 1548232467210,
+    "relativePath": "res\\game\\pve\\collect-base.png"
+  },
+  "1980904c-c574-4115-93ff-c02b6e4c13cc": {
+    "asset": 1547704116785,
+    "meta": 1548232470055,
+    "relativePath": "res\\ui\\common\\icon-lock.png"
+  },
+  "56e3cd18-0a1c-40f1-8d6e-95d00f64a5a4": {
+    "asset": 1544522104360,
+    "meta": 1548232468755,
+    "relativePath": "res\\game\\ui\\collect-bubble.png"
+  },
+  "dfb6cad9-78b1-40b2-95fd-2679bee540f2": {
+    "asset": 1544522104054,
+    "meta": 1548232467262,
+    "relativePath": "res\\game\\pve\\icon-select.png"
+  },
+  "84606b1c-0792-4459-9da4-2ffbe713c16a": {
+    "asset": 1546565507477,
+    "meta": 1548232468785,
+    "relativePath": "res\\game\\ui\\icon-luobo.png"
+  },
+  "e9c0e43e-f32a-425c-aa48-91587f074989": {
+    "asset": 1544522104112,
+    "meta": 1548232467264,
+    "relativePath": "res\\game\\pve\\img_check.png"
+  },
+  "9c0af39f-5b56-4d21-85cd-1aa8c6e4bff5": {
+    "asset": 1544522103927,
+    "meta": 1548232467270,
+    "relativePath": "res\\game\\pve\\img_cross.png"
+  },
+  "3b588d47-34ea-4cfc-923a-f2e7372a5acb": {
+    "asset": 1544522103673,
+    "meta": 1548232467272,
+    "relativePath": "res\\game\\pve\\img_last_step.png"
+  },
+  "8a7bd48e-7496-4ada-80cf-ae375022d0a1": {
+    "asset": 1546048986161,
+    "meta": 1548232467976,
+    "relativePath": "res\\game\\pvp\\ui\\img_give_up.png"
+  },
+  "f97b038b-6001-4e1f-b44c-1664f96af42d": {
+    "asset": 1544522104340,
+    "meta": 1548232468794,
+    "relativePath": "res\\game\\ui\\img_last_time.png"
+  },
+  "2aba64b8-6259-45ba-ba76-5d7d48aa2505": {
+    "asset": 1544522104488,
+    "meta": 1548232468799,
+    "relativePath": "res\\game\\ui\\img_level.png"
+  },
+  "08ffeb9a-172b-40d4-9ffa-272f2d368680": {
+    "asset": 1544522104122,
+    "meta": 1548232467283,
+    "relativePath": "res\\game\\pve\\img_pause.png"
+  },
+  "d2c9ef72-232a-46c1-9d77-a014ff7710f3": {
+    "asset": 1544522104425,
+    "meta": 1548232468804,
+    "relativePath": "res\\game\\ui\\img_tip.png"
+  },
+  "21dd9bde-db01-4f00-819a-5fd97fd4626d": {
+    "asset": 1546928890115,
+    "meta": 1548232467434,
+    "relativePath": "res\\game\\pve\\Score-bar.png"
+  },
+  "db3d5965-b9a7-47a9-958f-9be469c6ec67": {
+    "asset": 1546928890156,
+    "meta": 1548232467467,
+    "relativePath": "res\\game\\pve\\Score-bar1.png"
+  },
+  "80be6261-5a32-4840-822a-a100a0a4a634": {
+    "asset": 1544522103737,
+    "meta": 1548232467452,
+    "relativePath": "res\\game\\pve\\Score-bar2.png"
+  },
+  "94bc4d3d-29b5-4dcf-8ea2-471b98d3b726": {
+    "asset": 1544522103753,
+    "meta": 1548232467458,
+    "relativePath": "res\\game\\pve\\Score-bar3.png"
+  },
+  "86b4e99f-8bc7-48a0-9d5b-5f90584b7ea6": {
+    "asset": 1544522103779,
+    "meta": 1548232467474,
+    "relativePath": "res\\game\\pve\\Score-bar5.png"
+  },
+  "d457c3ff-d81f-4337-aa79-e9ef95b75f68": {
+    "asset": 1544522103769,
+    "meta": 1548232467466,
+    "relativePath": "res\\game\\pve\\Score-bar4.png"
+  },
+  "c1e27a9c-1f15-4abe-b5a7-4230cddab2e6": {
+    "asset": 1544522103893,
+    "meta": 1548232467476,
+    "relativePath": "res\\game\\pve\\Score-star.png"
+  },
+  "a3422e63-91ad-491e-b33f-8dda69c8b44b": {
+    "asset": 1544522104415,
+    "meta": 1548232468826,
+    "relativePath": "res\\game\\ui\\word-second.png"
+  },
+  "409c1850-b23f-48de-ae50-3da551344878": {
+    "asset": 1544522104195,
+    "meta": 1548232467494,
+    "relativePath": "res\\game\\pve\\word-step.png"
+  },
+  "d504b815-a3f0-47a1-8cdc-b291fbee6fd4": {
+    "asset": 1544522107722,
+    "meta": 1548232468881,
+    "relativePath": "res\\home\\icon-bag.png"
+  },
+  "f61146de-e209-4b7a-81a2-1a473909fc63": {
+    "asset": 1544522107713,
+    "meta": 1548232468852,
+    "relativePath": "res\\home\\button-6.png"
+  },
+  "7b797d45-5467-4899-ad26-c785b7fa5bdc": {
+    "asset": 1544522107776,
+    "meta": 1548232468897,
+    "relativePath": "res\\home\\icon-shop.png"
+  },
+  "ba218514-614d-4051-9b05-f0d8f12083d1": {
+    "asset": 1544522107728,
+    "meta": 1548232468889,
+    "relativePath": "res\\home\\icon-rank.png"
+  },
+  "599f6e01-3111-4186-b5dc-5ebfe98a3006": {
+    "asset": 1544522107665,
+    "meta": 1548232468998,
+    "relativePath": "res\\home\\word-bag.png"
+  },
+  "052928cf-dd53-4555-97ca-10c382756866": {
+    "asset": 1544522107753,
+    "meta": 1548232468899,
+    "relativePath": "res\\home\\icon-sign.png"
+  },
+  "dbcaff35-46ba-42b4-874a-20d3c4b7a3e7": {
+    "asset": 1544522107767,
+    "meta": 1548232468997,
+    "relativePath": "res\\home\\word-chuangguan.png"
+  },
+  "937ba850-6585-4912-88ac-ffb75bafb7ba": {
+    "asset": 1544522107811,
+    "meta": 1548232469005,
+    "relativePath": "res\\home\\word-duizhan.png"
+  },
+  "dc736e9d-cd00-4df6-9863-f769c0fa65c5": {
+    "asset": 1544522107739,
+    "meta": 1548232469005,
+    "relativePath": "res\\home\\word-qiandao.png"
+  },
+  "2e1d069b-284e-43c8-b831-80b41a1e653c": {
+    "asset": 1544522107792,
+    "meta": 1548232469012,
+    "relativePath": "res\\home\\word-rank.png"
+  },
+  "56fe9257-9da0-469e-8bdc-edfc4e528cdd": {
+    "asset": 1544522107846,
+    "meta": 1548232469013,
+    "relativePath": "res\\home\\word-shop.png"
+  },
+  "3d2c9a33-8a86-4b7d-bd44-7b68642731c2": {
+    "asset": 1548229367046,
+    "meta": 1544522106238,
+    "relativePath": "res\\pics"
+  },
+  "41f19065-4ec5-4166-a066-2cc643784abc": {
+    "asset": 1544522108358,
+    "meta": 1548232469265,
+    "relativePath": "res\\pics\\img_bg_game.jpg"
+  },
+  "a4d04643-d047-414b-9fd2-70c9de13e773": {
+    "asset": 1544522108341,
+    "meta": 1548232469257,
+    "relativePath": "res\\pics\\img_bg_gameover.jpg"
+  },
+  "09d2c91c-745d-48e4-89af-03d2c17e267e": {
+    "asset": 1544522108411,
+    "meta": 1548232469282,
+    "relativePath": "res\\pics\\img_bg_gameover2.jpg"
+  },
+  "1e04f20d-8596-496d-912c-e7023d050ad9": {
+    "asset": 1547194269435,
+    "meta": 1548232469291,
+    "relativePath": "res\\pics\\img_bg_home.jpg"
+  },
+  "657d4b67-8178-488a-9328-134da5b25c4d": {
+    "asset": 1544522108370,
+    "meta": 1548232469307,
+    "relativePath": "res\\pics\\img_bg_loading.jpg"
+  },
+  "7a697cd4-6a4f-4abe-8a19-b76430d2da28": {
+    "asset": 1544522108353,
+    "meta": 1548232469320,
+    "relativePath": "res\\pics\\img_bg_login.jpg"
+  },
+  "2e0132b5-9b59-49cb-867c-7a43aaed06cd": {
+    "asset": 1544776335983,
+    "meta": 1544522113039,
+    "relativePath": "resources\\res\\prefab"
+  },
+  "9d368e1c-5b02-4d28-8ceb-084bffb4a9ca": {
+    "asset": 1548229367688,
+    "meta": 1546048980342,
+    "relativePath": "res\\prefab\\achievement"
+  },
+  "9240c2c2-2eda-4096-b60d-07b619576f42": {
+    "asset": 1546048980053,
+    "meta": 1548232469345,
+    "relativePath": "res\\prefab\\achievement\\bk-mark.png"
+  },
+  "307a53d1-c155-45cd-801e-fe0a188da97e": {
+    "asset": 1546048980094,
+    "meta": 1548232469316,
+    "relativePath": "res\\prefab\\achievement\\bk-2.png"
+  },
+  "783661de-6222-4f06-b2ed-a488d06529fb": {
+    "asset": 1546048980107,
+    "meta": 1548232469328,
+    "relativePath": "res\\prefab\\achievement\\tab-normal.png"
+  },
+  "35710e79-cfbf-4cd8-86d9-7a6ee53bda1c": {
+    "asset": 1546048980012,
+    "meta": 1548232469362,
+    "relativePath": "res\\prefab\\achievement\\tab-select.png"
+  },
+  "7895edc3-86cf-4e6f-b906-a35c86e09b36": {
+    "asset": 1546048980302,
+    "meta": 1548232469364,
+    "relativePath": "res\\prefab\\achievement\\title-PersonalInformation.png"
+  },
+  "76172a61-b869-4c51-947b-dd1852db0a0a": {
+    "asset": 1548229375441,
+    "meta": 1544522115673,
+    "relativePath": "resources\\res\\prefab\\createRole"
+  },
+  "bc748cbb-68d6-439e-b172-83baec1baea2": {
+    "asset": 1546048980182,
+    "meta": 1548232469370,
+    "relativePath": "res\\prefab\\achievement\\word-target.png"
+  },
+  "04022788-6aa7-4beb-9587-c2ca43926390": {
+    "asset": 1544522115824,
+    "meta": 1548232470160,
+    "relativePath": "resources\\res\\prefab\\createRole\\icon-dice.png"
+  },
+  "101b4f23-23b7-4d60-910c-a8ca6313aee3": {
+    "asset": 1544522115878,
+    "meta": 1548232470169,
+    "relativePath": "resources\\res\\prefab\\createRole\\icon-select.png"
+  },
+  "279580cb-ffdb-42ad-b579-fea16000f627": {
+    "asset": 1544522115699,
+    "meta": 1548232470170,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_1.png"
+  },
+  "8a9c7781-610e-4a5b-adb5-4ebbebd0f2c0": {
+    "asset": 1544522115738,
+    "meta": 1548232470177,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_2.png"
+  },
+  "9d92a0b2-543c-49b2-afe7-71836f0eebef": {
+    "asset": 1544522115757,
+    "meta": 1548232470179,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_3.png"
+  },
+  "8e2dd3d1-d68b-4ba7-8019-8abb886c86d4": {
+    "asset": 1544522115769,
+    "meta": 1548232470188,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_4.png"
+  },
+  "5401ee8d-6b24-43a6-858b-c84d1839b5d6": {
+    "asset": 1544522115786,
+    "meta": 1548232470199,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_6.png"
+  },
+  "22cef74e-7679-499c-a3ea-45c475c68511": {
+    "asset": 1544522115781,
+    "meta": 1548232470190,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_5.png"
+  },
+  "03c44ade-7232-4439-9a39-1cba96304691": {
+    "asset": 1544522115800,
+    "meta": 1548232470198,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_7.png"
+  },
+  "957ee89c-bdba-4d2b-9596-645e64498c2d": {
+    "asset": 1544522115804,
+    "meta": 1548232470208,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_8.png"
+  },
+  "b63e159f-3f35-403f-b435-edfec464a8d2": {
+    "asset": 1544522115809,
+    "meta": 1548232470208,
+    "relativePath": "resources\\res\\prefab\\createRole\\img_head_9.png"
+  },
+  "3e8f04cb-f15e-419a-825d-acb58954f546": {
+    "asset": 1544522115818,
+    "meta": 1548232470217,
+    "relativePath": "resources\\res\\prefab\\createRole\\word-CreatRole.png"
+  },
+  "f049320c-d234-4a5d-943d-4756040d84e2": {
+    "asset": 1544522115881,
+    "meta": 1548232470216,
+    "relativePath": "resources\\res\\prefab\\createRole\\word-GengHuan.png"
+  },
+  "49a32d15-54a8-4b0e-a05d-8d19e5cbb989": {
+    "asset": 1548229368964,
+    "meta": 1544776334482,
+    "relativePath": "res\\prefab\\layerMatch"
+  },
+  "e76c7d2a-defb-4bdb-9136-f066b5276f7e": {
+    "asset": 1544776334121,
+    "meta": 1548232469467,
+    "relativePath": "res\\prefab\\layerMatch\\bk-match.png"
+  },
+  "76f5f8db-d4f5-4905-a5a7-eb5db460478a": {
+    "asset": 1544776334256,
+    "meta": 1548232469459,
+    "relativePath": "res\\prefab\\layerMatch\\bk-name.png"
+  },
+  "56ae03e6-c83e-43b3-8a7c-42b0bf2fc9da": {
+    "asset": 1544776334101,
+    "meta": 1548232469475,
+    "relativePath": "res\\prefab\\layerMatch\\frame-matching.png"
+  },
+  "8ee0e5d6-6e83-4ea0-b52c-6851f4db3029": {
+    "asset": 1544776334143,
+    "meta": 1548232469465,
+    "relativePath": "res\\prefab\\layerMatch\\bk-name2.png"
+  },
+  "f2054df6-844e-4fa4-9f67-36ca5befdf04": {
+    "asset": 1544776334207,
+    "meta": 1548232469483,
+    "relativePath": "res\\prefab\\layerMatch\\word-dot.png"
+  },
+  "ba501ae5-5aaa-432d-b301-4f877062fa62": {
+    "asset": 1544776334157,
+    "meta": 1548232469476,
+    "relativePath": "res\\prefab\\layerMatch\\word-Cheng.png"
+  },
+  "033287b6-dd55-44e7-863e-b3d53077a66a": {
+    "asset": 1544776334289,
+    "meta": 1548232469484,
+    "relativePath": "res\\prefab\\layerMatch\\word-exclamation.png"
+  },
+  "1c68b0e2-e103-422e-a59b-95d399650497": {
+    "asset": 1544776334125,
+    "meta": 1548232469492,
+    "relativePath": "res\\prefab\\layerMatch\\word-Pei.png"
+  },
+  "997091fe-a85e-42ce-a728-4d90662d8858": {
+    "asset": 1544776334168,
+    "meta": 1548232469500,
+    "relativePath": "res\\prefab\\layerMatch\\word-Wan.png"
+  },
+  "2140c9ec-cf0a-493c-a67c-58d4ac4782db": {
+    "asset": 1544776334079,
+    "meta": 1548232469493,
+    "relativePath": "res\\prefab\\layerMatch\\word-Pi.png"
+  },
+  "52723693-c7b1-409f-b27e-ebd6cbe4730e": {
+    "asset": 1548229367395,
+    "meta": 1544776334463,
+    "relativePath": "res\\prefab\\rankList"
+  },
+  "6ab02817-9b55-4ae9-b358-67818ea39756": {
+    "asset": 1544776334184,
+    "meta": 1548232469501,
+    "relativePath": "res\\prefab\\layerMatch\\word-Zhong.png"
+  },
+  "9b26776a-9cbb-423c-9097-00f2dc1874a6": {
+    "asset": 1544776334788,
+    "meta": 1548232469697,
+    "relativePath": "res\\prefab\\rankList\\btn-invite.png"
+  },
+  "30951ad3-5888-4f21-868c-7488b527fd8e": {
+    "asset": 1544776334599,
+    "meta": 1548232469733,
+    "relativePath": "res\\prefab\\rankList\\player-1.png"
+  },
+  "b8f5596e-75a1-4585-a4df-ed61ca940fa2": {
+    "asset": 1544776334626,
+    "meta": 1548232469735,
+    "relativePath": "res\\prefab\\rankList\\player-2.png"
+  },
+  "03bd1559-6968-4712-9c20-68fcfb35c436": {
+    "asset": 1544776334630,
+    "meta": 1548232469744,
+    "relativePath": "res\\prefab\\rankList\\player-3.png"
+  },
+  "03dcbc29-a653-4d1a-bd7d-b7e9c2555e80": {
+    "asset": 1544776334807,
+    "meta": 1548232469764,
+    "relativePath": "res\\prefab\\rankList\\rank-bk.png"
+  },
+  "874c6565-cc32-4c7b-a870-421f60af46b6": {
+    "asset": 1544776334862,
+    "meta": 1548232469706,
+    "relativePath": "res\\prefab\\rankList\\empty-pic.png"
+  },
+  "cb902e94-8f20-4a22-bc41-018dece62611": {
+    "asset": 1544776334515,
+    "meta": 1548232469699,
+    "relativePath": "res\\prefab\\rankList\\empty-lable.png"
+  },
+  "d5b1841e-6f4a-4b49-823f-f25fe444878e": {
+    "asset": 1544776334555,
+    "meta": 1548232469714,
+    "relativePath": "res\\prefab\\rankList\\medal-1.png"
+  },
+  "b1c11cdd-310d-49bb-8985-3190d9ec5bd8": {
+    "asset": 1544776334659,
+    "meta": 1548232469708,
+    "relativePath": "res\\prefab\\rankList\\icon-location.png"
+  },
+  "494ebb1d-adb0-4ba2-aa13-dc9e16b6e86c": {
+    "asset": 1544776334563,
+    "meta": 1548232469716,
+    "relativePath": "res\\prefab\\rankList\\medal-2.png"
+  },
+  "9b3a642e-1fbf-40d7-b34d-5191716d81ec": {
+    "asset": 1544776334580,
+    "meta": 1548232469722,
+    "relativePath": "res\\prefab\\rankList\\medal-3.png"
+  },
+  "9f56857e-8fc1-4882-8c80-f98038d91052": {
+    "asset": 1544776334588,
+    "meta": 1548232469745,
+    "relativePath": "res\\prefab\\rankList\\rank-bk-me.png"
+  },
+  "79ecead2-beca-49b8-9238-d7f44a7a3e22": {
+    "asset": 1544776334524,
+    "meta": 1548232469752,
+    "relativePath": "res\\prefab\\rankList\\rank-bk-normal.png"
+  },
+  "862a96cf-af30-48a5-bb78-fcba293a87be": {
+    "asset": 1548229374272,
+    "meta": 1546928890697,
+    "relativePath": "res\\loading\\watting"
+  },
+  "46440a2f-621b-4550-bb34-61066b3f1f90": {
+    "asset": 1546928890759,
+    "meta": 1548232469202,
+    "relativePath": "res\\loading\\watting\\loading-circle.png"
+  },
+  "bde7bd30-ed72-4396-8932-15f579fe7dec": {
+    "asset": 1546928890784,
+    "meta": 1548232469217,
+    "relativePath": "res\\loading\\watting\\loading-fruit.png"
+  },
+  "3f00d3a2-b8f6-41b8-ab89-f4def452029d": {
+    "asset": 1546928890799,
+    "meta": 1548232469208,
+    "relativePath": "res\\loading\\watting\\loading-star.png"
+  },
+  "33f9af81-b8f5-4aa9-ba7e-10d19f39cd34": {
+    "asset": 1544522107440,
+    "meta": 1548232469795,
+    "relativePath": "res\\preload\\loading-bar.png"
+  },
+  "184ccaf6-51ea-44a6-8f14-477768c6ded6": {
+    "asset": 1548229375717,
+    "meta": 1544522115917,
+    "relativePath": "resources\\res\\rank"
+  },
+  "c65e3400-54cb-4a46-8987-081c47311f44": {
+    "asset": 1544522107482,
+    "meta": 1548232469804,
+    "relativePath": "res\\preload\\loading-bk.png"
+  },
+  "2a75ce75-696a-4284-a83c-f0571f70572b": {
+    "asset": 1544522113937,
+    "meta": 1548232470249,
+    "relativePath": "resources\\res\\rank\\rank-1.png"
+  },
+  "715bdea2-3b89-4d4c-a470-f60ffacc3acb": {
+    "asset": 1544522114085,
+    "meta": 1548232470258,
+    "relativePath": "resources\\res\\rank\\rank-11.png"
+  },
+  "055bbfbf-13b8-4784-9117-548d42b9e240": {
+    "asset": 1544522114080,
+    "meta": 1548232470257,
+    "relativePath": "resources\\res\\rank\\rank-10.png"
+  },
+  "803e3a60-473c-4858-accf-cf9866188bc9": {
+    "asset": 1544522114093,
+    "meta": 1548232470267,
+    "relativePath": "resources\\res\\rank\\rank-13.png"
+  },
+  "51c1a4b5-8c64-4e14-ae03-64e1a3a35bd6": {
+    "asset": 1544522114089,
+    "meta": 1548232470268,
+    "relativePath": "resources\\res\\rank\\rank-12.png"
+  },
+  "3cdf5387-e7f1-4c14-ba60-a3ab3ca2c7fd": {
+    "asset": 1544522114097,
+    "meta": 1548232470276,
+    "relativePath": "resources\\res\\rank\\rank-14.png"
+  },
+  "db619e44-6873-4cef-884a-49d34f9f2acb": {
+    "asset": 1544522114103,
+    "meta": 1548232470279,
+    "relativePath": "resources\\res\\rank\\rank-15.png"
+  },
+  "7d0701ee-9d69-4a83-a72e-c2947a6dc17c": {
+    "asset": 1544522113805,
+    "meta": 1548232470289,
+    "relativePath": "resources\\res\\rank\\rank-16.png"
+  },
+  "275c372f-2424-4712-a2fc-bb1922ef434a": {
+    "asset": 1544522113810,
+    "meta": 1548232470287,
+    "relativePath": "resources\\res\\rank\\rank-17.png"
+  },
+  "a39b1a86-7198-4b23-98fc-b1c9d1805d12": {
+    "asset": 1544522113815,
+    "meta": 1548232470299,
+    "relativePath": "resources\\res\\rank\\rank-18.png"
+  },
+  "6879990c-f15a-43c0-9f96-eafd494f37bf": {
+    "asset": 1544522113829,
+    "meta": 1548232470298,
+    "relativePath": "resources\\res\\rank\\rank-19.png"
+  },
+  "804a4cfe-4320-44b4-8c35-a00545074315": {
+    "asset": 1544522113942,
+    "meta": 1548232470307,
+    "relativePath": "resources\\res\\rank\\rank-2.png"
+  },
+  "4fd25393-5245-41d4-a0e7-a0a9867fc930": {
+    "asset": 1544522113874,
+    "meta": 1548232470308,
+    "relativePath": "resources\\res\\rank\\rank-20.png"
+  },
+  "c53b335b-19e7-4e16-b863-3fe7d0114dce": {
+    "asset": 1544522113879,
+    "meta": 1548232470319,
+    "relativePath": "resources\\res\\rank\\rank-21.png"
+  },
+  "f40d4c21-765b-449f-92c9-44a19c8b6af7": {
+    "asset": 1544522113893,
+    "meta": 1548232470318,
+    "relativePath": "resources\\res\\rank\\rank-22.png"
+  },
+  "b7e4d8d9-75c8-4a1a-8977-0f17fd1b67f5": {
+    "asset": 1544522113957,
+    "meta": 1548232470327,
+    "relativePath": "resources\\res\\rank\\rank-3.png"
+  },
+  "14fcd8e6-a09c-4e9c-a244-45257ee237ad": {
+    "asset": 1544522113979,
+    "meta": 1548232470329,
+    "relativePath": "resources\\res\\rank\\rank-4.png"
+  },
+  "e8bcbb1a-0c1f-45f6-8358-9e2636c1fc95": {
+    "asset": 1544522113992,
+    "meta": 1548232470337,
+    "relativePath": "resources\\res\\rank\\rank-6.png"
+  },
+  "9d291b5c-e1f1-491f-bdad-f1f4bc0e52fd": {
+    "asset": 1544522113984,
+    "meta": 1548232470336,
+    "relativePath": "resources\\res\\rank\\rank-5.png"
+  },
+  "6690ec64-8cc0-4bd5-b2c5-d1262118e95b": {
+    "asset": 1544522114011,
+    "meta": 1548232470344,
+    "relativePath": "resources\\res\\rank\\rank-7.png"
+  },
+  "788dbd08-29df-4a97-9b0b-a79ad8dd10ff": {
+    "asset": 1544522114035,
+    "meta": 1548232470347,
+    "relativePath": "resources\\res\\rank\\rank-8.png"
+  },
+  "b30b26a0-b839-42b0-872c-e2dc01eb2212": {
+    "asset": 1544522114064,
+    "meta": 1548232470355,
+    "relativePath": "resources\\res\\rank\\rank-9.png"
+  },
+  "5f66e12c-3b77-4e90-b0de-e2c5dbc529b4": {
+    "asset": 1547449358944,
+    "meta": 1548232469917,
+    "relativePath": "res\\ui\\common\\bk-detail.png"
+  },
+  "7ddaaa3e-9647-4c09-bf74-88c76eb036e3": {
+    "asset": 1547449359322,
+    "meta": 1544522108935,
+    "relativePath": "res\\ui"
+  },
+  "a5393fe9-f342-4138-a2fa-3e27714f801a": {
+    "asset": 1547449358740,
+    "meta": 1548232469887,
+    "relativePath": "res\\ui\\common\\bar-light.png"
+  },
+  "de533bfd-4171-4926-9ed9-57711a486890": {
+    "asset": 1547449358557,
+    "meta": 1548232469912,
+    "relativePath": "res\\ui\\common\\bk-dark.png"
+  },
+  "1c925950-0891-47ae-8487-70ac7b1fa328": {
+    "asset": 1547449357502,
+    "meta": 1548232469982,
+    "relativePath": "res\\ui\\common\\button-back.png"
+  },
+  "cca8dff0-c10e-491e-bf4e-c80c9f7e634c": {
+    "asset": 1547449359012,
+    "meta": 1548232469992,
+    "relativePath": "res\\ui\\common\\button-green.png"
+  },
+  "51b55192-d1ef-4f1f-adab-44cb3a14d283": {
+    "asset": 1547449358909,
+    "meta": 1548232469990,
+    "relativePath": "res\\ui\\common\\button-green1.png"
+  },
+  "84a1081e-3af8-481b-92d3-f345855c8dd5": {
+    "asset": 1547449358864,
+    "meta": 1548232470014,
+    "relativePath": "res\\ui\\common\\button-pause.png"
+  },
+  "5dee9826-e031-4a63-b551-65474d671311": {
+    "asset": 1547449357269,
+    "meta": 1548232470000,
+    "relativePath": "res\\ui\\common\\button-light.png"
+  },
+  "e4c156ca-1a72-4e16-b9d9-3205d4a4dfd7": {
+    "asset": 1547449357397,
+    "meta": 1548232470005,
+    "relativePath": "res\\ui\\common\\button-plus.png"
+  },
+  "e27ca265-5c18-4e25-baef-147a22a8b901": {
+    "asset": 1547449358846,
+    "meta": 1548232470020,
+    "relativePath": "res\\ui\\common\\button-red.png"
+  },
+  "245d8acd-e9fa-45c8-8d0c-b56ac6b8c33c": {
+    "asset": 1547449357439,
+    "meta": 1548232470028,
+    "relativePath": "res\\ui\\common\\button-red2.png"
+  },
+  "ba8fedec-8ab8-4141-b52c-b5ca0601a670": {
+    "asset": 1547449357418,
+    "meta": 1548232470022,
+    "relativePath": "res\\ui\\common\\button-red1.png"
+  },
+  "2dfe9eea-1663-4e6a-b989-bcbc00acae5e": {
+    "asset": 1547449357316,
+    "meta": 1548232470031,
+    "relativePath": "res\\ui\\common\\button-yellow.png"
+  },
+  "cb1501b4-2044-4628-a184-5e4a8dee6595": {
+    "asset": 1547449358722,
+    "meta": 1548232470039,
+    "relativePath": "res\\ui\\common\\button-yellow1.png"
+  },
+  "68677582-7d08-4b9c-a6e2-e9cbdd5d9841": {
+    "asset": 1547449357668,
+    "meta": 1548232470073,
+    "relativePath": "res\\ui\\common\\icon-star.png"
+  },
+  "7e45772f-9ee6-49e4-bc2f-a08a968191b1": {
+    "asset": 1547449357566,
+    "meta": 1548232470056,
+    "relativePath": "res\\ui\\common\\icon-jinbi.png"
+  },
+  "6d9bba34-c272-4ea6-b243-aaa26bede829": {
+    "asset": 1547449357586,
+    "meta": 1548232470072,
+    "relativePath": "res\\ui\\common\\icon-tili.png"
+  },
+  "99596f3a-52c2-4d91-ae82-6e386ec51345": {
+    "asset": 1547449357462,
+    "meta": 1548232470080,
+    "relativePath": "res\\ui\\common\\icon-zuanshi.png"
+  },
+  "a6117fde-9037-4979-a00e-e3d75e90ddd6": {
+    "asset": 1547449357846,
+    "meta": 1548232469944,
+    "relativePath": "res\\ui\\common\\bmFont\\line2.png"
+  },
+  "8942faf6-e487-44dd-8fce-0e71eb7bf342": {
+    "asset": 1547449357632,
+    "meta": 1548232470119,
+    "relativePath": "res\\ui\\common\\star2.png"
+  },
+  "e56336e0-c662-4ff1-9143-d392ba912344": {
+    "asset": 1547449358584,
+    "meta": 1548232470093,
+    "relativePath": "res\\ui\\common\\img_toast.png"
+  },
+  "5aa9e4dd-83eb-4d2b-92ee-2312c1f0f3a7": {
+    "asset": 1547449358812,
+    "meta": 1548232470092,
+    "relativePath": "res\\ui\\common\\img_back_panel.png"
+  },
+  "6b84edfb-f2a8-4933-a26b-42c58b0f9ea7": {
+    "asset": 1547449358603,
+    "meta": 1548232469923,
+    "relativePath": "res\\ui\\common\\bk-tube.png"
+  },
+  "22f00d29-faca-440f-84ec-ef29757b35c6": {
+    "asset": 1546565507493,
+    "meta": 1548232468748,
+    "relativePath": "res\\game\\ui\\bk-txt.png"
+  },
+  "270e8145-46c4-44c9-af5e-329ad9df0146": {
+    "asset": 1547449357606,
+    "meta": 1548232470038,
+    "relativePath": "res\\ui\\common\\frame-1.png"
+  },
+  "34fd89d7-1e02-45c6-ae97-ebb9c7abf26b": {
+    "asset": 1544776332474,
+    "meta": 1548232469595,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\effect-light.png"
+  },
+  "cd3fcce1-4120-4475-a687-0de7655d996f": {
+    "asset": 1547449358533,
+    "meta": 1548232470046,
+    "relativePath": "res\\ui\\common\\frame-enemy.png"
+  },
+  "007e4da2-f607-496d-85cf-d99cdf11e0f4": {
+    "asset": 1547449358933,
+    "meta": 1548232470048,
+    "relativePath": "res\\ui\\common\\frame-own.png"
+  },
+  "bc676d25-cf9e-4ed4-81d6-a3c62e20c32b": {
+    "asset": 1544522115731,
+    "meta": 1548232470160,
+    "relativePath": "resources\\res\\prefab\\createRole\\icon-normal.png"
+  },
+  "3279eb15-008e-49f8-b6e2-101fe554d4de": {
+    "asset": 1547449358691,
+    "meta": 1548232470063,
+    "relativePath": "res\\ui\\common\\icon-nan.png"
+  },
+  "b98c033f-803f-4487-99d1-2d227be92020": {
+    "asset": 1547449358765,
+    "meta": 1548232470064,
+    "relativePath": "res\\ui\\common\\icon-nv.png"
+  },
+  "c332a124-3329-47cc-b908-f4c865fdb61d": {
+    "asset": 1548744760767,
+    "meta": 1541746681479,
+    "relativePath": "scenes"
+  },
+  "1bedb46c-acc1-4bde-9762-7c815f19f81f": {
+    "asset": 1541746681752,
+    "meta": 1541746681133,
+    "relativePath": "scripts"
+  },
+  "7c8548aa-3c7a-4b75-81ba-9e3133724e04": {
+    "asset": 1547449354731,
+    "meta": 1541746681482,
+    "relativePath": "scripts\\app"
+  },
+  "c46af600-7f59-4a7e-9228-d6878c531bab": {
+    "asset": 1548229168278,
+    "meta": 1541746683372,
+    "relativePath": "scripts\\app\\common"
+  },
+  "bf49f584-0627-423b-8650-1424aef5c880": {
+    "asset": 1548229365721,
+    "meta": 1541746683247,
+    "relativePath": "scripts\\app\\common\\config"
+  },
+  "ee1a9a86-4b9d-4298-9813-7302a70ba18e": {
+    "asset": 1541746682207,
+    "meta": 1541746987314,
+    "relativePath": "scripts\\app\\common\\config\\BaseConfig.ts"
+  },
+  "70a367cc-98bc-4c81-b1d5-82be3f822ec3": {
+    "asset": 1548229365721,
+    "meta": 1548229555628,
+    "relativePath": "scripts\\app\\common\\config\\ConfigEntry.ts"
+  },
+  "a2fb133e-a1d5-40e0-8917-6836018b06bd": {
+    "asset": 1548041271607,
+    "meta": 1541746682210,
+    "relativePath": "scripts\\app\\common\\config\\vo"
+  },
+  "11cc406c-7bb2-4496-8f9b-c6141d547f97": {
+    "asset": 1548319807205,
+    "meta": 1541746682336,
+    "relativePath": "scripts\\app\\common\\event"
+  },
+  "a90143dd-001c-4671-8799-3f5a721f4066": {
+    "asset": 1541746682308,
+    "meta": 1541746683250,
+    "relativePath": "scripts\\app\\common\\loader"
+  },
+  "0b4d4526-ba6b-409a-9163-eecb46840d67": {
+    "asset": 1541746682309,
+    "meta": 1541746987442,
+    "relativePath": "scripts\\app\\common\\loader\\LoadBatch.ts"
+  },
+  "691d11aa-a1e7-4a1b-8f7b-ae54531b8ee4": {
+    "asset": 1541746682297,
+    "meta": 1541746987488,
+    "relativePath": "scripts\\app\\common\\loader\\LoadDefine.ts"
+  },
+  "9e515df8-7ad2-4f9c-b5c5-c9b3c3645185": {
+    "asset": 1541746682293,
+    "meta": 1541746987509,
+    "relativePath": "scripts\\app\\common\\loader\\Loader.ts"
+  },
+  "4315cf4c-159e-4fb5-9be9-9f464343d1a5": {
+    "asset": 1541746682303,
+    "meta": 1541746987562,
+    "relativePath": "scripts\\app\\common\\loader\\LoadItem.ts"
+  },
+  "7c8922ca-0bb0-4846-b47a-eaafa4283a7b": {
+    "asset": 1548319807347,
+    "meta": 1541746682413,
+    "relativePath": "scripts\\app\\common\\net"
+  },
+  "06975196-4a60-4368-88bc-fed12bde2471": {
+    "asset": 1541746682738,
+    "meta": 1541746987743,
+    "relativePath": "scripts\\app\\common\\net\\NetByteArray.ts"
+  },
+  "fe4737e8-3e5a-4ee4-b722-b88c26e4e72f": {
+    "asset": 1548229365672,
+    "meta": 1541746683131,
+    "relativePath": "scripts\\app\\common\\net\\proto"
+  },
+  "e9e95622-bcde-4e56-bd9e-008d9adcbd63": {
+    "asset": 1547717000285,
+    "meta": 1541746683067,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods"
+  },
+  "24a6a24a-ee69-4662-b6b0-958a38c38135": {
+    "asset": 1541746683189,
+    "meta": 1541746682734,
+    "relativePath": "scripts\\app\\common\\net\\socket"
+  },
+  "db1bade2-6238-4643-aba1-db72d391ede6": {
+    "asset": 1541746683174,
+    "meta": 1541746988145,
+    "relativePath": "scripts\\app\\common\\net\\socket\\GameWebSocket.ts"
+  },
+  "ce06b1b6-1a7a-41f1-8753-a5394c348d2c": {
+    "asset": 1541746683177,
+    "meta": 1541746988148,
+    "relativePath": "scripts\\app\\common\\net\\socket\\InternalWebSocket.ts"
+  },
+  "77d42ed3-f3a6-4b4b-853b-7b58c8f4aca6": {
+    "asset": 1548319807445,
+    "meta": 1541746682416,
+    "relativePath": "scripts\\app\\common\\persist"
+  },
+  "64d73873-663e-4006-8b63-dfb33728eab9": {
+    "asset": 1541746683180,
+    "meta": 1541746988206,
+    "relativePath": "scripts\\app\\common\\net\\socket\\SocketDefine.ts"
+  },
+  "a5a6cffa-c71e-4024-b523-9d6a881c66e5": {
+    "asset": 1548053257884,
+    "meta": 1541746682339,
+    "relativePath": "scripts\\app\\common\\runtime"
+  },
+  "11972a18-ac31-40dc-a67b-d107c72cef17": {
+    "asset": 1548322825553,
+    "meta": 1541746681949,
+    "relativePath": "scripts\\app\\common\\social"
+  },
+  "7d8516ab-15f4-4d8b-9ca6-403cf3ab12ff": {
+    "asset": 1541746682422,
+    "meta": 1541746988261,
+    "relativePath": "scripts\\app\\common\\UInt64.ts"
+  },
+  "cf81c4ff-ebb1-47df-9214-ac6d2dfdc9dc": {
+    "asset": 1548229365628,
+    "meta": 1541746681945,
+    "relativePath": "scripts\\app\\component"
+  },
+  "3a42f654-ac04-4e7e-a864-06ba945fff0a": {
+    "asset": 1541746683670,
+    "meta": 1541746988304,
+    "relativePath": "scripts\\app\\component\\Animation.ts"
+  },
+  "d2f1b792-fe91-46c4-bd7b-a27911261ab7": {
+    "asset": 1541746683375,
+    "meta": 1541746988311,
+    "relativePath": "scripts\\app\\component\\BaseComponent.ts"
+  },
+  "a0bb40bf-5857-4951-aa61-ffdafb3708e6": {
+    "asset": 1541746684905,
+    "meta": 1541746988339,
+    "relativePath": "scripts\\app\\component\\BasePanel.ts"
+  },
+  "2f47efef-6044-48fa-9961-967fa2fd5743": {
+    "asset": 1548229364787,
+    "meta": 1541746683404,
+    "relativePath": "scripts\\app\\component\\game"
+  },
+  "df046102-a386-47de-95b8-ba7b7911f53c": {
+    "asset": 1543212278442,
+    "meta": 1543212306707,
+    "relativePath": "scripts\\app\\component\\game\\NodePool.ts"
+  },
+  "053dec62-e23a-4520-a604-21269c6195d2": {
+    "asset": 1548229364895,
+    "meta": 1541746684273,
+    "relativePath": "scripts\\app\\component\\game\\pve"
+  },
+  "ab172598-f58a-404a-8076-0b928cceb1ff": {
+    "asset": 1543212278970,
+    "meta": 1541746683667,
+    "relativePath": "scripts\\app\\component\\page"
+  },
+  "cca0e594-c9f2-4fa4-9da1-2672c5d5cc4c": {
+    "asset": 1548744760831,
+    "meta": 1541746684334,
+    "relativePath": "scripts\\app\\component\\page\\home"
+  },
+  "977c7de0-e836-4bb6-83fe-0dc10a01f3e9": {
+    "asset": 1548229365451,
+    "meta": 1548229557305,
+    "relativePath": "scripts\\app\\component\\page\\home\\DebugNetHandler.ts"
+  },
+  "b762fa77-db04-4093-855a-2d050e09ba99": {
+    "asset": 1541746684642,
+    "meta": 1541746990037,
+    "relativePath": "scripts\\app\\component\\page\\home\\HomeModule.ts"
+  },
+  "55391cd6-9aca-4778-80bf-aaf85a8d0c5f": {
+    "asset": 1548137826960,
+    "meta": 1541746684645,
+    "relativePath": "scripts\\app\\component\\page\\home\\prefab"
+  },
+  "8b91e03c-9490-483b-aa69-372ae6e49302": {
+    "asset": 1541746684723,
+    "meta": 1541746990308,
+    "relativePath": "scripts\\app\\component\\page\\home\\prefab\\Setting.ts"
+  },
+  "2c35e080-5d27-4f83-9657-b977623a2cb4": {
+    "asset": 1545097396111,
+    "meta": 1545097409503,
+    "relativePath": "scripts\\app\\component\\page\\home\\RoomDefine.ts"
+  },
+  "a54e6787-1c53-4627-a243-fc5b1c2a449d": {
+    "asset": 1548744761038,
+    "meta": 1541746684354,
+    "relativePath": "scripts\\app\\component\\page\\login"
+  },
+  "cd8d2124-e08d-4b32-8b7f-da04b2400b1d": {
+    "asset": 1546928893385,
+    "meta": 1546931424785,
+    "relativePath": "scripts\\app\\component\\page\\login\\AccCompCreateRole.ts"
+  },
+  "9ceb4525-c271-4aca-bb7f-cae9eb298d92": {
+    "asset": 1548744761039,
+    "meta": 1548744985076,
+    "relativePath": "scripts\\app\\component\\page\\login\\AccModule.ts"
+  },
+  "e9f81aa7-8630-47e5-8f46-d63d07fd0b39": {
+    "asset": 1547449354660,
+    "meta": 1547449385742,
+    "relativePath": "scripts\\app\\component\\page\\login\\PanelSelectServer.ts"
+  },
+  "2b644770-e408-4c24-92fe-072ad0795a96": {
+    "asset": 1548229364988,
+    "meta": 1541746684331,
+    "relativePath": "scripts\\app\\component\\page\\preload"
+  },
+  "fe07c621-502a-4e46-9ab6-9ccd86356b06": {
+    "asset": 1541746684386,
+    "meta": 1541746990523,
+    "relativePath": "scripts\\app\\component\\page\\preload\\DotAnimation.ts"
+  },
+  "82303353-a3f7-491f-83f4-a826a936e9b4": {
+    "asset": 1548229365630,
+    "meta": 1541746683382,
+    "relativePath": "scripts\\app\\component\\prefab"
+  },
+  "04dc0d61-3a41-49f1-bf81-0d2de062eeb4": {
+    "asset": 1541746683422,
+    "meta": 1541746990543,
+    "relativePath": "scripts\\app\\component\\prefab\\DelayActiveButton.ts"
+  },
+  "8f1202d9-b24a-4a13-b94f-0dd88de7ba9d": {
+    "asset": 1548229365630,
+    "meta": 1548229557501,
+    "relativePath": "scripts\\app\\component\\prefab\\PlayPlaymateHead.ts"
+  },
+  "0a6e3077-eaeb-470c-8ca9-45651ba80e16": {
+    "asset": 1541746683678,
+    "meta": 1541746990605,
+    "relativePath": "scripts\\app\\component\\Tips.ts"
+  },
+  "518a2423-37ff-4589-ad2c-d9521944bf13": {
+    "asset": 1541746681855,
+    "meta": 1541746683368,
+    "relativePath": "scripts\\app\\module"
+  },
+  "88210c98-9fde-49ea-9ece-8d83d99c7da8": {
+    "asset": 1541746681757,
+    "meta": 1541746681846,
+    "relativePath": "scripts\\app\\module\\data"
+  },
+  "a8f826e6-aa90-4127-9776-c01a8db37766": {
+    "asset": 1541746681853,
+    "meta": 1541746990618,
+    "relativePath": "scripts\\app\\module\\BaseModule.ts"
+  },
+  "74473f09-8655-4888-bd97-fd8fb2a62b67": {
+    "asset": 1548059538619,
+    "meta": 1541746681758,
+    "relativePath": "scripts\\app\\module\\data\\mod"
+  },
+  "c837ab6f-76fe-4060-9da6-22661244f372": {
+    "asset": 1541746681764,
+    "meta": 1541746990652,
+    "relativePath": "scripts\\app\\module\\data\\mod\\DataAcc.ts"
+  },
+  "80a7d0c3-8bf2-4138-9ec8-b00b499f48fd": {
+    "asset": 1541746681761,
+    "meta": 1541746990692,
+    "relativePath": "scripts\\app\\module\\data\\mod\\DataPlay.ts"
+  },
+  "422f3583-335e-4087-bcef-655353b2d476": {
+    "asset": 1541746681781,
+    "meta": 1541746990733,
+    "relativePath": "scripts\\app\\module\\data\\mod\\DataRoom.ts"
+  },
+  "22440039-4f42-40c8-acd1-2607525d687d": {
+    "asset": 1541746681857,
+    "meta": 1541746990738,
+    "relativePath": "scripts\\app\\module\\ModuleManager.ts"
+  },
+  "30aa5d91-7379-4095-9533-c0be8f6ff812": {
+    "asset": 1548319806303,
+    "meta": 1541746681753,
+    "relativePath": "scripts\\dyGame"
+  },
+  "146b1d7e-1b4c-403b-a45b-8ecdf8fa8c65": {
+    "asset": 1541746681843,
+    "meta": 1541746990742,
+    "relativePath": "scripts\\app\\module\\Modules.ts"
+  },
+  "dc11d2ec-80a9-46c0-b822-0f9767237542": {
+    "asset": 1548229365979,
+    "meta": 1541746681499,
+    "relativePath": "scripts\\dyGame\\component"
+  },
+  "903e3b1f-8086-4182-87ee-14ecac1b7b58": {
+    "asset": 1548229365979,
+    "meta": 1548229557766,
+    "relativePath": "scripts\\dyGame\\component\\ListView.ts"
+  },
+  "bbe5cf89-d0bf-4bb3-bbc8-bbe1f5814d7e": {
+    "asset": 1541746681553,
+    "meta": 1541746990800,
+    "relativePath": "scripts\\dyGame\\component\\PolygonHitTest.ts"
+  },
+  "b72a6d4c-73f7-4e62-b002-d29681d18b4d": {
+    "asset": 1541746681516,
+    "meta": 1541746990810,
+    "relativePath": "scripts\\dyGame\\Config.ts"
+  },
+  "0457bb2f-6be8-47f3-908d-8bf0899a386f": {
+    "asset": 1541746681646,
+    "meta": 1541746990853,
+    "relativePath": "scripts\\dyGame\\DYADMgr.ts"
+  },
+  "f78f443a-321f-4f70-9fe7-dd9139d4e3c9": {
+    "asset": 1541746681489,
+    "meta": 1541746990866,
+    "relativePath": "scripts\\dyGame\\DYAudio.ts"
+  },
+  "23292f66-d56d-438f-93c8-a7d3ffd9827d": {
+    "asset": 1541746681540,
+    "meta": 1541746990987,
+    "relativePath": "scripts\\dyGame\\DYCrypto.ts"
+  },
+  "d294d4fc-032a-4b2b-8f74-6f12048ddebe": {
+    "asset": 1541746681522,
+    "meta": 1541746991002,
+    "relativePath": "scripts\\dyGame\\DYData.ts"
+  },
+  "76345264-b483-4750-b837-7b5ad905e97d": {
+    "asset": 1541746681525,
+    "meta": 1541746991019,
+    "relativePath": "scripts\\dyGame\\DYGame.ts"
+  },
+  "973d6dda-5052-4dd0-aeab-9a14fba7e4b7": {
+    "asset": 1541746681632,
+    "meta": 1541746991064,
+    "relativePath": "scripts\\dyGame\\DYHttpMgr.ts"
+  },
+  "17f3ba42-c21e-4b87-a29e-c0c0917d0c16": {
+    "asset": 1541746681534,
+    "meta": 1541746991076,
+    "relativePath": "scripts\\dyGame\\DYIAPMgr.ts"
+  },
+  "2d5e007b-6f63-4885-9584-49ec38ec2b9b": {
+    "asset": 1547099412806,
+    "meta": 1547186326522,
+    "relativePath": "scripts\\dyGame\\DYLoader.ts"
+  },
+  "b9b2c6a1-d74c-4699-b5dc-eb7f5a422d43": {
+    "asset": 1541746681531,
+    "meta": 1541746991115,
+    "relativePath": "scripts\\dyGame\\DYLoginMgr.ts"
+  },
+  "0e1bfd7d-02f1-4c52-9d5a-78628b21c50d": {
+    "asset": 1541746681509,
+    "meta": 1541746991182,
+    "relativePath": "scripts\\dyGame\\DYShareMgr.ts"
+  },
+  "f6a70010-3396-43be-854d-b57f00200820": {
+    "asset": 1541746681486,
+    "meta": 1541746991186,
+    "relativePath": "scripts\\dyGame\\DYUtils.ts"
+  },
+  "23402bea-6d6f-4f8a-a436-3edfbef78cc0": {
+    "asset": 1546565505750,
+    "meta": 1544522108271,
+    "relativePath": "res\\levelChoose"
+  },
+  "2ae46899-1ee2-4713-8fb1-c0c9243c3257": {
+    "asset": 1544522094659,
+    "meta": 1548232469043,
+    "relativePath": "res\\levelChoose\\common\\base-normal.png"
+  },
+  "e542e0fe-e2d1-4fdd-b505-180a8edfbe30": {
+    "asset": 1544522094519,
+    "meta": 1548232469053,
+    "relativePath": "res\\levelChoose\\common\\base-unlocked.png"
+  },
+  "70713f5f-db25-43bb-8aee-f3b5bc342a2b": {
+    "asset": 1544522094540,
+    "meta": 1548232469058,
+    "relativePath": "res\\levelChoose\\common\\btnStartPve.png"
+  },
+  "570181e8-9ab6-472f-b9f2-abd55c4da086": {
+    "asset": 1544522094591,
+    "meta": 1548232469063,
+    "relativePath": "res\\levelChoose\\common\\house.png"
+  },
+  "9a698432-fc79-41e7-8007-b5569ff0e422": {
+    "asset": 1544522094582,
+    "meta": 1548232469071,
+    "relativePath": "res\\levelChoose\\common\\icon-player.png"
+  },
+  "045f1f57-93d9-43c9-b8ba-1c191e09d82a": {
+    "asset": 1544522094556,
+    "meta": 1548232469068,
+    "relativePath": "res\\levelChoose\\common\\icon-5heart.png"
+  },
+  "2362b4e9-9ef7-4b84-888b-2ab9a7f03f27": {
+    "asset": 1544522094577,
+    "meta": 1548232469080,
+    "relativePath": "res\\levelChoose\\common\\pve-cloud2.png"
+  },
+  "d7451ab7-7695-4456-9744-c00abb6b1a42": {
+    "asset": 1544522094643,
+    "meta": 1548232469121,
+    "relativePath": "res\\levelChoose\\common\\tree.png"
+  },
+  "ab3afefa-ccd8-4afe-81d3-0a7f064d4c09": {
+    "asset": 1544522094569,
+    "meta": 1548232469137,
+    "relativePath": "res\\levelChoose\\common\\windmill.png"
+  },
+  "d0ee6f64-0232-4f20-987c-5ba11e27105f": {
+    "asset": 1548229368802,
+    "meta": 1544776334473,
+    "relativePath": "res\\prefab\\energy"
+  },
+  "8f34fa7b-e033-4ed6-9043-9e5ace18e72f": {
+    "asset": 1544776333352,
+    "meta": 1548232469393,
+    "relativePath": "res\\prefab\\energy\\imgEnegyWord.png"
+  },
+  "08d23763-b47b-4641-aa00-22908aa86d59": {
+    "asset": 1544776333408,
+    "meta": 1548232469403,
+    "relativePath": "res\\prefab\\energy\\tili+10.png"
+  },
+  "36779dfc-ffd6-47c7-ac67-6c373e1b34a2": {
+    "asset": 1544776333555,
+    "meta": 1548232469419,
+    "relativePath": "res\\prefab\\energy\\wordOk.png"
+  },
+  "891eba8c-a210-4fa6-b08f-af2e74bb1e1c": {
+    "asset": 1544776333465,
+    "meta": 1548232469412,
+    "relativePath": "res\\prefab\\energy\\wordGetEnergy.png"
+  },
+  "e1b5bd02-5c54-4372-a540-8e02b9f4cd44": {
+    "asset": 1544776333432,
+    "meta": 1548232469433,
+    "relativePath": "res\\prefab\\energy\\wordShare2.png"
+  },
+  "77a10d33-6ff4-4e9c-955d-418b1708506b": {
+    "asset": 1544776333413,
+    "meta": 1548232469426,
+    "relativePath": "res\\prefab\\energy\\wordShare1.png"
+  },
+  "e6840fe2-a07a-4225-a304-c573af851ae1": {
+    "asset": 1544776333452,
+    "meta": 1548232469440,
+    "relativePath": "res\\prefab\\energy\\wordShare3.png"
+  },
+  "b1ee670f-54a3-45bd-a3e0-d36b7fe2a0c4": {
+    "asset": 1544776333905,
+    "meta": 1548232469441,
+    "relativePath": "res\\prefab\\energy\\wordTomorrow.png"
+  },
+  "b6f0747e-27d8-4795-bb7d-77d7d0395500": {
+    "asset": 1544776333378,
+    "meta": 1548232469453,
+    "relativePath": "res\\prefab\\energy\\wxIcon.png"
+  },
+  "177cb876-29cd-43d1-a829-ca11bfc8fc3b": {
+    "asset": 1542336443397,
+    "meta": 1548229555751,
+    "relativePath": "scripts\\app\\common\\net\\proto\\style.xsl"
+  },
+  "ee578fc7-a8fc-44f0-92e6-de04b5eef156": {
+    "asset": 1544522106692,
+    "meta": 1544522257414,
+    "relativePath": "res\\anim\\aniBlock_blue.anim"
+  },
+  "9b86e66c-139f-4090-8f51-f7f396b26421": {
+    "asset": 1544776330823,
+    "meta": 1544776395758,
+    "relativePath": "res\\anim\\aniBombArea.anim"
+  },
+  "37d360d7-b0a4-4012-9c01-bed1b8aeb27a": {
+    "asset": 1544522106738,
+    "meta": 1544522257518,
+    "relativePath": "res\\anim\\aniGameOver.anim"
+  },
+  "d3b0106d-3bba-4658-bd42-f15dd15f9dcf": {
+    "asset": 1544522106789,
+    "meta": 1544522257577,
+    "relativePath": "res\\anim\\aniOneColorBomb.anim"
+  },
+  "6db9044e-2941-45e2-82d4-a7da73585daf": {
+    "asset": 1544522106674,
+    "meta": 1544522257619,
+    "relativePath": "res\\anim\\aniZhazhijiBg.anim"
+  },
+  "3cbadb46-65f4-4864-8eae-7a5263b55062": {
+    "asset": 1542419594407,
+    "meta": 1548229554367,
+    "relativePath": "resources\\prefab\\home\\SettingsLayer.prefab"
+  },
+  "58519109-a2cb-495f-bee7-1fefec754611": {
+    "asset": 1542936899570,
+    "meta": 1548229554431,
+    "relativePath": "resources\\prefab\\login\\AccCreateRole.prefab"
+  },
+  "b5b08a53-edb1-40c9-8ef2-7a94da54f172": {
+    "asset": 1546565506817,
+    "meta": 1548232467226,
+    "relativePath": "res\\game\\pve\\gate\\effect-gate1.png"
+  },
+  "9002e77c-15f3-4c90-bb17-5ec0cdbbf122": {
+    "asset": 1546565506829,
+    "meta": 1548232467235,
+    "relativePath": "res\\game\\pve\\gate\\effect-gate3.png"
+  },
+  "5550d385-e8c1-4d9b-93c0-51fd35f809e3": {
+    "asset": 1546565506820,
+    "meta": 1548232467227,
+    "relativePath": "res\\game\\pve\\gate\\effect-gate2.png"
+  },
+  "aa04e002-704b-4e40-96a1-cd279e312b08": {
+    "asset": 1546565506766,
+    "meta": 1548232467246,
+    "relativePath": "res\\game\\pve\\gate\\effect2-gate1.png"
+  },
+  "23a1f22d-84f6-4de2-80bc-fb512e507d35": {
+    "asset": 1546565506831,
+    "meta": 1548232467237,
+    "relativePath": "res\\game\\pve\\gate\\effect-gate4.png"
+  },
+  "05e296d9-8ad0-4cc4-b569-98093a0cf5c2": {
+    "asset": 1546565506777,
+    "meta": 1548232467245,
+    "relativePath": "res\\game\\pve\\gate\\effect2-gate2.png"
+  },
+  "6fff4673-66be-4142-94ee-9d9cac9abbe9": {
+    "asset": 1546565506786,
+    "meta": 1548232467253,
+    "relativePath": "res\\game\\pve\\gate\\effect2-gate3.png"
+  },
+  "e4f4b1b1-45e6-4dfd-a6ee-4b90689fde49": {
+    "asset": 1546565506802,
+    "meta": 1548232467255,
+    "relativePath": "res\\game\\pve\\gate\\effect2-gate4.png"
+  },
+  "5e7d85a2-1e50-4701-a42a-243f33063071": {
+    "asset": 1542419599456,
+    "meta": 1542422141699,
+    "relativePath": "scripts\\dyGame\\DYAudioH.ts"
+  },
+  "ee05b0b8-02ea-4522-ac90-e360048da2c0": {
+    "asset": 1542348722746,
+    "meta": 1548229553114,
+    "relativePath": "resources\\config\\ServerList.json"
+  },
+  "bb044a21-d3f4-452f-8087-7499b3210878": {
+    "asset": 1544522106315,
+    "meta": 1544522257602,
+    "relativePath": "res\\anim\\aniSpawnWall.anim"
+  },
+  "9b6c76b1-298f-4ef5-b2de-1022709f1d2d": {
+    "asset": 1544522106828,
+    "meta": 1544522257609,
+    "relativePath": "res\\anim\\aniWallBloom.anim"
+  },
+  "7b6f71ff-738e-487a-b410-b5838b7b687a": {
+    "asset": 1544522106760,
+    "meta": 1544522257614,
+    "relativePath": "res\\anim\\aniWallDestroy.anim"
+  },
+  "4c143d5b-f83a-4dd6-a5bf-eaaaf235c2c4": {
+    "asset": 1544522106340,
+    "meta": 1544522257611,
+    "relativePath": "res\\anim\\aniZhazhiji.anim"
+  },
+  "ed70a08a-2e16-4375-94bd-88b7597cca32": {
+    "asset": 1544522106588,
+    "meta": 1544522257652,
+    "relativePath": "res\\anim\\lajiao-normal.anim"
+  },
+  "20294c5b-a3d2-4f8d-94c7-f9ff297db801": {
+    "asset": 1544522106439,
+    "meta": 1544522257668,
+    "relativePath": "res\\anim\\pveStar.anim"
+  },
+  "0c4fd3c2-deef-4ffc-a88a-0d5a0204f3b7": {
+    "asset": 1544522106453,
+    "meta": 1544522257671,
+    "relativePath": "res\\anim\\progressLight.anim"
+  },
+  "e618fdb7-ac25-4937-b338-6a6103e38e07": {
+    "asset": 1544522106292,
+    "meta": 1544522257700,
+    "relativePath": "res\\anim\\windmill1.anim"
+  },
+  "171cf1cb-4719-4794-b643-6a37563583af": {
+    "asset": 1544522106493,
+    "meta": 1544522257694,
+    "relativePath": "res\\anim\\windmill2.anim"
+  },
+  "bd9199e4-6135-43b9-9c1a-a27fcb5da94f": {
+    "asset": 1544522106637,
+    "meta": 1544522257697,
+    "relativePath": "res\\anim\\windmill3.anim"
+  },
+  "dfa2deeb-26c2-4bb0-913d-22e8db295ac3": {
+    "asset": 1544522095916,
+    "meta": 1548232468160,
+    "relativePath": "res\\game\\tiles\\bomb\\1.png"
+  },
+  "44ebf153-2acd-4a67-b7e0-965d52da963a": {
+    "asset": 1544776333127,
+    "meta": 1548232469596,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\grey-pveagain.png"
+  },
+  "11fc75c9-e9ab-4779-afc6-be192baa1296": {
+    "asset": 1544522095929,
+    "meta": 1548232468175,
+    "relativePath": "res\\game\\tiles\\bomb\\2.png"
+  },
+  "050439e4-e9aa-4f10-917f-559b83afa702": {
+    "asset": 1548229371933,
+    "meta": 1544522095791,
+    "relativePath": "res\\game\\tiles\\block"
+  },
+  "4b1d3fe2-0045-4a73-b0a0-91a5960e48f6": {
+    "asset": 1544522095956,
+    "meta": 1548232468174,
+    "relativePath": "res\\game\\tiles\\bomb\\3.png"
+  },
+  "d9ba9a0b-ccf8-483b-bf99-164e4c2c9523": {
+    "asset": 1544522099047,
+    "meta": 1548232468103,
+    "relativePath": "res\\game\\tiles\\block\\1.png"
+  },
+  "39486300-be45-46e1-9ddf-585dfefce709": {
+    "asset": 1544522099170,
+    "meta": 1548232468113,
+    "relativePath": "res\\game\\tiles\\block\\10.png"
+  },
+  "94ebdbf3-bd5b-4e5e-9232-19f338c38d84": {
+    "asset": 1544522099195,
+    "meta": 1548232468120,
+    "relativePath": "res\\game\\tiles\\block\\12.png"
+  },
+  "64740295-aa0b-47b5-984f-23a240c71456": {
+    "asset": 1544522099068,
+    "meta": 1548232468122,
+    "relativePath": "res\\game\\tiles\\block\\2.png"
+  },
+  "ed11839a-e347-455f-aeff-f298ea7fd535": {
+    "asset": 1544522099178,
+    "meta": 1548232468111,
+    "relativePath": "res\\game\\tiles\\block\\11.png"
+  },
+  "4080738b-5207-4435-a623-e2fe455c9af5": {
+    "asset": 1544522099077,
+    "meta": 1548232468131,
+    "relativePath": "res\\game\\tiles\\block\\3.png"
+  },
+  "e91b7100-8033-41d4-a033-453227db023a": {
+    "asset": 1544522099094,
+    "meta": 1548232468139,
+    "relativePath": "res\\game\\tiles\\block\\5.png"
+  },
+  "1cbf07a7-352d-4dc0-8ec2-e8e2a564042f": {
+    "asset": 1544522099112,
+    "meta": 1548232468140,
+    "relativePath": "res\\game\\tiles\\block\\6.png"
+  },
+  "a0adb9f1-dddd-471e-bfee-c61e650caa2c": {
+    "asset": 1544522099090,
+    "meta": 1548232468130,
+    "relativePath": "res\\game\\tiles\\block\\4.png"
+  },
+  "bb11d813-8d96-4ec2-b8f0-f8f07197cc9b": {
+    "asset": 1544522099139,
+    "meta": 1548232468151,
+    "relativePath": "res\\game\\tiles\\block\\7.png"
+  },
+  "573b4c01-e014-4a28-bd52-8e385f2668c5": {
+    "asset": 1544522099150,
+    "meta": 1548232468150,
+    "relativePath": "res\\game\\tiles\\block\\8.png"
+  },
+  "e38f9f11-2fb5-4a4b-82a8-95437a785e78": {
+    "asset": 1544522099158,
+    "meta": 1548232468161,
+    "relativePath": "res\\game\\tiles\\block\\9.png"
+  },
+  "a08b1878-b59a-40df-be86-d8dce1149301": {
+    "asset": 1544522099838,
+    "meta": 1548232468278,
+    "relativePath": "res\\game\\tiles\\fengche\\xuanwo_1.png"
+  },
+  "78d4b78d-c177-4cc4-abc2-1a09c9c9bbd1": {
+    "asset": 1544522099862,
+    "meta": 1548232468284,
+    "relativePath": "res\\game\\tiles\\fengche\\xuanwo_3.png"
+  },
+  "f57c76bd-30c7-4a46-8f9e-8db6f60682ff": {
+    "asset": 1544522094456,
+    "meta": 1548232469112,
+    "relativePath": "res\\levelChoose\\common\\tili-5.png"
+  },
+  "8dd1dcfe-b9f5-4bcb-9805-52c130d898f8": {
+    "asset": 1544522104094,
+    "meta": 1548232467307,
+    "relativePath": "res\\game\\pve\\pve-star-light.png"
+  },
+  "12265260-3228-44ac-aab8-c2741f34777b": {
+    "asset": 1546048986745,
+    "meta": 1544522104327,
+    "relativePath": "res\\game\\pvp"
+  },
+  "5c1eefa7-09fe-4b7c-a3c6-21c4491f9250": {
+    "asset": 1546048986584,
+    "meta": 1548232467950,
+    "relativePath": "res\\game\\pvp\\ui\\bar-blue.png"
+  },
+  "e92805e6-9e1e-4d5f-ab39-6e5a8160e6c3": {
+    "asset": 1546048986348,
+    "meta": 1548232467952,
+    "relativePath": "res\\game\\pvp\\ui\\bar-effect.png"
+  },
+  "6f80a1af-f070-427a-a34c-f07fc42664ca": {
+    "asset": 1546048985702,
+    "meta": 1548232467959,
+    "relativePath": "res\\game\\pvp\\ui\\bk-playername.png"
+  },
+  "d6d57880-1664-4614-a39d-a5f05aadd612": {
+    "asset": 1546048986431,
+    "meta": 1548232467958,
+    "relativePath": "res\\game\\pvp\\ui\\bar-red.png"
+  },
+  "cf05f3ba-cc42-4a65-a6f9-7aeea3b66362": {
+    "asset": 1546048983794,
+    "meta": 1548232467511,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\1.png"
+  },
+  "e3c2ec8c-6065-48ed-99e9-964f6975151d": {
+    "asset": 1546048983570,
+    "meta": 1548232467517,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\10.png"
+  },
+  "97d7719f-8ff1-4f81-912d-da92792bbbb7": {
+    "asset": 1546048983578,
+    "meta": 1548232467520,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\11.png"
+  },
+  "c305b676-e909-4be3-bdd0-a4782991ae55": {
+    "asset": 1546048983602,
+    "meta": 1548232467529,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\12.png"
+  },
+  "f9951690-010c-443d-a932-ab17a8bea138": {
+    "asset": 1546048983639,
+    "meta": 1548232467530,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\13.png"
+  },
+  "952c7074-fe28-4f32-ba76-1280d239c646": {
+    "asset": 1546048983649,
+    "meta": 1548232467539,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\14.png"
+  },
+  "5a68bec8-dd7b-4ea7-b7ae-082ec546932a": {
+    "asset": 1546048983665,
+    "meta": 1548232467540,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\15.png"
+  },
+  "a7ac7e9d-433a-4e84-9981-310dd29cd672": {
+    "asset": 1546048983692,
+    "meta": 1548232467548,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\16.png"
+  },
+  "dee0c92a-df56-4889-8c76-ef26f46d90e9": {
+    "asset": 1546048983747,
+    "meta": 1548232467557,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\18.png"
+  },
+  "6e99288e-b9c8-4f81-a6d2-324c52828a95": {
+    "asset": 1546048983716,
+    "meta": 1548232467550,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\17.png"
+  },
+  "b6298123-b4df-4577-bd7b-65aec88c3738": {
+    "asset": 1546048983754,
+    "meta": 1548232467560,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\19.png"
+  },
+  "30d617b7-3d44-48f9-9e9e-1e51c87e90b3": {
+    "asset": 1546048983811,
+    "meta": 1548232467571,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\2.png"
+  },
+  "259f3ec3-8256-4460-8d30-9ca8448f6283": {
+    "asset": 1546048984030,
+    "meta": 1548232467571,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\20.png"
+  },
+  "9437337a-db39-4d73-aeb2-26afce925162": {
+    "asset": 1546048984061,
+    "meta": 1548232467582,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\22.png"
+  },
+  "2b1f0899-698e-49b6-90c9-ef3589f7b0db": {
+    "asset": 1546048984047,
+    "meta": 1548232467580,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\21.png"
+  },
+  "d385f657-b1d8-42e5-86c3-b4a0ee83769b": {
+    "asset": 1546048984083,
+    "meta": 1548232467590,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\23.png"
+  },
+  "0651aa67-5a88-4780-8aeb-fba281aa51a6": {
+    "asset": 1546048984096,
+    "meta": 1548232467592,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\24.png"
+  },
+  "77b43fdd-a29c-4f52-8abc-28d5750f1a08": {
+    "asset": 1546048984113,
+    "meta": 1548232467605,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\25.png"
+  },
+  "f700a271-1d72-4363-a2b8-5f8020ca49de": {
+    "asset": 1546048984126,
+    "meta": 1548232467609,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\26.png"
+  },
+  "5e55e8dd-47f1-4f58-87b5-3a2381e4cf1c": {
+    "asset": 1546048984150,
+    "meta": 1548232467617,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\27.png"
+  },
+  "2a77e0c9-c830-4997-9d59-a3b6dc6e7f59": {
+    "asset": 1546048984157,
+    "meta": 1548232467622,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\28.png"
+  },
+  "808e187f-f289-4ecd-84ac-69e8c06eb860": {
+    "asset": 1546048984172,
+    "meta": 1548232467628,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\29.png"
+  },
+  "81889d76-1bb0-4c8c-b809-38e730962221": {
+    "asset": 1546048983829,
+    "meta": 1548232467632,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\3.png"
+  },
+  "97461dbb-8d25-4cd4-8861-686317e1e25a": {
+    "asset": 1546048983626,
+    "meta": 1548232467658,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\30.png"
+  },
+  "5b3506f2-42a9-46ed-a5c8-6e831254c615": {
+    "asset": 1546048983842,
+    "meta": 1548232467663,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\4.png"
+  },
+  "feb3f6bc-da5d-457f-be7d-96aa394e3a4f": {
+    "asset": 1546048983861,
+    "meta": 1548232467666,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\5.png"
+  },
+  "36ee4b67-f52e-4c61-a495-03647c9a872d": {
+    "asset": 1546048983880,
+    "meta": 1548232467673,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\6.png"
+  },
+  "0e9b6b4b-7e19-4a73-bdd1-b2a24da9be2c": {
+    "asset": 1546048983907,
+    "meta": 1548232467675,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\7.png"
+  },
+  "c2cc4ec8-3237-44c3-9dcd-aa630a8184ee": {
+    "asset": 1546048983937,
+    "meta": 1548232467686,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\8.png"
+  },
+  "e33e88c1-42f9-4ec5-a4f1-5770484b0328": {
+    "asset": 1546048983967,
+    "meta": 1548232467685,
+    "relativePath": "res\\game\\pvp\\effect\\effect\\9.png"
+  },
+  "9257d638-d5af-47a0-aa41-53b2d947e595": {
+    "asset": 1546048986390,
+    "meta": 1548232467992,
+    "relativePath": "res\\game\\pvp\\ui\\nest.png"
+  },
+  "b72ac3e9-f06d-4c7e-84cc-690745e4453c": {
+    "asset": 1546048986457,
+    "meta": 1548232467993,
+    "relativePath": "res\\game\\pvp\\ui\\paw-blue.png"
+  },
+  "8d95c8f0-8f38-475a-b219-dadfa30c68b2": {
+    "asset": 1546048986677,
+    "meta": 1548232468031,
+    "relativePath": "res\\game\\pvp\\ui\\txt-behind.png"
+  },
+  "6ecbf644-f523-4520-97a4-382851e7292e": {
+    "asset": 1546048986617,
+    "meta": 1548232468000,
+    "relativePath": "res\\game\\pvp\\ui\\paw-red.png"
+  },
+  "1738666f-48d6-46d4-9700-426546656ca8": {
+    "asset": 1546048986657,
+    "meta": 1548232468038,
+    "relativePath": "res\\game\\pvp\\ui\\txt-same.png"
+  },
+  "ecfe3dab-7052-46b7-ae03-1d8f48cbdc26": {
+    "asset": 1546048986405,
+    "meta": 1548232468029,
+    "relativePath": "res\\game\\pvp\\ui\\txt-exceed.png"
+  },
+  "20105513-18d2-4a4c-a6e8-56a3f6c55c6c": {
+    "asset": 1544522099689,
+    "meta": 1548232468214,
+    "relativePath": "res\\game\\tiles\\fengche\\blue-1.png"
+  },
+  "14d86939-5106-4721-9422-0a3e444ccfa6": {
+    "asset": 1544522099732,
+    "meta": 1548232468227,
+    "relativePath": "res\\game\\tiles\\fengche\\blue-3.png"
+  },
+  "c8589211-7efc-4ffb-b381-a2d6fef45d17": {
+    "asset": 1544522099715,
+    "meta": 1548232468217,
+    "relativePath": "res\\game\\tiles\\fengche\\blue-2.png"
+  },
+  "2592653b-5514-4d8c-a5c3-6f937aa69b72": {
+    "asset": 1544522099397,
+    "meta": 1548232468321,
+    "relativePath": "res\\game\\tiles\\flower\\flower-1.png"
+  },
+  "235eceaa-2493-4bf0-9bc8-93b06d3d6564": {
+    "asset": 1544522099407,
+    "meta": 1548232468329,
+    "relativePath": "res\\game\\tiles\\flower\\flower-2.png"
+  },
+  "e25d7478-7bef-4ed3-b8e1-37921c503041": {
+    "asset": 1544522099459,
+    "meta": 1548232468330,
+    "relativePath": "res\\game\\tiles\\flower\\flower-light1.png"
+  },
+  "b7c08b3c-3362-46d5-ba68-30aec5b30ebe": {
+    "asset": 1544522099463,
+    "meta": 1548232468339,
+    "relativePath": "res\\game\\tiles\\flower\\flower-light2.png"
+  },
+  "95f6a78c-bdbe-4fdc-a533-2c1accf7c330": {
+    "asset": 1544522100124,
+    "meta": 1548232468229,
+    "relativePath": "res\\game\\tiles\\fengche\\green-1.png"
+  },
+  "dbc04e6e-8f17-41a6-9565-677010c34197": {
+    "asset": 1544522100194,
+    "meta": 1548232468236,
+    "relativePath": "res\\game\\tiles\\fengche\\green-3.png"
+  },
+  "2f171d66-7aeb-4552-a2ea-f15ca313eb0e": {
+    "asset": 1544522100157,
+    "meta": 1548232468237,
+    "relativePath": "res\\game\\tiles\\fengche\\green-2.png"
+  },
+  "12cc82a3-6706-4212-b897-b8913ff6823b": {
+    "asset": 1544522099869,
+    "meta": 1548232468245,
+    "relativePath": "res\\game\\tiles\\fengche\\purple-1.png"
+  },
+  "29f626af-dd20-4bd3-808d-eb55049dc7dd": {
+    "asset": 1544522099886,
+    "meta": 1548232468247,
+    "relativePath": "res\\game\\tiles\\fengche\\purple-2.png"
+  },
+  "74200b50-d83b-4893-a3b6-632c7741c820": {
+    "asset": 1544522099900,
+    "meta": 1548232468254,
+    "relativePath": "res\\game\\tiles\\fengche\\purple-3.png"
+  },
+  "4105c5e0-52e3-49ed-bbe1-f55103874d0c": {
+    "asset": 1544522099927,
+    "meta": 1548232468256,
+    "relativePath": "res\\game\\tiles\\fengche\\red-1.png"
+  },
+  "91f43e74-4f38-42d2-92d4-0b5508bfefe7": {
+    "asset": 1544522099974,
+    "meta": 1548232468264,
+    "relativePath": "res\\game\\tiles\\fengche\\red-3.png"
+  },
+  "c488f693-9795-4c6c-8f50-06027cc4b6ae": {
+    "asset": 1544522099951,
+    "meta": 1548232468263,
+    "relativePath": "res\\game\\tiles\\fengche\\red-2.png"
+  },
+  "257ca7a7-f352-47b4-a381-0e7aa1ad41e9": {
+    "asset": 1544522099944,
+    "meta": 1548232468291,
+    "relativePath": "res\\game\\tiles\\fengche\\yellow-1.png"
+  },
+  "3ec02ebe-1fac-4ae1-a6b7-c1cac6025fde": {
+    "asset": 1544522099963,
+    "meta": 1548232468301,
+    "relativePath": "res\\game\\tiles\\fengche\\yellow-2.png"
+  },
+  "2bab6844-6b14-45d2-847a-f2663d0a1974": {
+    "asset": 1544522100002,
+    "meta": 1548232468309,
+    "relativePath": "res\\game\\tiles\\fengche\\yellow-3.png"
+  },
+  "51c5caf7-3e61-4b92-8479-e503d3bd8543": {
+    "asset": 1544522100028,
+    "meta": 1548232468311,
+    "relativePath": "res\\game\\tiles\\fengche\\zhazhiji-big.png"
+  },
+  "efe0946b-267a-44fb-828c-5fa606a80525": {
+    "asset": 1544776333932,
+    "meta": 1548232469379,
+    "relativePath": "res\\prefab\\energy\\btn-close.png"
+  },
+  "b2df7700-e069-4874-99da-bbb255c30225": {
+    "asset": 1544776333965,
+    "meta": 1548232469378,
+    "relativePath": "res\\prefab\\energy\\arrow.png"
+  },
+  "de60f2a4-6d6a-4d43-ab29-51fefc470a97": {
+    "asset": 1544776333862,
+    "meta": 1548232469392,
+    "relativePath": "res\\prefab\\energy\\tili-plus.png"
+  },
+  "041ccc7f-234a-43a7-8b21-b36b9beb2e18": {
+    "asset": 1544776333493,
+    "meta": 1548232469403,
+    "relativePath": "res\\prefab\\energy\\word_share.png"
+  },
+  "32c20461-ece9-42d6-8055-fb15b2e28796": {
+    "asset": 1544776333951,
+    "meta": 1548232469411,
+    "relativePath": "res\\prefab\\energy\\word_tip.png"
+  },
+  "fc35b33b-7ae5-40ec-8676-1f345fda8940": {
+    "asset": 1544776333329,
+    "meta": 1548232469431,
+    "relativePath": "res\\prefab\\energy\\wordShare.png"
+  },
+  "de4cdff1-135f-4bdf-8712-bc8076ad535c": {
+    "asset": 1544776335080,
+    "meta": 1548232470519,
+    "relativePath": "res\\particle\\star.plist"
+  },
+  "0f499ca3-85d6-42d9-b1bb-8faf169a4ff5": {
+    "asset": 1544522096217,
+    "meta": 1548232468563,
+    "relativePath": "res\\game\\tiles\\other\\glove.png"
+  },
+  "5078ec87-d8b5-487f-89b7-d4058aaf9f38": {
+    "asset": 1544522096466,
+    "meta": 1548232468595,
+    "relativePath": "res\\game\\tiles\\other\\refrash.png"
+  },
+  "cc8d6feb-6f49-4dc7-9253-0a886e7caf9e": {
+    "asset": 1544522096301,
+    "meta": 1548232468605,
+    "relativePath": "res\\game\\tiles\\other\\tuiche-big.png"
+  },
+  "18000b04-c107-41c8-8ce6-410b738f246f": {
+    "asset": 1544522096333,
+    "meta": 1548232468606,
+    "relativePath": "res\\game\\tiles\\other\\tuiche.png"
+  },
+  "145d492d-1858-4b18-a6a3-afee4845007d": {
+    "asset": 1544522106357,
+    "meta": 1544522257685,
+    "relativePath": "res\\anim\\starRotate1.anim"
+  },
+  "98db3d06-5284-468f-9f71-7aec1612ed24": {
+    "asset": 1544522106561,
+    "meta": 1544522257688,
+    "relativePath": "res\\anim\\starRotate2.anim"
+  },
+  "87a21e07-f604-4919-ab6d-133ddf4c9884": {
+    "asset": 1544522106666,
+    "meta": 1544522257691,
+    "relativePath": "res\\anim\\starRotate3.anim"
+  },
+  "fd38250f-12c4-40fd-bc75-efb4352f6fd9": {
+    "asset": 1547449358201,
+    "meta": 1547449386226,
+    "relativePath": "res\\ui\\common\\bmFont\\pvpscore_blue.fnt"
+  },
+  "e4564d5d-d998-432d-9cb7-26a128442e4d": {
+    "asset": 1547449357778,
+    "meta": 1547449386230,
+    "relativePath": "res\\ui\\common\\bmFont\\pvpscore_red.fnt"
+  },
+  "e5969cca-2117-4add-a275-0fd639febe62": {
+    "asset": 1547449358181,
+    "meta": 1548232469955,
+    "relativePath": "res\\ui\\common\\bmFont\\pvpscore_blue.png"
+  },
+  "7c116f86-a8fb-4f81-a8da-20bef9f44543": {
+    "asset": 1547449357752,
+    "meta": 1548232469963,
+    "relativePath": "res\\ui\\common\\bmFont\\pvpscore_red.png"
+  },
+  "41068cf5-6b88-44b2-8ec2-d4d6cf4e754d": {
+    "asset": 1547449358295,
+    "meta": 1547449386250,
+    "relativePath": "res\\ui\\common\\bmFont\\white_brownstroke.fnt"
+  },
+  "33604e5a-7e61-4ab5-814f-d8a54c92dec9": {
+    "asset": 1544776334979,
+    "meta": 1548232470504,
+    "relativePath": "res\\particle\\atom.plist"
+  },
+  "f2ca901b-0f96-44ef-bda9-3f340390f457": {
+    "asset": 1547449358231,
+    "meta": 1548232469980,
+    "relativePath": "res\\ui\\common\\bmFont\\white_brownstroke.png"
+  },
+  "40b6d447-4d37-46eb-8aca-90b76cc78e4f": {
+    "asset": 1544522103662,
+    "meta": 1548232467195,
+    "relativePath": "res\\game\\pve\\arrow.png"
+  },
+  "e090b715-cecd-4042-913d-23adc3b2e750": {
+    "asset": 1544522103740,
+    "meta": 1548232467202,
+    "relativePath": "res\\game\\pve\\ban.png"
+  },
+  "38f18ea2-3024-404d-8490-1d561e7f3893": {
+    "asset": 1544522104102,
+    "meta": 1548232467430,
+    "relativePath": "res\\game\\pve\\question.png"
+  },
+  "5eb7c4d1-fb05-48d8-87cf-e9ff06ccc444": {
+    "asset": 1548229372538,
+    "meta": 1546048984942,
+    "relativePath": "res\\game\\pvp\\effect\\effect"
+  },
+  "2b4cf36e-c5a2-401e-8a26-435051af3898": {
+    "asset": 1544522095924,
+    "meta": 1548232468206,
+    "relativePath": "res\\game\\tiles\\bomb\\circle.png"
+  },
+  "3602e4b1-b8a9-4684-8b72-011305adc55d": {
+    "asset": 1548229371730,
+    "meta": 1544522095777,
+    "relativePath": "res\\game\\tiles\\hcgx"
+  },
+  "7ac56dd7-569d-444f-8076-8e4265ddef9f": {
+    "asset": 1544522098564,
+    "meta": 1548232468381,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx1.png"
+  },
+  "5290bdfb-039d-46bf-a3f7-66c39fe48e94": {
+    "asset": 1544522098426,
+    "meta": 1548232468386,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx10.png"
+  },
+  "8dcd7492-76c1-453b-af03-bcc8b78adfe9": {
+    "asset": 1544522098430,
+    "meta": 1548232468402,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx11.png"
+  },
+  "35a05f4c-6ed6-4091-b024-cd9814ff378a": {
+    "asset": 1544522098438,
+    "meta": 1548232468405,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx12.png"
+  },
+  "ec440dcd-c0a0-4cbf-b77a-475fa44b6bef": {
+    "asset": 1544522098443,
+    "meta": 1548232468423,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx13.png"
+  },
+  "b6718936-a516-4e2d-ae25-d7979541b2cd": {
+    "asset": 1544522098448,
+    "meta": 1548232468425,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx14.png"
+  },
+  "d0ca5391-d946-4096-9176-41352b73c14b": {
+    "asset": 1544522098453,
+    "meta": 1548232468446,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx15.png"
+  },
+  "17609611-f7db-4848-af4c-7a83b9060568": {
+    "asset": 1544522098508,
+    "meta": 1548232468444,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx16.png"
+  },
+  "8a59a47a-00c2-4e28-8132-1c872b889c17": {
+    "asset": 1544522098569,
+    "meta": 1548232468466,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx2.png"
+  },
+  "6c284a79-8cc4-4dc9-8ad7-554cdb9b263e": {
+    "asset": 1544522098587,
+    "meta": 1548232468468,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx3.png"
+  },
+  "6b62f187-e674-4db1-ad89-0fb24eaf6d5a": {
+    "asset": 1544522098591,
+    "meta": 1548232468490,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx4.png"
+  },
+  "aa9f3328-f7c6-40ac-8450-3077b4a94f74": {
+    "asset": 1544522098603,
+    "meta": 1548232468490,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx5.png"
+  },
+  "069cba77-be0c-4856-ad6d-64bd1897b5e2": {
+    "asset": 1544522098607,
+    "meta": 1548232468511,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx6.png"
+  },
+  "d7b5270c-0ef9-4912-b6e3-28f0a4292508": {
+    "asset": 1544522098632,
+    "meta": 1548232468513,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx7.png"
+  },
+  "25bee429-278c-4f1a-bc33-092943654fee": {
+    "asset": 1544522098640,
+    "meta": 1548232468536,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx8.png"
+  },
+  "9abd25a5-0d86-4634-8781-9bc6f139e68f": {
+    "asset": 1544522098648,
+    "meta": 1548232468535,
+    "relativePath": "res\\game\\tiles\\hcgx\\hcgx9.png"
+  },
+  "577d5468-c6c1-4f10-898e-d563a12d9dda": {
+    "asset": 1544522100211,
+    "meta": 1548232468271,
+    "relativePath": "res\\game\\tiles\\fengche\\star.png"
+  },
+  "8d8f5736-4409-40ca-baef-f609f3250621": {
+    "asset": 1548229374172,
+    "meta": 1544522101287,
+    "relativePath": "res\\game\\ui"
+  },
+  "26e5e3d6-42dc-4cb0-bea1-3d5e140ccac5": {
+    "asset": 1548229369911,
+    "meta": 1544522094060,
+    "relativePath": "res\\levelChoose\\common"
+  },
+  "f65c06c1-c67d-4577-8c15-851eb01cdd22": {
+    "asset": 1548229373998,
+    "meta": 1546565507309,
+    "relativePath": "res\\game\\ui\\anim"
+  },
+  "e97cbace-23ec-4697-9ef2-f4174023f0a5": {
+    "asset": 1547704115132,
+    "meta": 1547704143175,
+    "relativePath": "scripts\\app\\common\\net\\NetUtil.ts"
+  },
+  "c770cc76-1218-48d4-ba5e-b202a91ebb0c": {
+    "asset": 1548229365628,
+    "meta": 1548229555871,
+    "relativePath": "scripts\\app\\component\\BaseUI.ts"
+  },
+  "15a3ded8-7d92-4250-98f5-6dd4a5d59dca": {
+    "asset": 1543829598169,
+    "meta": 1543830578919,
+    "relativePath": "scripts\\app\\component\\game\\PlayMoudle.ts"
+  },
+  "bbd223cd-8542-44fa-a03a-6a612694ad82": {
+    "asset": 1547449353777,
+    "meta": 1547449385327,
+    "relativePath": "scripts\\app\\component\\game\\pve\\StateMgr.ts"
+  },
+  "e7a4ecaa-57b5-444b-b4f9-ed8cd7f56e13": {
+    "asset": 1547099412911,
+    "meta": 1547186326475,
+    "relativePath": "scripts\\app\\component\\prefab\\PlaymateHead.ts"
+  },
+  "a7632c32-1a57-42c9-aac1-f084d68b7e3d": {
+    "asset": 1543887041187,
+    "meta": 1543887203633,
+    "relativePath": "scripts\\app\\component\\UIDefines.ts"
+  },
+  "edca70b4-6d14-49f9-a73b-0e8f418c32ad": {
+    "asset": 1544522105787,
+    "meta": 1548229552460,
+    "relativePath": "res\\spine\\skeleton.atlas"
+  },
+  "8dca62aa-a75a-47fc-b967-8f92b2451b85": {
+    "asset": 1544522105818,
+    "meta": 1548232469823,
+    "relativePath": "res\\spine\\skeleton.png"
+  },
+  "201fd7e2-dea8-4bb6-a02c-49fb7430f1c9": {
+    "asset": 1544522094242,
+    "meta": 1548232469032,
+    "relativePath": "res\\levelChoose\\bg\\bg2.png"
+  },
+  "0bfb793e-00e3-4702-8a60-eaae1e5c5281": {
+    "asset": 1544522094213,
+    "meta": 1548232469033,
+    "relativePath": "res\\levelChoose\\bg\\bg1.png"
+  },
+  "ea95180c-c14d-4284-8d24-2a176513b2b5": {
+    "asset": 1544522094136,
+    "meta": 1548232469048,
+    "relativePath": "res\\levelChoose\\bg\\bg3.png"
+  },
+  "22c9de33-8b61-48fd-b06c-3f4be550b2fc": {
+    "asset": 1544522098142,
+    "meta": 1548232468054,
+    "relativePath": "res\\game\\tiles\\baozhu\\bd_114.png"
+  },
+  "f6d80230-6cfa-4efa-8097-4737c480a97c": {
+    "asset": 1546565505824,
+    "meta": 1548232469106,
+    "relativePath": "res\\levelChoose\\common\\pve-cloud.png"
+  },
+  "382a800e-fef4-4cc7-831a-766c59706c66": {
+    "asset": 1544522105832,
+    "meta": 1548232470549,
+    "relativePath": "res\\spine\\skeleton.json"
+  },
+  "568ff99d-db8c-4c87-96f0-0c81dd8e152e": {
+    "asset": 1544522098257,
+    "meta": 1548232468061,
+    "relativePath": "res\\game\\tiles\\baozhu\\bd_1142.png"
+  },
+  "966c4ae4-134b-4b90-afdb-7e7ceefc968d": {
+    "asset": 1548229364791,
+    "meta": 1543829597845,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab"
+  },
+  "29332aa6-5ada-4e65-8cff-f5b85b896193": {
+    "asset": 1548229375166,
+    "meta": 1548232470111,
+    "relativePath": "res\\ui\\common\\singleColor.png"
+  },
+  "53d83803-74ce-4013-b91b-1780afb34fb1": {
+    "asset": 1546928892747,
+    "meta": 1546931423553,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\BonusBall.ts"
+  },
+  "0bf49a18-fa5c-48b8-a3f4-73460388b86a": {
+    "asset": 1548319807101,
+    "meta": 1543829596882,
+    "relativePath": "scripts\\app\\component\\game\\pvp"
+  },
+  "5298feec-7392-4602-acc6-74b8bbc560e8": {
+    "asset": 1548229364036,
+    "meta": 1543829598533,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\prefab"
+  },
+  "6de22db6-3cff-438b-a024-486c10c2a5f7": {
+    "asset": 1548229363387,
+    "meta": 1543829595922,
+    "relativePath": "scripts\\app\\component\\levelChoose"
+  },
+  "cf17fce0-44e1-46f3-aceb-e60925b15f02": {
+    "asset": 1548229363390,
+    "meta": 1543829596196,
+    "relativePath": "scripts\\app\\component\\levelChoose\\prefab"
+  },
+  "86739551-09b1-4093-bb01-b83c7f6c5407": {
+    "asset": 1544522106764,
+    "meta": 1544522257475,
+    "relativePath": "res\\anim\\aniBombCol.anim"
+  },
+  "ec5182f0-b668-453b-8c5e-21fe240b3067": {
+    "asset": 1544522098118,
+    "meta": 1548232468104,
+    "relativePath": "res\\game\\tiles\\baozhu\\yanhua1.png"
+  },
+  "3327a6fa-1027-4633-80a8-d468e317a4e5": {
+    "asset": 1544522106523,
+    "meta": 1544522257472,
+    "relativePath": "res\\anim\\aniBombColStrong.anim"
+  },
+  "aea64594-141f-46b3-9193-5c518f092c26": {
+    "asset": 1544522098105,
+    "meta": 1548232468070,
+    "relativePath": "res\\game\\tiles\\baozhu\\cracker_col_strong.png"
+  },
+  "01ef51e5-cfd8-49ed-b317-872db356eec4": {
+    "asset": 1544522098123,
+    "meta": 1548232468085,
+    "relativePath": "res\\game\\tiles\\baozhu\\cracker_col.png"
+  },
+  "41336d24-02ec-4f08-b1d3-a240ab7e590f": {
+    "asset": 1544522098058,
+    "meta": 1548232468094,
+    "relativePath": "res\\game\\tiles\\baozhu\\cracker_row_strong.png"
+  },
+  "84ca70e1-4495-4325-aff2-1dbafc6d4bb2": {
+    "asset": 1544522098087,
+    "meta": 1548232468096,
+    "relativePath": "res\\game\\tiles\\baozhu\\cracker_row.png"
+  },
+  "8e350a6d-aff2-4f6b-82e2-348158b97f1b": {
+    "asset": 1548229366002,
+    "meta": 1544522116482,
+    "relativePath": "res"
+  },
+  "a9f2c927-6f31-497e-afdb-5fa2829688a5": {
+    "asset": 1544522108856,
+    "meta": 1548232467103,
+    "relativePath": "res\\audio\\click_common.mp3"
+  },
+  "167cb42e-2202-41ea-953f-bfbd12a0b781": {
+    "asset": 1544522108802,
+    "meta": 1548232467104,
+    "relativePath": "res\\audio\\click_light.mp3"
+  },
+  "d4bda197-577f-4420-ae7e-157b17cde312": {
+    "asset": 1544522108812,
+    "meta": 1548232467108,
+    "relativePath": "res\\audio\\count_down.mp3"
+  },
+  "59e758ed-8c21-41bc-8839-735c8fd69351": {
+    "asset": 1544522108899,
+    "meta": 1548232467111,
+    "relativePath": "res\\audio\\count_end.mp3"
+  },
+  "d8ebaff4-6806-4da5-9f98-5a9b175e2fbc": {
+    "asset": 1544522108904,
+    "meta": 1548232467114,
+    "relativePath": "res\\audio\\eliminate_bottle.mp3"
+  },
+  "c1809053-a31d-4218-86bf-a65c1f87a380": {
+    "asset": 1544522108879,
+    "meta": 1548232467116,
+    "relativePath": "res\\audio\\eliminate_bug.mp3"
+  },
+  "2d5145fa-9d8a-4900-aa3c-f20638b60aa2": {
+    "asset": 1544522108707,
+    "meta": 1548232467118,
+    "relativePath": "res\\audio\\eliminate_flower.mp3"
+  },
+  "d7a6fe2a-b80d-45df-b9a5-8cace3f3f484": {
+    "asset": 1544522108891,
+    "meta": 1548232467120,
+    "relativePath": "res\\audio\\eliminate1_4.mp3"
+  },
+  "d7c3b1df-20ef-4ce9-8846-2a4b27ee4c78": {
+    "asset": 1545620573710,
+    "meta": 1548232467123,
+    "relativePath": "res\\audio\\eliminate5.mp3"
+  },
+  "5f217883-0b6a-4119-b9cf-3f26b0a19af1": {
+    "asset": 1544522108875,
+    "meta": 1548232467128,
+    "relativePath": "res\\audio\\game_fail.mp3"
+  },
+  "a48ad7ef-7cb4-40e4-879c-db4f51afb46e": {
+    "asset": 1544522108867,
+    "meta": 1548232467129,
+    "relativePath": "res\\audio\\game_success.mp3"
+  },
+  "21454610-f112-45e0-b450-da48dd0b97af": {
+    "asset": 1544522108895,
+    "meta": 1548232467149,
+    "relativePath": "res\\audio\\skill_bomb.mp3"
+  },
+  "61fb6c1d-9104-4e00-bd01-28858b6f7f24": {
+    "asset": 1544522108702,
+    "meta": 1548232467153,
+    "relativePath": "res\\audio\\skill_rocket.mp3"
+  },
+  "715283cf-ff10-4017-b360-561e608e47e2": {
+    "asset": 1544522108807,
+    "meta": 1548232467154,
+    "relativePath": "res\\audio\\skill_windmill.mp3"
+  },
+  "58feaefe-6241-4744-99bc-d87eaa65f25e": {
+    "asset": 1546565506461,
+    "meta": 1544522108276,
+    "relativePath": "res\\game"
+  },
+  "848b8059-d5a8-42c5-9036-6e4b21aed53a": {
+    "asset": 1546048986020,
+    "meta": 1548232468002,
+    "relativePath": "res\\game\\pvp\\ui\\red_back.png"
+  },
+  "7651522c-fd7a-4a52-93a0-14b45a291307": {
+    "asset": 1548744761895,
+    "meta": 1548744984477,
+    "relativePath": "res\\ui\\common\\second-bk.png"
+  },
+  "ed231e76-067a-4647-881d-28b62f06debc": {
+    "asset": 1546048986526,
+    "meta": 1548232468040,
+    "relativePath": "res\\game\\pvp\\ui\\word_game_tip.png"
+  },
+  "3de38433-f778-4c62-bb02-5e0231e380f7": {
+    "asset": 1548229371294,
+    "meta": 1544522103205,
+    "relativePath": "res\\game\\tiles"
+  },
+  "8c47cdb9-174c-4e1d-9107-f159bc378e9c": {
+    "asset": 1548229371488,
+    "meta": 1544522095757,
+    "relativePath": "res\\game\\tiles\\baozhu"
+  },
+  "6ae16791-f223-49c0-8fd9-470eb15bebdb": {
+    "asset": 1548229370464,
+    "meta": 1544522095742,
+    "relativePath": "res\\game\\tiles\\bomb"
+  },
+  "54cfe2df-e50f-457a-ac6b-58b554e739b0": {
+    "asset": 1548229370319,
+    "meta": 1544522097697,
+    "relativePath": "res\\game\\tiles\\fengche"
+  },
+  "fdbd0488-7637-47bc-9c6b-9af32d048a4f": {
+    "asset": 1548229372006,
+    "meta": 1544522097693,
+    "relativePath": "res\\game\\tiles\\flower"
+  },
+  "a261f8bd-b1f1-46be-b92b-e53faeea9377": {
+    "asset": 1548229371560,
+    "meta": 1544522095761,
+    "relativePath": "res\\game\\tiles\\fruit"
+  },
+  "19a0b923-88f5-4932-a2a9-305c838ade7a": {
+    "asset": 1548229371099,
+    "meta": 1544522095745,
+    "relativePath": "res\\game\\tiles\\other"
+  },
+  "2c667015-d5ee-4a27-9231-88f3678827fd": {
+    "asset": 1548229371182,
+    "meta": 1544522095749,
+    "relativePath": "res\\game\\tiles\\petStar"
+  },
+  "84f417ea-9da2-4984-aa11-fb5f5265e7f5": {
+    "asset": 1544522097588,
+    "meta": 1548232468613,
+    "relativePath": "res\\game\\tiles\\petStar\\star_2.png"
+  },
+  "7abc0ab6-2876-4df6-a1dc-613bab2d16ef": {
+    "asset": 1544522097584,
+    "meta": 1548232468615,
+    "relativePath": "res\\game\\tiles\\petStar\\star_1.png"
+  },
+  "fe914edb-4e89-4196-baf2-d7d58b9e0342": {
+    "asset": 1544522097592,
+    "meta": 1548232468621,
+    "relativePath": "res\\game\\tiles\\petStar\\star_3.png"
+  },
+  "fcc7b68a-a582-4144-adb8-fb3f68e5725f": {
+    "asset": 1544522097543,
+    "meta": 1548232468622,
+    "relativePath": "res\\game\\tiles\\petStar\\star_4.png"
+  },
+  "7df2219a-944e-420d-a397-41c027625723": {
+    "asset": 1544522097547,
+    "meta": 1548232468629,
+    "relativePath": "res\\game\\tiles\\petStar\\star_5.png"
+  },
+  "5069269a-57e7-4707-aa1a-9cd727b201ba": {
+    "asset": 1544522097557,
+    "meta": 1548232468630,
+    "relativePath": "res\\game\\tiles\\petStar\\star_6.png"
+  },
+  "ed36a4b6-d64d-4b4e-bda9-c807d572a543": {
+    "asset": 1548229366911,
+    "meta": 1544522105646,
+    "relativePath": "res\\home"
+  },
+  "d98dd3df-2c93-43d2-9f39-646b43d54ff3": {
+    "asset": 1548229369688,
+    "meta": 1544522094021,
+    "relativePath": "res\\levelChoose\\bg"
+  },
+  "9c073060-f6d4-41b3-b88d-0814ee40e253": {
+    "asset": 1548229366174,
+    "meta": 1544522104837,
+    "relativePath": "res\\preload"
+  },
+  "9c383185-9668-4dd3-b899-37e0250c6994": {
+    "asset": 1548229376519,
+    "meta": 1544522116093,
+    "relativePath": "resources\\prefab\\play\\pve"
+  },
+  "0dbf8746-0a73-48f6-94f9-0b48b866ffd9": {
+    "asset": 1548229376805,
+    "meta": 1544522116066,
+    "relativePath": "resources\\prefab\\play\\pvp"
+  },
+  "516a05b3-8bf9-4643-a6f8-177642610798": {
+    "asset": 1544776332425,
+    "meta": 1544776334469,
+    "relativePath": "res\\prefab\\layerScore"
+  },
+  "14e85aad-f522-44b8-930f-d841d7ff8ab7": {
+    "asset": 1548229368310,
+    "meta": 1544776332415,
+    "relativePath": "res\\prefab\\layerScore\\common"
+  },
+  "e882cea1-7f43-4f18-9705-dca8c043dcb7": {
+    "asset": 1548229368504,
+    "meta": 1544776332426,
+    "relativePath": "res\\prefab\\layerScore\\pve"
+  },
+  "e11d0517-3fb8-4281-b3ba-7d697da79a3a": {
+    "asset": 1548229368164,
+    "meta": 1544776332408,
+    "relativePath": "res\\prefab\\layerScore\\pvp"
+  },
+  "a1c299ff-f55b-4faa-9942-107763e60f48": {
+    "asset": 1548229375492,
+    "meta": 1544522115683,
+    "relativePath": "resources\\res\\prefab\\encourage"
+  },
+  "8bd7bec1-5bc1-47a0-a0d5-b52392af5afc": {
+    "asset": 1544598750308,
+    "meta": 1544598918940,
+    "relativePath": "scripts\\app\\common\\Defines.ts"
+  },
+  "5711629b-9391-4986-882a-b7d40cb311b7": {
+    "asset": 1544607096157,
+    "meta": 1544690669858,
+    "relativePath": "res\\anim\\aniGrade.anim"
+  },
+  "dbb408a9-6291-43ae-badc-882f1a9f425a": {
+    "asset": 1544776332926,
+    "meta": 1548232469622,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\saoguang.png"
+  },
+  "338952d0-b16f-40f9-b619-61ce46d7abf0": {
+    "asset": 1548229367974,
+    "meta": 1544776333054,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua"
+  },
+  "ac77d0d3-8fec-4b03-baef-7b3206f7e88c": {
+    "asset": 1544776332750,
+    "meta": 1548232469638,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_01.png"
+  },
+  "3d95c746-801a-46ea-a5ae-42f2c11e1264": {
+    "asset": 1544776333094,
+    "meta": 1548232469621,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\xingxing.png"
+  },
+  "d77c173d-63f2-46dc-8348-fe5b71d7394d": {
+    "asset": 1544776332770,
+    "meta": 1548232469640,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_02.png"
+  },
+  "18cc91ce-5f9e-40f9-8da7-b62b311efafb": {
+    "asset": 1544776332780,
+    "meta": 1548232469653,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_03.png"
+  },
+  "e69beee2-0373-4169-8bc4-ed5bac0211d6": {
+    "asset": 1544776332528,
+    "meta": 1548232469651,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_04.png"
+  },
+  "a430c9a8-8e74-41f5-8f5f-8cab1d4fda81": {
+    "asset": 1544776332565,
+    "meta": 1548232469668,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_06.png"
+  },
+  "4621294e-9704-4945-bd64-12cfab6642f2": {
+    "asset": 1544776332542,
+    "meta": 1548232469664,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_05.png"
+  },
+  "ec8492fa-d76b-4f00-a68b-adbad86cdb9e": {
+    "asset": 1544776332574,
+    "meta": 1548232469680,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_07.png"
+  },
+  "389c5e66-acc0-4f9b-b029-5eed2a0d4cc4": {
+    "asset": 1544776332581,
+    "meta": 1548232469678,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yanhua\\Firework_08.png"
+  },
+  "9f1b6dc5-7fe3-4266-95f0-b648bd9a9c55": {
+    "asset": 1548229369564,
+    "meta": 1544776334961,
+    "relativePath": "res\\particle\\texture"
+  },
+  "395724c7-6a93-4af2-a337-2356c2510c04": {
+    "asset": 1544776335052,
+    "meta": 1548232469235,
+    "relativePath": "res\\particle\\texture\\bd_1142.png"
+  },
+  "b3ab32fc-9f7d-4510-9988-7eae212213f3": {
+    "asset": 1546048980340,
+    "meta": 1544776331211,
+    "relativePath": "res\\prefab"
+  },
+  "561988e5-8466-41df-b1c8-dc4d3a96ed65": {
+    "asset": 1544776335041,
+    "meta": 1548232469235,
+    "relativePath": "res\\particle\\texture\\bd_114.png"
+  },
+  "5875927d-37e1-40c1-942f-b97dab155e0e": {
+    "asset": 1544776336670,
+    "meta": 1544776396645,
+    "relativePath": "scripts\\app\\component\\game\\Particle.ts"
+  },
+  "4c8273c9-02bb-42b6-b65e-7c19a201e4dd": {
+    "asset": 1545035260645,
+    "meta": 1545035682007,
+    "relativePath": "res\\anim\\rankUp.anim"
+  },
+  "41251087-2c08-4863-908f-c1b31d72b37d": {
+    "asset": 1545035260865,
+    "meta": 1548229554384,
+    "relativePath": "resources\\prefab\\home\\RankItem.prefab"
+  },
+  "b7393dab-5bce-4927-9c31-7f79bc42cd74": {
+    "asset": 1545035260909,
+    "meta": 1548229554439,
+    "relativePath": "resources\\prefab\\levelChoose\\RankItemPve.prefab"
+  },
+  "21334954-1604-484a-85d7-e67076517c4b": {
+    "asset": 1546048986841,
+    "meta": 1548229554462,
+    "relativePath": "resources\\prefab\\play\\Particle.prefab"
+  },
+  "e1a09b60-7d93-4e4c-818a-fad8934e745a": {
+    "asset": 1547534696304,
+    "meta": 1548232470393,
+    "relativePath": "scripts\\app\\common\\net\\proto\\protocol.xml"
+  },
+  "5590d06e-db67-4210-95cb-1adb2f1d5dd8": {
+    "asset": 1548229371488,
+    "meta": 1548232468086,
+    "relativePath": "res\\game\\tiles\\baozhu\\bd_1144.png"
+  },
+  "d57cad57-fc52-42aa-8983-7ea09042e7a4": {
+    "asset": 1547099414006,
+    "meta": 1547186324327,
+    "relativePath": "scripts\\app\\component\\game\\Algorithm.ts"
+  },
+  "36df07ae-93a1-4027-82e9-4b7ebf2e5540": {
+    "asset": 1545035260791,
+    "meta": 1548229554691,
+    "relativePath": "resources\\prefab\\play\\RankUp.prefab"
+  },
+  "91f93008-f774-4ce6-9069-46aa9f114c55": {
+    "asset": 1545273700061,
+    "meta": 1548232467159,
+    "relativePath": "res\\audio\\snd_bg_home.mp3"
+  },
+  "e4675de7-4a86-4aa6-99e3-ffaf4328a4eb": {
+    "asset": 1545273699953,
+    "meta": 1548232467166,
+    "relativePath": "res\\audio\\snd_bg_pvp.mp3"
+  },
+  "ea466c9b-26d2-40c0-87aa-f6235a1767f6": {
+    "asset": 1545186548667,
+    "meta": 1545189882131,
+    "relativePath": "res\\anim\\grabPet.anim"
+  },
+  "73f86826-2cf4-407b-8253-16231529d329": {
+    "asset": 1545273699990,
+    "meta": 1548232467086,
+    "relativePath": "res\\audio\\buff1.mp3"
+  },
+  "03d7f7e1-05ed-4cf7-806e-1b5d8f1bc401": {
+    "asset": 1545273700001,
+    "meta": 1548232467092,
+    "relativePath": "res\\audio\\buff2.mp3"
+  },
+  "97d492a0-f2bb-4efe-b353-563c29d51f5a": {
+    "asset": 1545273700011,
+    "meta": 1548232467093,
+    "relativePath": "res\\audio\\buff3.mp3"
+  },
+  "664d0c78-45d7-4de5-ba01-a94f8c7195ba": {
+    "asset": 1545273700019,
+    "meta": 1548232467097,
+    "relativePath": "res\\audio\\buff4.mp3"
+  },
+  "a7b79961-6493-4cc9-9860-1ac0ab15c123": {
+    "asset": 1547546488729,
+    "meta": 1547546546761,
+    "relativePath": "scripts\\app\\component\\game\\PlayManager.ts"
+  },
+  "968dbdf4-db2c-429b-bd4e-2c03eb1283dc": {
+    "asset": 1545620575304,
+    "meta": 1545620602522,
+    "relativePath": "res\\anim\\propCloud.anim"
+  },
+  "61d9e32b-e784-48c1-9ef7-77058f1687ac": {
+    "asset": 1545620575315,
+    "meta": 1545620602525,
+    "relativePath": "res\\anim\\PropTip.anim"
+  },
+  "743c6dd8-20ee-4abe-ade4-aaee18512a98": {
+    "asset": 1547449358663,
+    "meta": 1548232470142,
+    "relativePath": "res\\ui\\common\\Tv-buff3.png"
+  },
+  "b628747e-a221-4aaa-a853-9c5fdc74d349": {
+    "asset": 1545620576158,
+    "meta": 1548232468844,
+    "relativePath": "res\\home\\buff-bk.png"
+  },
+  "39534391-7b44-493a-99f1-6696ca1b1bb4": {
+    "asset": 1545620576132,
+    "meta": 1548232468858,
+    "relativePath": "res\\home\\button-howtoplay.png"
+  },
+  "c916075a-b0a1-4938-9950-03f1b2d5403c": {
+    "asset": 1545620576162,
+    "meta": 1548232468887,
+    "relativePath": "res\\home\\icon-bk.png"
+  },
+  "a4837c32-9612-4871-b2e3-a613c9c0caf9": {
+    "asset": 1545620576192,
+    "meta": 1548232468905,
+    "relativePath": "res\\home\\icon-tv.png"
+  },
+  "40746473-0a27-471f-97c0-9ae3ce9b1d2f": {
+    "asset": 1545620576351,
+    "meta": 1548229554660,
+    "relativePath": "resources\\prefab\\play\\pvp\\GuideOver.prefab"
+  },
+  "8c934f0a-633a-44b5-8466-58c46392f339": {
+    "asset": 1545634006619,
+    "meta": 1548232467141,
+    "relativePath": "res\\audio\\pet_collect.mp3"
+  },
+  "78ee407e-8d00-43d4-bdb9-70d663c8e353": {
+    "asset": 1545620576171,
+    "meta": 1548232468845,
+    "relativePath": "res\\home\\bk-bubble.png"
+  },
+  "501c8ece-1bed-4a9c-8854-7cd797dff67e": {
+    "asset": 1545634006864,
+    "meta": 1548232468300,
+    "relativePath": "res\\game\\tiles\\fengche\\xuanwo_2.png"
+  },
+  "bd058a7a-f044-4925-81b6-a59885914945": {
+    "asset": 1545634006602,
+    "meta": 1548232467165,
+    "relativePath": "res\\audio\\sound.contnuousMatch.11.mp3"
+  },
+  "d18d8639-fd75-49d5-a9fb-81f271f5710c": {
+    "asset": 1545634006626,
+    "meta": 1548232467170,
+    "relativePath": "res\\audio\\sound.contnuousMatch.3.mp3"
+  },
+  "35ee4d3e-6935-49cc-8edf-772cfce74805": {
+    "asset": 1545634006631,
+    "meta": 1548232467172,
+    "relativePath": "res\\audio\\sound.contnuousMatch.5.mp3"
+  },
+  "8d7c2ab7-2e28-4446-ade6-80532134713d": {
+    "asset": 1545634006635,
+    "meta": 1548232467178,
+    "relativePath": "res\\audio\\sound.contnuousMatch.7.mp3"
+  },
+  "89716095-efd5-44a9-9120-0f9bb4dc5890": {
+    "asset": 1545634006644,
+    "meta": 1548232467179,
+    "relativePath": "res\\audio\\sound.contnuousMatch.9.mp3"
+  },
+  "5ec06b53-4ed1-4d43-8c9c-79c1a4da2b1a": {
+    "asset": 1545634006736,
+    "meta": 1548232468367,
+    "relativePath": "res\\game\\tiles\\fruit\\vegetable-5.png-rev295.svn001.tmp.png"
+  },
+  "0b014681-76cc-4c22-b428-9fea653b5a1f": {
+    "asset": 1548229364118,
+    "meta": 1548229557180,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\PvpGuide.ts"
+  },
+  "1ca0f4e0-2130-4f73-b8d2-74fb1250cd8c": {
+    "asset": 1548229364788,
+    "meta": 1548229556587,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\ScoreMsg.ts"
+  },
+  "ca395fc0-8d32-4f6d-b657-1917c94dbb9a": {
+    "asset": 1546048977178,
+    "meta": 1546407839202,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\prefab\\BlockPvp.ts"
+  },
+  "12abc4da-396b-44d9-b3d2-5759afc1ebb1": {
+    "asset": 1545803991864,
+    "meta": 1545804004696,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\prefab\\BombPvp.ts"
+  },
+  "81454f0a-e6da-4445-9035-3ec987c86832": {
+    "asset": 1547099413892,
+    "meta": 1547186326097,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\prefab\\Encourage.ts"
+  },
+  "92fdf88c-6f4e-486a-9206-ed36508ab434": {
+    "asset": 1548229364036,
+    "meta": 1548229557137,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\prefab\\WallPvp.ts"
+  },
+  "a7da84c0-da33-4957-9948-91ec0d201c30": {
+    "asset": 1545803993758,
+    "meta": 1548232467125,
+    "relativePath": "res\\audio\\flowerDestroy.mp3"
+  },
+  "3ae2459b-e256-4891-a004-ee00b700d05f": {
+    "asset": 1545803993768,
+    "meta": 1548232467132,
+    "relativePath": "res\\audio\\getProp.mp3"
+  },
+  "531b623e-b53a-45db-a93a-6a310c98e9b3": {
+    "asset": 1545803993764,
+    "meta": 1548232467136,
+    "relativePath": "res\\audio\\miss.mp3"
+  },
+  "f4f15a4d-003b-4487-b166-36be2981a54d": {
+    "asset": 1545803993129,
+    "meta": 1545804005373,
+    "relativePath": "res\\anim\\test.anim"
+  },
+  "bdb9c99a-040c-41ea-a97f-7c686447f4e9": {
+    "asset": 1545803993800,
+    "meta": 1548232467138,
+    "relativePath": "res\\audio\\opponentMiss.mp3"
+  },
+  "cf79566c-6ae1-4d06-9fb7-3cb9a93122bc": {
+    "asset": 1545803993753,
+    "meta": 1548232467143,
+    "relativePath": "res\\audio\\readyGo.mp3"
+  },
+  "5184819e-59c5-4ff3-8860-613c08103757": {
+    "asset": 1545803993787,
+    "meta": 1548232467183,
+    "relativePath": "res\\audio\\throwFlower.mp3"
+  },
+  "4a4e756f-608e-42e7-9903-fbd10b4c1c1a": {
+    "asset": 1545803993782,
+    "meta": 1548232467184,
+    "relativePath": "res\\audio\\trick.mp3"
+  },
+  "509f6440-5af3-4405-bb12-7b7c4fcadeef": {
+    "asset": 1546048979677,
+    "meta": 1548232468957,
+    "relativePath": "res\\home\\TV-effect-halo.png"
+  },
+  "a87910d8-9ff1-4f04-a090-a9e49f6eeaf3": {
+    "asset": 1546048979669,
+    "meta": 1548232468979,
+    "relativePath": "res\\home\\TV-effect-lightdot.png"
+  },
+  "b42c2739-398d-49c5-89d4-323c8d5e1318": {
+    "asset": 1548229366889,
+    "meta": 1548232468977,
+    "relativePath": "res\\home\\TV-effect-light.png"
+  },
+  "7f917d49-78d7-4c47-b308-582b2c3d9755": {
+    "asset": 1545803993414,
+    "meta": 1548232468988,
+    "relativePath": "res\\home\\TV-effect-shadow.png"
+  },
+  "3f1b5736-e93b-450d-a837-863e14b019a2": {
+    "asset": 1545962923540,
+    "meta": 1548229554444,
+    "relativePath": "resources\\prefab\\play\\Encourage.prefab"
+  },
+  "e31ae158-b621-4dc2-aad5-e879b4fa16cf": {
+    "asset": 1545962924117,
+    "meta": 1548232470227,
+    "relativePath": "resources\\res\\prefab\\encourage\\word_encourage_1.png"
+  },
+  "a2ebc339-4587-4dbb-a9c3-8d271989b6bd": {
+    "asset": 1545962924126,
+    "meta": 1548232470228,
+    "relativePath": "resources\\res\\prefab\\encourage\\word_encourage_2.png"
+  },
+  "3b9fc54e-4877-40f3-a79b-244196627ff2": {
+    "asset": 1545962924140,
+    "meta": 1548232470237,
+    "relativePath": "resources\\res\\prefab\\encourage\\word_encourage_3.png"
+  },
+  "a03da34b-9f19-4e9f-851d-e1f42a52d91e": {
+    "asset": 1545962924157,
+    "meta": 1548232470239,
+    "relativePath": "resources\\res\\prefab\\encourage\\word_encourage_4.png"
+  },
+  "ed071664-1252-46be-87d8-3a5b5e29a136": {
+    "asset": 1545962924169,
+    "meta": 1548232470247,
+    "relativePath": "resources\\res\\prefab\\encourage\\word_encourage_5.png"
+  },
+  "c824c738-0a2a-46e7-b132-ce68d043850b": {
+    "asset": 1548229364787,
+    "meta": 1548229555901,
+    "relativePath": "scripts\\app\\component\\game\\Audio.ts"
+  },
+  "0570055e-48cb-4d6a-a9a6-ebf8d6dbcdf4": {
+    "asset": 1547776233587,
+    "meta": 1547780404250,
+    "relativePath": "res\\anim\\getProp2.anim"
+  },
+  "b6961dcc-0cf0-461a-a073-09e1d6a756a8": {
+    "asset": 1546048978730,
+    "meta": 1546407835422,
+    "relativePath": "res\\anim\\tvShake.anim"
+  },
+  "cdb19db8-83f6-4be8-b8fd-dd91cc2324e8": {
+    "asset": 1546048978707,
+    "meta": 1546407835432,
+    "relativePath": "res\\anim\\vertigo.anim"
+  },
+  "b8bba744-facd-424b-b0cd-5cd5e460f5ba": {
+    "asset": 1545962923416,
+    "meta": 1548232467148,
+    "relativePath": "res\\audio\\remaindTime.mp3"
+  },
+  "11636e6f-3264-4da1-a7ee-45fccc96aacf": {
+    "asset": 1548229372660,
+    "meta": 1546048984956,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo"
+  },
+  "1719802a-47d5-4717-bd81-df66c9d9e519": {
+    "asset": 1546048984697,
+    "meta": 1548232467710,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx10.png"
+  },
+  "9c1fc95a-e376-408b-87ee-46985cbe9c21": {
+    "asset": 1546048984484,
+    "meta": 1548232467708,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx1.png"
+  },
+  "c548f362-16f5-45bb-865f-4d352295239c": {
+    "asset": 1546048984533,
+    "meta": 1548232467736,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx3.png"
+  },
+  "a8d75ebc-6282-433c-8a11-2bfa834a3f6d": {
+    "asset": 1546048984516,
+    "meta": 1548232467730,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx2.png"
+  },
+  "e97254f2-cc82-4478-a4bb-e995adacba6b": {
+    "asset": 1546048984569,
+    "meta": 1548232467757,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx5.png"
+  },
+  "498ccbfe-3021-4b4c-a534-621b94aa5250": {
+    "asset": 1546048984549,
+    "meta": 1548232467759,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx4.png"
+  },
+  "e314a45a-1cf1-4653-b00b-c361e02833e6": {
+    "asset": 1546048984598,
+    "meta": 1548232467781,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx6.png"
+  },
+  "e38d2066-0afd-49c6-a5e6-a4e4ce9c45f0": {
+    "asset": 1546048984621,
+    "meta": 1548232467783,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx7.png"
+  },
+  "0d8f401b-ef18-4f0f-8de9-1bbbfa2cea56": {
+    "asset": 1546048984640,
+    "meta": 1548232467805,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx8.png"
+  },
+  "3531db76-fe63-44f1-b05d-338e403ed20b": {
+    "asset": 1546048984664,
+    "meta": 1548232467804,
+    "relativePath": "res\\game\\pvp\\effect\\vertigo\\yunxuan_tx9.png"
+  },
+  "94fec821-8ae9-4327-a2e1-a32f2af09b92": {
+    "asset": 1548229372133,
+    "meta": 1546048985365,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua"
+  },
+  "32c66cb3-1cda-4cb3-91a4-7b89e881b1aa": {
+    "asset": 1546048985066,
+    "meta": 1548232467833,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00002.png"
+  },
+  "ec77f1ba-4d68-4b03-9222-876b18166d1c": {
+    "asset": 1546048985019,
+    "meta": 1548232467830,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00001.png"
+  },
+  "2d3bdd09-9a32-4cab-81f6-4c8d07b4dff2": {
+    "asset": 1546048985092,
+    "meta": 1548232467860,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00003.png"
+  },
+  "349c349f-a309-4caa-82fe-d7b916952548": {
+    "asset": 1546048985108,
+    "meta": 1548232467856,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00004.png"
+  },
+  "c5011f5b-15f3-43f1-a8d7-aabd22639b33": {
+    "asset": 1546048985138,
+    "meta": 1548232467879,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00005.png"
+  },
+  "0548abe4-db5c-4237-943d-4a99e3be8f03": {
+    "asset": 1546048985186,
+    "meta": 1548232467885,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00006.png"
+  },
+  "a0bcc898-c520-4781-8b2e-4cec40ec363c": {
+    "asset": 1546048985228,
+    "meta": 1548232467904,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00007.png"
+  },
+  "7cde46f4-e3c0-4b1d-b3ab-609b31922d29": {
+    "asset": 1546048985253,
+    "meta": 1548232467914,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00008.png"
+  },
+  "60e07a1e-d808-4587-809d-2a5476250fde": {
+    "asset": 1546048985002,
+    "meta": 1548232467937,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00010.png"
+  },
+  "0a871c2c-ef05-4e36-b009-5dfddae83a53": {
+    "asset": 1546048985297,
+    "meta": 1548232467926,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00009.png"
+  },
+  "ed60a3da-0876-476f-af6d-c77f2465c584": {
+    "asset": 1545962923258,
+    "meta": 1548232468835,
+    "relativePath": "res\\home\\bagBk.png"
+  },
+  "4b7ef8ab-3e92-4261-8877-e61b42b9509b": {
+    "asset": 1546048985032,
+    "meta": 1548232467945,
+    "relativePath": "res\\game\\pvp\\effect\\yanhua\\00011.png"
+  },
+  "55f12a32-d711-4176-8de9-d93f038b305e": {
+    "asset": 1545962923285,
+    "meta": 1548232468836,
+    "relativePath": "res\\home\\bk-bag.png"
+  },
+  "2c98e1c8-d39f-43a1-ad01-404301e805d3": {
+    "asset": 1545962923308,
+    "meta": 1548232468932,
+    "relativePath": "res\\home\\title-bag.png"
+  },
+  "76267132-a2ea-4adc-9204-43ca458969d5": {
+    "asset": 1545962923654,
+    "meta": 1548229554349,
+    "relativePath": "resources\\prefab\\home\\Bag.prefab"
+  },
+  "42658abc-7565-4fc1-a6c3-4234d4b2cd9d": {
+    "asset": 1545962923680,
+    "meta": 1548229554344,
+    "relativePath": "resources\\prefab\\home\\Prop.prefab"
+  },
+  "a4c6bf24-ce43-4c72-bdd2-404b6b8ef9a4": {
+    "asset": 1546407771744,
+    "meta": 1548232468021,
+    "relativePath": "res\\game\\pvp\\ui\\sand.png"
+  },
+  "e6ab0d42-3bd7-4765-ab4c-e2aa5d99407d": {
+    "asset": 1545962920198,
+    "meta": 1545963080420,
+    "relativePath": "scripts\\app\\component\\page\\home\\prefab\\Bag.ts"
+  },
+  "fc0ddd78-780d-4f4b-baa5-c93398a19bba": {
+    "asset": 1545977217512,
+    "meta": 1545980440858,
+    "relativePath": "res\\anim\\gradeUp.anim"
+  },
+  "637b9b34-ea2e-4bfd-8173-58ca3ccc4eb3": {
+    "asset": 1547776233572,
+    "meta": 1547780404245,
+    "relativePath": "res\\anim\\getProp.anim"
+  },
+  "ddf6577d-02c9-4fd4-8e4b-45584b119067": {
+    "asset": 1545977217603,
+    "meta": 1548229554332,
+    "relativePath": "resources\\prefab\\component\\Toast.prefab"
+  },
+  "a647a0e9-8d22-43de-9a5c-6b1b4c4c1136": {
+    "asset": 1546048978700,
+    "meta": 1546407835439,
+    "relativePath": "res\\anim\\yanhua.anim"
+  },
+  "5979d2fa-4154-4c82-a59a-11936f4d96b2": {
+    "asset": 1548229365629,
+    "meta": 1548229557502,
+    "relativePath": "scripts\\app\\component\\prefab\\Toast.ts"
+  },
+  "de168348-9732-43c2-bcdf-d4641d673e42": {
+    "asset": 1546048978715,
+    "meta": 1546407835417,
+    "relativePath": "res\\anim\\cloudFace.anim"
+  },
+  "fa5f33fe-855b-48b2-a2d5-5a91093ecb35": {
+    "asset": 1546048978737,
+    "meta": 1546407835407,
+    "relativePath": "res\\anim\\aniGuide2.anim"
+  },
+  "72790be7-f06b-4f18-8192-5cd67532f6ed": {
+    "asset": 1546407771632,
+    "meta": 1546407835414,
+    "relativePath": "res\\anim\\PropShake.anim"
+  },
+  "37915789-8a93-4db8-b810-21a3b74c3abb": {
+    "asset": 1546048980406,
+    "meta": 1548232467085,
+    "relativePath": "res\\audio\\bonustime.mp3"
+  },
+  "bd3eddbb-12ca-4677-959c-8ff1439bd810": {
+    "asset": 1546392770067,
+    "meta": 1548232467099,
+    "relativePath": "res\\audio\\buffInvalid.mp3"
+  },
+  "6fde82b0-0fcb-4683-a1ea-685f629b399a": {
+    "asset": 1548229372650,
+    "meta": 1546048986740,
+    "relativePath": "res\\game\\pvp\\effect"
+  },
+  "3b1d48a2-8b5e-40af-be89-26eea1537a3e": {
+    "asset": 1548744761125,
+    "meta": 1546048986746,
+    "relativePath": "res\\game\\pvp\\ui"
+  },
+  "7de5df3e-e5ff-4e53-887f-2afe0a1dad8b": {
+    "asset": 1546407771753,
+    "meta": 1548232467979,
+    "relativePath": "res\\game\\pvp\\ui\\happy.png"
+  },
+  "026e20c2-2f93-4939-9731-bb2675e374f7": {
+    "asset": 1547449358651,
+    "meta": 1548232470132,
+    "relativePath": "res\\ui\\common\\Tv-buff2.png"
+  },
+  "d423f0a5-211f-4a7a-8004-5e603733ba08": {
+    "asset": 1547449358632,
+    "meta": 1548232470124,
+    "relativePath": "res\\ui\\common\\Tv-buff1.png"
+  },
+  "288e6530-54d1-47f7-a83d-c0ed2b227c9e": {
+    "asset": 1546480443732,
+    "meta": 1548232468989,
+    "relativePath": "res\\home\\word-adv.png"
+  },
+  "7d0fa41e-d12d-46b1-aa07-b07bce5fa262": {
+    "asset": 1547449358672,
+    "meta": 1548232470142,
+    "relativePath": "res\\ui\\common\\Tv-buff4.png"
+  },
+  "314134ba-f3e0-4322-9616-484cb1c5c8b7": {
+    "asset": 1547099413392,
+    "meta": 1547186324677,
+    "relativePath": "scripts\\app\\component\\game\\pve\\DataPve.ts"
+  },
+  "f5e74b7d-4f90-46cf-aead-04945663640f": {
+    "asset": 1548229364791,
+    "meta": 1548229556561,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\Bomb.ts"
+  },
+  "7243965a-9ae6-4498-8910-9fef66a71081": {
+    "asset": 1546928892785,
+    "meta": 1546931423649,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\Tableware.ts"
+  },
+  "7f4dfbae-946e-40d4-a6b3-d096018fc32d": {
+    "asset": 1546480443280,
+    "meta": 1548232469690,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yellow_more_award.png"
+  },
+  "3ae56a8c-eda8-44f9-b114-b073a95bcc1a": {
+    "asset": 1548229363521,
+    "meta": 1548229555902,
+    "relativePath": "scripts\\app\\component\\game\\PlayNetHandler.ts"
+  },
+  "5e463ffe-855e-4dca-8134-8b26ebc24597": {
+    "asset": 1548229364033,
+    "meta": 1548229557051,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\PanelHeader.ts"
+  },
+  "92de8679-f271-49a5-955a-fb49cb3a698b": {
+    "asset": 1546565507140,
+    "meta": 1548232467295,
+    "relativePath": "res\\game\\pve\\pic_short_step.png"
+  },
+  "a2b00810-61ef-4f5f-bea3-04f9883ba96b": {
+    "asset": 1546565507137,
+    "meta": 1548232467487,
+    "relativePath": "res\\game\\pve\\word_short_step.png"
+  },
+  "81682b03-d076-43c7-bc70-84c27ab2143e": {
+    "asset": 1548229374348,
+    "meta": 1546928891634,
+    "relativePath": "res\\loading"
+  },
+  "49fb9d85-2e76-4dbe-a6e8-192ad8e0e257": {
+    "asset": 1548229374679,
+    "meta": 1547449358889,
+    "relativePath": "res\\ui\\common\\bmFont"
+  },
+  "0939851e-324a-4c1f-83f7-080f6a1ffd1b": {
+    "asset": 1547716873000,
+    "meta": 1547722762461,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionAcc.ts"
+  },
+  "3bc87f7f-248a-4fd2-ac53-5f03a9885abd": {
+    "asset": 1547716873000,
+    "meta": 1547722762467,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionActivity.ts"
+  },
+  "3961aae3-c085-4dc3-ac12-bd7eec1313fc": {
+    "asset": 1547716873000,
+    "meta": 1547722762503,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionAward.ts"
+  },
+  "2a45c2ee-b88b-40f0-911c-8f4c3d065612": {
+    "asset": 1547716873000,
+    "meta": 1547722762548,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionBuff.ts"
+  },
+  "0e61be2e-d4d2-4292-b2e4-40696e292591": {
+    "asset": 1547716873000,
+    "meta": 1547722762571,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionChat.ts"
+  },
+  "586acc05-1e54-4d87-a6f4-07743d9760d9": {
+    "asset": 1547716873000,
+    "meta": 1547722762627,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionDebug.ts"
+  },
+  "909fa2ac-a267-43fd-b09e-667653f3a0fa": {
+    "asset": 1547716873000,
+    "meta": 1547722762639,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionGoods.ts"
+  },
+  "05a97b49-287b-4d09-a709-ad05c08ebbef": {
+    "asset": 1547716873000,
+    "meta": 1547722762705,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionPayment.ts"
+  },
+  "3761eea2-97cc-4c0c-8aa5-aac62cb6b7a4": {
+    "asset": 1547716873000,
+    "meta": 1547722762747,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionPlay.ts"
+  },
+  "04ab336f-98e1-4c23-91a2-9c623feb8f16": {
+    "asset": 1547716873000,
+    "meta": 1547722762765,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionPlayer.ts"
+  },
+  "df321d73-d2e0-4452-af96-e4f6424456dc": {
+    "asset": 1547716873000,
+    "meta": 1547722762815,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionRank.ts"
+  },
+  "13644790-2ed0-458c-917f-15e454ceacf5": {
+    "asset": 1547716873000,
+    "meta": 1547722762838,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionRoom.ts"
+  },
+  "93c41e97-be9d-4779-bf3f-fcbe13e0a2a8": {
+    "asset": 1547716873000,
+    "meta": 1547722762913,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionTask.ts"
+  },
+  "f3e05282-e519-4fe1-ba9c-91dd19a10f74": {
+    "asset": 1547716873000,
+    "meta": 1547722762924,
+    "relativePath": "scripts\\app\\common\\net\\proto\\ProtoCrypto.ts"
+  },
+  "fd613660-6b84-4066-826b-deb4ff161ed1": {
+    "asset": 1547716873000,
+    "meta": 1547722762947,
+    "relativePath": "scripts\\app\\common\\net\\proto\\ProtoDefine.ts"
+  },
+  "1a75fca2-872f-4d01-bc81-c763ef384077": {
+    "asset": 1547716873000,
+    "meta": 1547722763008,
+    "relativePath": "scripts\\app\\common\\net\\proto\\ProtoDispatcher.ts"
+  },
+  "f468ac47-6272-4e24-9447-3a671afbbc21": {
+    "asset": 1547716873000,
+    "meta": 1547722763058,
+    "relativePath": "scripts\\app\\common\\net\\proto\\ProtoReflect.ts"
+  },
+  "99ccfde7-c454-468f-b4a3-032c45760332": {
+    "asset": 1547716873000,
+    "meta": 1547722763074,
+    "relativePath": "scripts\\app\\common\\net\\proto\\ProtoType.ts"
+  },
+  "c3b6f170-b17e-43ef-962c-11480306a284": {
+    "asset": 1548744760635,
+    "meta": 1546589019429,
+    "relativePath": "partner"
+  },
+  "f1feeb91-8938-421b-92d0-65326f592a5c": {
+    "asset": 1546588941386,
+    "meta": 1548232469793,
+    "relativePath": "res\\preload\\button-green - 001.png"
+  },
+  "07b1128b-42dd-4fa9-b24f-b8ff5b4ac406": {
+    "asset": 1546588941599,
+    "meta": 1548229553111,
+    "relativePath": "resources\\config\\Map.json"
+  },
+  "fed7c968-0f36-41eb-af03-a106bbf4907d": {
+    "asset": 1546928891120,
+    "meta": 1548232469824,
+    "relativePath": "res\\preload\\logo.png"
+  },
+  "45f5805e-eaf2-4797-8744-0abf56998073": {
+    "asset": 1546588941529,
+    "meta": 1548229554395,
+    "relativePath": "resources\\prefab\\levelChoose\\BtnLevel.prefab"
+  },
+  "7abfbd8d-3a49-471b-90a2-0138304e6f61": {
+    "asset": 1548229362826,
+    "meta": 1548229555323,
+    "relativePath": "scenes\\login.fire"
+  },
+  "972fdb3b-20db-4ba3-b5b9-c0aa853e3df7": {
+    "asset": 1547546488190,
+    "meta": 1547546548983,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\Block.ts"
+  },
+  "2e79d02c-2773-4cc4-9895-c161426a8074": {
+    "asset": 1548229365445,
+    "meta": 1548229557401,
+    "relativePath": "scripts\\app\\component\\page\\home\\PlayerNetHandler.ts"
+  },
+  "823f66bd-f66c-4326-bb28-f57fd27bcd59": {
+    "asset": 1547546486977,
+    "meta": 1547546550237,
+    "relativePath": "scripts\\app\\module\\data\\mod\\DataPlayer.ts"
+  },
+  "ade5ef46-10d3-41a4-886c-6aa2806665df": {
+    "asset": 1548229363389,
+    "meta": 1548229557235,
+    "relativePath": "scripts\\app\\component\\levelChoose\\prefab\\BtnLevel.ts"
+  },
+  "33c3b6cd-96de-446a-ab1a-99c3984ea291": {
+    "asset": 1547099412916,
+    "meta": 1547186326476,
+    "relativePath": "scripts\\app\\component\\prefab\\RankUp.ts"
+  },
+  "cec79966-b646-4384-b953-07bb764de773": {
+    "asset": 1547704116039,
+    "meta": 1547704144544,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\DataPvp.ts"
+  },
+  "79f9d066-297f-482f-9aea-429597ec3adc": {
+    "asset": 1546651708631,
+    "meta": 1547186323849,
+    "relativePath": "scenes\\bgStory.fire"
+  },
+  "a0f520bc-ee39-431b-b6be-182665eafea1": {
+    "asset": 1546928890141,
+    "meta": 1548232467502,
+    "relativePath": "res\\game\\pve\\yellow-addStep.png"
+  },
+  "55c2bf6b-2ca9-44c5-bf1f-0b4397957515": {
+    "asset": 1546928890163,
+    "meta": 1548232467507,
+    "relativePath": "res\\game\\pve\\yellow-addTime.png"
+  },
+  "6ac8dd37-b23f-4cf6-8848-f8380e5d2265": {
+    "asset": 1546928890608,
+    "meta": 1548232469147,
+    "relativePath": "res\\loading\\loading-lblBK.png"
+  },
+  "52124b55-e522-43bf-985c-70cc4148d9bd": {
+    "asset": 1546928890714,
+    "meta": 1548232469141,
+    "relativePath": "res\\loading\\loading-bigEffect.png"
+  },
+  "917900ed-6afe-4e9f-bf83-7ffc175920b0": {
+    "asset": 1546928890644,
+    "meta": 1548232469164,
+    "relativePath": "res\\loading\\loading-pic2.png"
+  },
+  "7a12e3bf-6d7e-4518-9292-243daec8b11f": {
+    "asset": 1546928890637,
+    "meta": 1548232469152,
+    "relativePath": "res\\loading\\loading-pic1.png"
+  },
+  "cfac54d6-3e0e-457d-b880-1dc28a86c932": {
+    "asset": 1546928890653,
+    "meta": 1548232469165,
+    "relativePath": "res\\loading\\loading-pic3.png"
+  },
+  "afd9b6ff-978e-4660-b25a-647f1f76a340": {
+    "asset": 1546928890661,
+    "meta": 1548232469179,
+    "relativePath": "res\\loading\\loading-pic4.png"
+  },
+  "086c50d0-5a4c-45a3-9de5-73d2dc400ec5": {
+    "asset": 1546928890668,
+    "meta": 1548232469180,
+    "relativePath": "res\\loading\\loading-pic5.png"
+  },
+  "e3e157a4-6e50-40ae-a859-e492bc1ceacc": {
+    "asset": 1546928890677,
+    "meta": 1548232469196,
+    "relativePath": "res\\loading\\loading-pic6.png"
+  },
+  "bd60e17a-480b-485a-9946-f68560b3fb08": {
+    "asset": 1548229362823,
+    "meta": 1548229555326,
+    "relativePath": "scenes\\preload.fire"
+  },
+  "7832cf7b-b654-42ef-80e1-c9be51f06490": {
+    "asset": 1546936692155,
+    "meta": 1546936876033,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\PlayStory.ts"
+  },
+  "477ed364-7a5d-486a-bcce-5ac57de4aea4": {
+    "asset": 1546933201081,
+    "meta": 1546936876391,
+    "relativePath": "scripts\\app\\component\\page\\home\\prefab\\RankItem.ts"
+  },
+  "d7258ceb-990e-4b14-bdb4-7c632923599f": {
+    "asset": 1547776234113,
+    "meta": 1548229553144,
+    "relativePath": "resources\\config\\SysName.json"
+  },
+  "87a2501b-fa95-44e1-8825-a961263d8e57": {
+    "asset": 1547099414474,
+    "meta": 1548232469095,
+    "relativePath": "res\\levelChoose\\common\\tab-allrank2.png"
+  },
+  "eb4e7ec1-d8e3-48eb-ad79-0e421725e693": {
+    "asset": 1547099414469,
+    "meta": 1548232469086,
+    "relativePath": "res\\levelChoose\\common\\tab-allrank1.png"
+  },
+  "b2701901-0404-4089-991d-fdf672547270": {
+    "asset": 1547099414442,
+    "meta": 1548232469113,
+    "relativePath": "res\\levelChoose\\common\\tab-friendrank2.png"
+  },
+  "9fb03239-0c65-486b-ac82-2510c4dc5370": {
+    "asset": 1547099414428,
+    "meta": 1548232469104,
+    "relativePath": "res\\levelChoose\\common\\tab-friendrank1.png"
+  },
+  "5efed072-c34f-40da-9515-97b27a955dc4": {
+    "asset": 1547099413481,
+    "meta": 1547186324601,
+    "relativePath": "scripts\\app\\component\\game\\pve\\Board_pve.ts"
+  },
+  "4a5a9e20-993c-439d-9eec-20a57b7aa01a": {
+    "asset": 1547099413403,
+    "meta": 1547186324976,
+    "relativePath": "scripts\\app\\component\\game\\pve\\FrameManager.ts"
+  },
+  "1dcd6e50-af6f-4b18-9fd6-f18e02a2f0ee": {
+    "asset": 1547704116035,
+    "meta": 1547704144236,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\Board.ts"
+  },
+  "c27808b3-0b1d-449f-a33c-2a545856fa01": {
+    "asset": 1547449354110,
+    "meta": 1547449384703,
+    "relativePath": "scripts\\app\\component\\game\\PlayDefine.ts"
+  },
+  "9bbc7395-5258-493c-8a2d-3cfee695751e": {
+    "asset": 1548229364789,
+    "meta": 1548229556528,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\BaseTile.ts"
+  },
+  "e135270f-9e5b-4923-81c9-fa58da622810": {
+    "asset": 1548229364790,
+    "meta": 1548229556586,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\Obstacle.ts"
+  },
+  "6f620412-1380-4361-b8c3-75413cc9b8c0": {
+    "asset": 1547187410642,
+    "meta": 1547191643359,
+    "relativePath": "scripts\\app\\component\\game\\pve\\prefab\\Wall.ts"
+  },
+  "f10a7e21-623c-4213-ac88-d94a1a19d3ca": {
+    "asset": 1548229363335,
+    "meta": 1548229557202,
+    "relativePath": "scripts\\app\\component\\levelChoose\\LevelChoose.ts"
+  },
+  "8a01263f-80f2-4190-a06d-330b6de392e6": {
+    "asset": 1548229363387,
+    "meta": 1548229557202,
+    "relativePath": "scripts\\app\\component\\levelChoose\\PanelLevelChoose.ts"
+  },
+  "edb23721-e1ff-4d1d-a638-a471740522b2": {
+    "asset": 1548229363390,
+    "meta": 1548229557236,
+    "relativePath": "scripts\\app\\component\\levelChoose\\prefab\\RankItemPve.ts"
+  },
+  "e4eb9d3a-9300-4243-b64a-e2429dfd35a2": {
+    "asset": 1547449353329,
+    "meta": 1547449385885,
+    "relativePath": "scripts\\app\\ui\\UIInviteDevConfirm.ts"
+  },
+  "e53d1065-927b-43ee-8931-e471f4bbbf65": {
+    "asset": 1548229364989,
+    "meta": 1548229557489,
+    "relativePath": "scripts\\app\\component\\page\\preload\\Preload.ts"
+  },
+  "da5d9807-b636-4685-b10a-2ddf97ef8397": {
+    "asset": 1547187413497,
+    "meta": 1548229554489,
+    "relativePath": "resources\\prefab\\play\\pve\\Arrow.prefab"
+  },
+  "fcd892e5-2b91-426e-93aa-c6a340f23101": {
+    "asset": 1547187411727,
+    "meta": 1548232469689,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\yellow_achieve_prop.png"
+  },
+  "5d1dd62e-c3ed-4988-bcca-290350b1e6be": {
+    "asset": 1547187413531,
+    "meta": 1548229554490,
+    "relativePath": "resources\\prefab\\play\\pve\\Block.prefab"
+  },
+  "b14b6981-ca40-42dd-9c80-5a32f7434334": {
+    "asset": 1547187413300,
+    "meta": 1548229554534,
+    "relativePath": "resources\\prefab\\play\\pve\\Bomb.prefab"
+  },
+  "61692f5a-85a5-4d8b-b2d1-fd9b9c81ff1c": {
+    "asset": 1548229376514,
+    "meta": 1548229554492,
+    "relativePath": "resources\\prefab\\play\\pve\\BonusBall.prefab"
+  },
+  "ee8ba3ec-0226-4841-bd3c-b4f6bfb24704": {
+    "asset": 1547187413482,
+    "meta": 1548229554496,
+    "relativePath": "resources\\prefab\\play\\pve\\ExteriorDown.prefab"
+  },
+  "fbad9001-41f7-49df-a6d7-c562bfd294d2": {
+    "asset": 1547187413355,
+    "meta": 1548229554521,
+    "relativePath": "resources\\prefab\\play\\pve\\Gate.prefab"
+  },
+  "448c1300-2483-4b3c-92e9-2f13a31e3d5c": {
+    "asset": 1547187413655,
+    "meta": 1548229554546,
+    "relativePath": "resources\\prefab\\play\\pve\\Gate2.prefab"
+  },
+  "dd15266c-7aa6-45b7-8b66-c7bc6c6cef1f": {
+    "asset": 1547187413670,
+    "meta": 1548229554598,
+    "relativePath": "resources\\prefab\\play\\pve\\InnerDown.prefab"
+  },
+  "2a7e2da0-e8da-49e7-a223-21cfb4abb7d2": {
+    "asset": 1547187413464,
+    "meta": 1548229554556,
+    "relativePath": "resources\\prefab\\play\\pve\\nodObject1.prefab"
+  },
+  "ce9e348a-60cc-4a28-aabd-3a92ac724ca0": {
+    "asset": 1547187413604,
+    "meta": 1548229554596,
+    "relativePath": "resources\\prefab\\play\\pve\\Obstacle.prefab"
+  },
+  "d5c59da5-2327-48be-b1f6-72bfebbc66b8": {
+    "asset": 1547187413743,
+    "meta": 1548229554599,
+    "relativePath": "resources\\prefab\\play\\pve\\Score.prefab"
+  },
+  "2b27e72d-77ce-47db-8273-53763d6ce847": {
+    "asset": 1547187413715,
+    "meta": 1548229554601,
+    "relativePath": "resources\\prefab\\play\\pve\\Tableware.prefab"
+  },
+  "dc77d7a4-318a-4310-b708-0aab9640b6f1": {
+    "asset": 1547187413566,
+    "meta": 1548229554604,
+    "relativePath": "resources\\prefab\\play\\pve\\Transport.prefab"
+  },
+  "c97b7b81-3253-40b9-932a-c6181178ec83": {
+    "asset": 1547187413623,
+    "meta": 1548229554605,
+    "relativePath": "resources\\prefab\\play\\pve\\Wall.prefab"
+  },
+  "46972658-8681-4ceb-ba2e-6a4200c5993e": {
+    "asset": 1547187414027,
+    "meta": 1548229554635,
+    "relativePath": "resources\\prefab\\play\\pvp\\BlockPvp.prefab"
+  },
+  "8a15f137-636c-451b-840c-e78fb4e78c2c": {
+    "asset": 1547187413956,
+    "meta": 1548229554652,
+    "relativePath": "resources\\prefab\\play\\pvp\\BombPvp.prefab"
+  },
+  "24959dfd-7293-4417-b488-c118a6b44423": {
+    "asset": 1547187413916,
+    "meta": 1548229554664,
+    "relativePath": "resources\\prefab\\play\\pvp\\ObstaclePvp.prefab"
+  },
+  "7d119529-697d-47f1-a414-6aa8f1751ce6": {
+    "asset": 1548744762124,
+    "meta": 1547187412324,
+    "relativePath": "resources\\ui"
+  },
+  "e5add14b-2765-4690-a4c2-7cce16ede200": {
+    "asset": 1547187413985,
+    "meta": 1548229554662,
+    "relativePath": "resources\\prefab\\play\\pvp\\WallPvp.prefab"
+  },
+  "578d88ae-dbd6-4be8-9354-354e19677fad": {
+    "asset": 1547704117441,
+    "meta": 1548229555137,
+    "relativePath": "resources\\ui\\UIAddStep.prefab"
+  },
+  "6f04f4f9-2276-4d6f-8755-85ea24970dcd": {
+    "asset": 1547187412333,
+    "meta": 1548229555162,
+    "relativePath": "resources\\ui\\UIEnergy.prefab"
+  },
+  "29e5b0dc-6708-4118-96bf-31fb87c170e2": {
+    "asset": 1547449352165,
+    "meta": 1548229555200,
+    "relativePath": "resources\\ui\\UIInviteFriend.prefab"
+  },
+  "b11c317e-31da-44cc-9b51-3f0d82ea9b34": {
+    "asset": 1548229376080,
+    "meta": 1548229555216,
+    "relativePath": "resources\\ui\\UIObjective.prefab"
+  },
+  "e1944592-a811-4203-839a-baf1650711e6": {
+    "asset": 1547187412413,
+    "meta": 1548229555267,
+    "relativePath": "resources\\ui\\UIPvpTips.prefab"
+  },
+  "6b2edf0b-1771-4112-9d8a-c4a6a60bd89d": {
+    "asset": 1547187412481,
+    "meta": 1548229555286,
+    "relativePath": "resources\\ui\\UIQuick.prefab"
+  },
+  "488fa9e5-5585-474c-8e5b-6978b2365321": {
+    "asset": 1547187412597,
+    "meta": 1548229555279,
+    "relativePath": "resources\\ui\\UIQuitConfirmPvp.prefab"
+  },
+  "8b326823-01f3-403b-ada6-d56fc711e9b4": {
+    "asset": 1548229376077,
+    "meta": 1548229555289,
+    "relativePath": "resources\\ui\\UIRankPve.prefab"
+  },
+  "e9b7b56c-0202-4a4e-973c-1b3ff313929c": {
+    "asset": 1547187412589,
+    "meta": 1548229555304,
+    "relativePath": "resources\\ui\\UIScorePve.prefab"
+  },
+  "557287af-fa65-464a-a550-bd75d9d8113d": {
+    "asset": 1548229376076,
+    "meta": 1548229555295,
+    "relativePath": "resources\\ui\\UIScorePvp.prefab"
+  },
+  "c093d485-2d1d-4b7e-bebc-02b06981f4b1": {
+    "asset": 1547187411554,
+    "meta": 1547191643787,
+    "relativePath": "scripts\\app\\common\\UIFunc.ts"
+  },
+  "5a45e809-7fe3-4d9a-95c4-5c16e6cf6438": {
+    "asset": 1547704115702,
+    "meta": 1547704144881,
+    "relativePath": "scripts\\app\\ui\\UIAddStep.ts"
+  },
+  "26811a92-f48a-4b00-b7d6-7e4ec7e9dbce": {
+    "asset": 1547546487766,
+    "meta": 1547546550497,
+    "relativePath": "scripts\\app\\ui\\UIObjective.ts"
+  },
+  "9cf47f00-b26d-416b-8ae7-49fbd1bbefa6": {
+    "asset": 1547449353355,
+    "meta": 1547449386027,
+    "relativePath": "scripts\\app\\ui\\UIQuick.ts"
+  },
+  "242dd431-3b07-468c-921b-a5e66a52a98d": {
+    "asset": 1547546487783,
+    "meta": 1547546550610,
+    "relativePath": "scripts\\app\\ui\\UIScorePve.ts"
+  },
+  "c97453a3-6d42-4a25-9005-9aa3b5b3a11c": {
+    "asset": 1547449353448,
+    "meta": 1547449386076,
+    "relativePath": "scripts\\app\\ui\\UIQuitConfirmPvp.ts"
+  },
+  "133d7069-aa0a-48d9-ad63-5f2845e9c7b1": {
+    "asset": 1548229365909,
+    "meta": 1548229557623,
+    "relativePath": "scripts\\app\\ui\\UILevelInfo.ts"
+  },
+  "a31e37f3-485c-478b-a924-f37ad7165e53": {
+    "asset": 1548229365907,
+    "meta": 1548229557688,
+    "relativePath": "scripts\\app\\ui\\UIRankPve.ts"
+  },
+  "cbbd534c-4cf5-49eb-a542-cff0541983a9": {
+    "asset": 1547546487786,
+    "meta": 1547546550266,
+    "relativePath": "scripts\\app\\ui\\UIAchievement.ts"
+  },
+  "1a382fda-2d20-4f37-afb4-fddbc44cd8f5": {
+    "asset": 1547704116348,
+    "meta": 1547704144847,
+    "relativePath": "scripts\\app\\component\\prefab\\UIEnergy.ts"
+  },
+  "efbf627f-4f99-463a-9dec-cf5bd7a33153": {
+    "asset": 1547194269548,
+    "meta": 1548229555171,
+    "relativePath": "resources\\ui\\UIInviteDevConfirm.prefab"
+  },
+  "96b139b3-cc63-44ab-88e2-ef8c07d44a1f": {
+    "asset": 1548229374498,
+    "meta": 1547449357213,
+    "relativePath": "res\\ui\\chooseRoom"
+  },
+  "de1afe68-59ee-470f-9e3f-a3255f195a5e": {
+    "asset": 1547449359276,
+    "meta": 1548232469837,
+    "relativePath": "res\\ui\\chooseRoom\\ChooseLv-Btn1.png"
+  },
+  "a3f01bb5-e9c2-4e10-97d8-59f5d310c1e2": {
+    "asset": 1547449359253,
+    "meta": 1548232469835,
+    "relativePath": "res\\ui\\chooseRoom\\ChooseLv-bk.png"
+  },
+  "59602d0a-93ae-46af-a66d-3a39b0aaaacc": {
+    "asset": 1547449359210,
+    "meta": 1548232469847,
+    "relativePath": "res\\ui\\chooseRoom\\ChooseLv-Btn3.png"
+  },
+  "fea1d83c-8365-4e42-9ccc-4458637c1ef7": {
+    "asset": 1547449359281,
+    "meta": 1548232469844,
+    "relativePath": "res\\ui\\chooseRoom\\ChooseLv-Btn2.png"
+  },
+  "61a1c5c2-4eb4-4da2-bc3c-effcd64f6ff3": {
+    "asset": 1547449359218,
+    "meta": 1548232469854,
+    "relativePath": "res\\ui\\chooseRoom\\ChooseLv-Btn4.png"
+  },
+  "33a3dcd3-5248-4f6f-80b1-3cc68d4fcadb": {
+    "asset": 1547449359224,
+    "meta": 1548232469858,
+    "relativePath": "res\\ui\\chooseRoom\\ChooseLv-Btn5.png"
+  },
+  "a32c0d7e-524b-4426-994d-472db0939207": {
+    "asset": 1548744761971,
+    "meta": 1547449359324,
+    "relativePath": "res\\ui\\common"
+  },
+  "446a891c-2a98-4977-8b1b-9ed1d55df8de": {
+    "asset": 1547449357641,
+    "meta": 1548232469882,
+    "relativePath": "res\\ui\\common\\adv-decoration.png"
+  },
+  "e919d732-66d0-417f-a191-a1f981fb5d4f": {
+    "asset": 1547176792357,
+    "meta": 1548232470390,
+    "relativePath": "resources\\res\\share\\juzi.png"
+  },
+  "af63e9d5-16df-4f5a-bf06-0bbe6fe50671": {
+    "asset": 1547176787722,
+    "meta": 1548232470378,
+    "relativePath": "resources\\res\\share\\guoyuan.png"
+  },
+  "ea84d8dc-9e57-4197-b984-3bb22604a1f7": {
+    "asset": 1547449352148,
+    "meta": 1548229555310,
+    "relativePath": "resources\\ui\\UIShare.prefab"
+  },
+  "18f6cf6d-4b2d-452d-ab6c-9775f4ba9c78": {
+    "asset": 1547716873000,
+    "meta": 1547722762870,
+    "relativePath": "scripts\\app\\common\\net\\proto\\mods\\ProtoSectionSignIn.ts"
+  },
+  "73c54fbf-1e73-4a10-bb21-fc9743f9c0e7": {
+    "asset": 1548319807908,
+    "meta": 1547449354733,
+    "relativePath": "scripts\\app\\ui"
+  },
+  "bff94e86-32c7-4796-8bd7-d304feefcbdf": {
+    "asset": 1547546489383,
+    "meta": 1548232470152,
+    "relativePath": "res\\ui\\common\\word_tip.png"
+  },
+  "bebb061c-12ab-47e0-b245-5ca803ee2585": {
+    "asset": 1547704117410,
+    "meta": 1548229555150,
+    "relativePath": "resources\\ui\\UIGetCoin.prefab"
+  },
+  "3be613a4-b51e-4756-a3de-63c51ece2a9f": {
+    "asset": 1548229364895,
+    "meta": 1548229556413,
+    "relativePath": "scripts\\app\\component\\game\\pve\\panelGuidePve.ts"
+  },
+  "69a1ba97-4d76-4faf-8cb6-f788590c14e9": {
+    "asset": 1547546488446,
+    "meta": 1547546547481,
+    "relativePath": "scripts\\app\\component\\game\\pve\\PanelHeaderPve.ts"
+  },
+  "2033a744-df60-4389-a43d-0bd9f5e8ee78": {
+    "asset": 1547546488431,
+    "meta": 1547546548042,
+    "relativePath": "scripts\\app\\component\\game\\pve\\PlayManagerPve.ts"
+  },
+  "4468686a-577c-485b-af92-842d40950c5d": {
+    "asset": 1547704116862,
+    "meta": 1547704142733,
+    "relativePath": "res\\anim\\pvpBeyond.anim"
+  },
+  "35e60c0e-9407-4e41-9cbc-7c749872b30c": {
+    "asset": 1547704116858,
+    "meta": 1547704142742,
+    "relativePath": "res\\anim\\pvpLag.anim"
+  },
+  "c27091c0-0f3e-47c7-abd1-883d020ec501": {
+    "asset": 1547704116660,
+    "meta": 1548232469863,
+    "relativePath": "res\\ui\\chooseRoom\\room1.png"
+  },
+  "a1fdea5b-84c2-4490-8326-e9f4e7dacaef": {
+    "asset": 1547704116663,
+    "meta": 1548232469864,
+    "relativePath": "res\\ui\\chooseRoom\\room2.png"
+  },
+  "2768c31a-ff14-43d5-bb9c-6653a497c049": {
+    "asset": 1547704116667,
+    "meta": 1548232469872,
+    "relativePath": "res\\ui\\chooseRoom\\room3.png"
+  },
+  "16a71ab0-1cbd-496e-a60f-2e3f40264e95": {
+    "asset": 1547704116674,
+    "meta": 1548232469878,
+    "relativePath": "res\\ui\\chooseRoom\\room5.png"
+  },
+  "f9bacf24-0efc-40d2-a748-9bd1eb5e2534": {
+    "asset": 1547704116670,
+    "meta": 1548232469871,
+    "relativePath": "res\\ui\\chooseRoom\\room4.png"
+  },
+  "848ea219-0e5d-4ef2-8f5c-910e27b3eee1": {
+    "asset": 1547704116770,
+    "meta": 1548232469900,
+    "relativePath": "res\\ui\\common\\baoxiang.png"
+  },
+  "363dc79a-94d6-4c72-a5f4-32f25e192d6d": {
+    "asset": 1547776233592,
+    "meta": 1547780404410,
+    "relativePath": "res\\anim\\getProp3.anim"
+  },
+  "0ee0bcfc-5db7-453b-9668-a134fe0bf6d4": {
+    "asset": 1548229375125,
+    "meta": 1548232470113,
+    "relativePath": "res\\ui\\common\\singleColor2.png"
+  },
+  "127bde84-0784-4bf6-b476-216ec92b3428": {
+    "asset": 1548229375135,
+    "meta": 1548232470133,
+    "relativePath": "res\\ui\\common\\singleColor3.png"
+  },
+  "f3640538-bc6d-4618-83d5-bdfb4807f7e0": {
+    "asset": 1548385364706,
+    "meta": 1548385385339,
+    "relativePath": "partner\\PartnerBase.js"
+  },
+  "be77e846-5d50-45b1-9f3f-eeb9264f4582": {
+    "asset": 1548041272943,
+    "meta": 1548232468921,
+    "relativePath": "res\\home\\mode-pve2-friend.png"
+  },
+  "0ec2c4ee-531f-45cd-bf4c-65d39f805ace": {
+    "asset": 1548041272962,
+    "meta": 1548232468880,
+    "relativePath": "res\\home\\buff-toast.png"
+  },
+  "1cc4de39-933e-4068-bce8-51527c69a8da": {
+    "asset": 1548041272949,
+    "meta": 1548232468945,
+    "relativePath": "res\\home\\mode-pvp2.png"
+  },
+  "c6fc16b4-e874-4791-a0d1-d7f9be823f2f": {
+    "asset": 1548041272997,
+    "meta": 1548232468925,
+    "relativePath": "res\\home\\mode-pve2.png"
+  },
+  "0cc9f29d-1b37-4574-993c-7c71bcf49914": {
+    "asset": 1548041272534,
+    "meta": 1548232469911,
+    "relativePath": "res\\ui\\common\\bk-2.png"
+  },
+  "713be33b-5a08-44d3-9118-a3a37469bc68": {
+    "asset": 1548041272541,
+    "meta": 1548232469935,
+    "relativePath": "res\\ui\\common\\bk-title-head-frame.png"
+  },
+  "4b12821a-5710-430f-8718-eb8a2314c020": {
+    "asset": 1548041273293,
+    "meta": 1548229555131,
+    "relativePath": "resources\\ui\\UIAchievement.prefab"
+  },
+  "a414f496-d42a-4252-8a78-ceec324f33eb": {
+    "asset": 1548229376059,
+    "meta": 1548229555134,
+    "relativePath": "resources\\ui\\UIChoosePvp.prefab"
+  },
+  "373b42ab-1bd3-449c-a393-ffa47a051e2c": {
+    "asset": 1548041273284,
+    "meta": 1548229555213,
+    "relativePath": "resources\\ui\\UILevelInfo.prefab"
+  },
+  "ac1a4e96-9b37-42a6-bd79-8076f9a6bf70": {
+    "asset": 1548041273251,
+    "meta": 1548229555251,
+    "relativePath": "resources\\ui\\UIMatch.prefab"
+  },
+  "fd118f7a-7884-4542-99e7-7da737c5cde4": {
+    "asset": 1548229376072,
+    "meta": 1548229555284,
+    "relativePath": "resources\\ui\\UIRank.prefab"
+  },
+  "cbaf4407-72f7-42a6-8602-c727907d3767": {
+    "asset": 1548744762121,
+    "meta": 1548744984540,
+    "relativePath": "resources\\ui\\UISign.prefab"
+  },
+  "5c735719-646d-4e69-adf2-d4a6b1f6baeb": {
+    "asset": 1548041273553,
+    "meta": 1548041609823,
+    "relativePath": "scenes\\game.fire"
+  },
+  "89e218f5-cce9-47c3-a764-1c2193b554a3": {
+    "asset": 1548744760769,
+    "meta": 1548744984556,
+    "relativePath": "scenes\\home.fire"
+  },
+  "f3817d18-af08-46dc-8ff1-be8f4c260953": {
+    "asset": 1548041273548,
+    "meta": 1548041609839,
+    "relativePath": "scenes\\levelChoose.fire"
+  },
+  "410529f2-f1f4-42fd-9e5d-170932aa1261": {
+    "asset": 1548041271609,
+    "meta": 1548041610068,
+    "relativePath": "scripts\\app\\common\\config\\vo\\ConfigVO.ts"
+  },
+  "e0c217a8-cff9-47f2-8d74-ac78662adaac": {
+    "asset": 1548385364784,
+    "meta": 1548385386535,
+    "relativePath": "scenes\\pve_game.fire"
+  },
+  "92387f2f-75b2-494a-a9cb-651ff7337b1f": {
+    "asset": 1548041271704,
+    "meta": 1548041610210,
+    "relativePath": "scripts\\app\\common\\Message.ts"
+  },
+  "3e68846c-2de0-4df6-aa0b-22671b1b5ec0": {
+    "asset": 1548229364032,
+    "meta": 1548229557002,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\LayerGame.ts"
+  },
+  "d03c5a75-0dee-401f-87bb-2de708af663d": {
+    "asset": 1548229364035,
+    "meta": 1548229557095,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\prefab\\ObstaclePvp.ts"
+  },
+  "4fe56a4f-f7c9-485b-87bc-0361c1adaef0": {
+    "asset": 1548229365447,
+    "meta": 1548229557428,
+    "relativePath": "scripts\\app\\component\\page\\home\\RoomNetHandler.ts"
+  },
+  "6e871674-0a32-4a52-82a4-62a36a83ecf4": {
+    "asset": 1548229365507,
+    "meta": 1548229557461,
+    "relativePath": "scripts\\app\\component\\page\\login\\AccNetHandler.ts"
+  },
+  "6d35d300-64c7-4027-9055-f325b4419536": {
+    "asset": 1548744761035,
+    "meta": 1548744985080,
+    "relativePath": "scripts\\app\\component\\page\\login\\LoginUI.ts"
+  },
+  "30dbda67-f119-4ea6-bad5-d45dfbf8e0cc": {
+    "asset": 1548229365903,
+    "meta": 1548229557552,
+    "relativePath": "scripts\\app\\ui\\UIChoosePvp.ts"
+  },
+  "a063b231-f020-4774-8731-4aa318c30e69": {
+    "asset": 1548041272925,
+    "meta": 1548232468870,
+    "relativePath": "res\\home\\icon_turntable.png"
+  },
+  "a8f034c7-ba82-4a3d-84a7-9260cbe23e2d": {
+    "asset": 1548744762125,
+    "meta": 1548744984545,
+    "relativePath": "resources\\ui\\UITurntable.prefab"
+  },
+  "cf4dfdeb-1c2d-467d-bcdf-67d9db270b7b": {
+    "asset": 1548053257854,
+    "meta": 1548053437329,
+    "relativePath": "scripts\\app\\common\\runtime\\RuntimeManager.ts"
+  },
+  "e56c631f-c33a-4bd3-8624-695428af7692": {
+    "asset": 1548053229303,
+    "meta": 1548053437331,
+    "relativePath": "scripts\\app\\common\\ShareManager.ts"
+  },
+  "88b497d6-e6e9-4016-9c77-909b920e7e3e": {
+    "asset": 1548059538581,
+    "meta": 1548059902888,
+    "relativePath": "scripts\\app\\module\\data\\mod\\DataRank.ts"
+  },
+  "007e5915-7470-476e-a815-151690c75d73": {
+    "asset": 1548137826920,
+    "meta": 1548138025842,
+    "relativePath": "scripts\\app\\component\\page\\home\\prefab\\RankTopThreePlayer.ts"
+  },
+  "64e63728-6413-419c-b76d-51bc48b08882": {
+    "asset": 1548229168278,
+    "meta": 1548229555628,
+    "relativePath": "scripts\\app\\common\\Misc.ts"
+  },
+  "503319f0-479c-4a91-9248-e704ffc94ed1": {
+    "asset": 1548229364893,
+    "meta": 1548229556412,
+    "relativePath": "scripts\\app\\component\\game\\pve\\LayerGamePve.ts"
+  },
+  "be3e747c-48db-4f70-9567-3bd1b93195d4": {
+    "asset": 1548212292243,
+    "meta": 1548215232583,
+    "relativePath": "scripts\\app\\component\\game\\pve\\PlayUIPve.ts"
+  },
+  "f56d4058-664d-4b35-864b-1dd288d238ca": {
+    "asset": 1548744760833,
+    "meta": 1548744984981,
+    "relativePath": "scripts\\app\\component\\page\\home\\HomeManager.ts"
+  },
+  "27ff9f64-6784-4668-901a-00157013f6b4": {
+    "asset": 1548229365910,
+    "meta": 1548229557637,
+    "relativePath": "scripts\\app\\ui\\UIRank.ts"
+  },
+  "82bf433f-9a65-4632-aa81-f553a26989b7": {
+    "asset": 1548229373835,
+    "meta": 1548229547085,
+    "relativePath": "res\\game\\pve\\AutoAtlas.pac"
+  },
+  "3a6529b0-b9f4-471f-a045-ea67cf4c6dce": {
+    "asset": 1548229372650,
+    "meta": 1548229547736,
+    "relativePath": "res\\game\\pvp\\effect\\AutoAtlas.pac"
+  },
+  "d19590a6-7fb9-4c45-a9df-5a350df80003": {
+    "asset": 1548229373040,
+    "meta": 1548229548351,
+    "relativePath": "res\\game\\pvp\\ui\\AutoAtlas.pac"
+  },
+  "4c23b3b4-9bc0-4950-978b-e161ae3d31f7": {
+    "asset": 1548229370454,
+    "meta": 1548229548558,
+    "relativePath": "res\\game\\tiles\\AutoAtlas.pac"
+  },
+  "af755eaf-a44c-42d7-bc60-699e90554966": {
+    "asset": 1548229374170,
+    "meta": 1548229549879,
+    "relativePath": "res\\game\\ui\\AutoAtlas.pac"
+  },
+  "3f962ae6-2d31-43d2-905b-423b8f9aa5d0": {
+    "asset": 1548229366883,
+    "meta": 1548229550158,
+    "relativePath": "res\\home\\AutoAtlas.pac"
+  },
+  "26c1f8cb-1351-4c8c-9be2-9c93108994dc": {
+    "asset": 1548229369683,
+    "meta": 1548229550582,
+    "relativePath": "res\\levelChoose\\bg\\AutoAtlas.pac"
+  },
+  "815d4503-cb44-4808-b8e6-e891a9f638ba": {
+    "asset": 1548229369902,
+    "meta": 1548229550666,
+    "relativePath": "res\\levelChoose\\common\\AutoAtlas.pac"
+  },
+  "7d65d502-cc83-4b4f-9780-a40b9ab5c56f": {
+    "asset": 1548229374267,
+    "meta": 1548229550925,
+    "relativePath": "res\\loading\\AutoAtlas.pac"
+  },
+  "417666a1-eedf-4764-adf1-49142acf9425": {
+    "asset": 1548229367683,
+    "meta": 1548229551481,
+    "relativePath": "res\\prefab\\achievement\\AutoAtlas.pac"
+  },
+  "57ad6de3-8c26-4809-b145-71b5ba42ba97": {
+    "asset": 1548229368789,
+    "meta": 1548229551605,
+    "relativePath": "res\\prefab\\energy\\AutoAtlas.pac"
+  },
+  "2ec6fc86-dc67-4a3a-890b-1370a7399d35": {
+    "asset": 1548229368954,
+    "meta": 1548229551745,
+    "relativePath": "res\\prefab\\layerMatch\\AutoAtlas.pac"
+  },
+  "3dd7c6ff-ccd8-4ccd-95b9-56ad4ab608fd": {
+    "asset": 1548229368307,
+    "meta": 1548229551852,
+    "relativePath": "res\\prefab\\layerScore\\common\\AutoAtlas.pac"
+  },
+  "5d1c5dbc-8d2a-46d6-85ae-4d6e6c5f8867": {
+    "asset": 1548229368499,
+    "meta": 1548229551932,
+    "relativePath": "res\\prefab\\layerScore\\pve\\AutoAtlas.pac"
+  },
+  "b5990418-9673-4cc6-a88f-70a796d1d372": {
+    "asset": 1548229368158,
+    "meta": 1548229552006,
+    "relativePath": "res\\prefab\\layerScore\\pvp\\AutoAtlas.pac"
+  },
+  "acd87826-5f8c-4f7a-9a99-1742066f412e": {
+    "asset": 1548229367383,
+    "meta": 1548229552224,
+    "relativePath": "res\\prefab\\rankList\\AutoAtlas.pac"
+  },
+  "e940827e-bc07-4982-9dbd-a4e68460b751": {
+    "asset": 1548229366171,
+    "meta": 1548229552379,
+    "relativePath": "res\\preload\\AutoAtlas.pac"
+  },
+  "dec711ac-e3f5-4dd0-9476-3e4da83a5b5c": {
+    "asset": 1547449359243,
+    "meta": 1548229552474,
+    "relativePath": "res\\ui\\chooseRoom\\AutoAtlas.pac"
+  },
+  "0ca002db-e67e-4aa7-b128-19b67d2339f1": {
+    "asset": 1548229375112,
+    "meta": 1548229552581,
+    "relativePath": "res\\ui\\common\\AutoAtlas.pac"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1541500800000,
+    "meta": 1548232466040,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1541500800000,
+    "meta": 1548232466125,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1541500800000,
+    "meta": 1548232466134,
+    "relativePath": "particle\\atom.png"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1541500800000,
+    "meta": 1548232466168,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "892ee95a-065c-4e78-b289-dab689cf4129": {
+    "asset": 1548319807205,
+    "meta": 1548319850647,
+    "relativePath": "scripts\\app\\common\\event\\EventDispatcher.ts"
+  },
+  "3f4caa47-b73c-4332-afc1-7014f80c19e6": {
+    "asset": 1548319807963,
+    "meta": 1548319850655,
+    "relativePath": "resources\\ui\\UIGetProp.prefab"
+  },
+  "9ca443ba-c27d-480c-824a-a0e97fad8fef": {
+    "asset": 1548319807205,
+    "meta": 1548319850657,
+    "relativePath": "scripts\\app\\common\\event\\IEventDispatcher.ts"
+  },
+  "0bdfbad4-f6b0-49b0-bb7e-3d5683a9d6be": {
+    "asset": 1548319807347,
+    "meta": 1548319850865,
+    "relativePath": "scripts\\app\\common\\net\\NetController.ts"
+  },
+  "88aaa3be-41d8-4338-ad0a-423475dff4c6": {
+    "asset": 1548319807445,
+    "meta": 1548319850929,
+    "relativePath": "scripts\\app\\common\\persist\\GamePersist.ts"
+  },
+  "a1f99914-8ba5-4263-ace8-111afd1bf521": {
+    "asset": 1548319807101,
+    "meta": 1548319851056,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\Bottom.ts"
+  },
+  "7589f29c-bc50-4aef-950b-6a1e012e7636": {
+    "asset": 1548319807099,
+    "meta": 1548319851057,
+    "relativePath": "scripts\\app\\component\\game\\pvp\\PlayUI.ts"
+  },
+  "8f255f53-461e-4b25-88e1-1850e6d60c09": {
+    "asset": 1548319806808,
+    "meta": 1548319851140,
+    "relativePath": "scripts\\app\\component\\page\\home\\Prop.ts"
+  },
+  "338a3296-1ece-48fa-8513-1e32b95a59b9": {
+    "asset": 1548744761030,
+    "meta": 1548744985024,
+    "relativePath": "scripts\\app\\component\\page\\login\\AccManager.ts"
+  },
+  "5254663e-2fad-4f1c-9135-3ddf26b59f94": {
+    "asset": 1548319807907,
+    "meta": 1548319851218,
+    "relativePath": "scripts\\app\\ui\\UIGetCoin.ts"
+  },
+  "e7967be6-817d-4cc3-b886-3b22362c6ee4": {
+    "asset": 1548319807891,
+    "meta": 1548319851257,
+    "relativePath": "scripts\\app\\ui\\UIGetProp.ts"
+  },
+  "d0bc2501-9326-4be0-8d90-fc514b73bfc2": {
+    "asset": 1548319807899,
+    "meta": 1548319851302,
+    "relativePath": "scripts\\app\\ui\\UIInviteFriend.ts"
+  },
+  "e00e693a-30da-4c6e-bbd9-3d37d588649b": {
+    "asset": 1548319807888,
+    "meta": 1548319851372,
+    "relativePath": "scripts\\app\\ui\\UIMatch.ts"
+  },
+  "ef518624-628b-4547-bfca-9adc20f59cda": {
+    "asset": 1548319807890,
+    "meta": 1548319851416,
+    "relativePath": "scripts\\app\\ui\\UIScorePvp.ts"
+  },
+  "eca3a5c2-7af8-4715-9e21-669e6818f2e9": {
+    "asset": 1548319807908,
+    "meta": 1548319851484,
+    "relativePath": "scripts\\app\\ui\\UISign.ts"
+  },
+  "20c9b32f-4475-47b2-af4a-2da793ec1295": {
+    "asset": 1548319807889,
+    "meta": 1548319851528,
+    "relativePath": "scripts\\app\\ui\\UITurntable.ts"
+  },
+  "35388a44-beb7-445a-b9f2-5b1df0cdb8ca": {
+    "asset": 1548319806303,
+    "meta": 1548319851532,
+    "relativePath": "scripts\\dyGame\\DYNotify.ts"
+  },
+  "af37a2c2-d6c5-451b-8168-2ac5b9680c68": {
+    "asset": 1548322053467,
+    "meta": 1548322072457,
+    "relativePath": "scripts\\app\\component\\page\\home\\HomeUI.ts"
+  },
+  "6a91f330-5e4e-43e7-8cdf-3294b3b6720d": {
+    "asset": 1548322825521,
+    "meta": 1548323347398,
+    "relativePath": "scripts\\app\\common\\social\\SocialManager.ts"
+  },
+  "e6c5b11f-7162-4ddc-a913-e6dcaa95a29a": {
+    "asset": 1548385364263,
+    "meta": 1548385386524,
+    "relativePath": "resources\\jsLib\\jszip\\jszip.min.js"
+  },
+  "15325533-2828-445d-b6ab-42af703c2a08": {
+    "asset": 1548385364241,
+    "meta": 1548385386524,
+    "relativePath": "resources\\jsLib\\jszip\\jszip.js"
+  },
+  "3d85c94b-c6dd-4da6-8be4-0907722e1833": {
+    "asset": 1548744760633,
+    "meta": 1548744984202,
+    "relativePath": "partner\\Partner.d.ts"
+  },
+  "7e3b10d1-d3f7-452d-8a69-7927d207538b": {
+    "asset": 1548744761972,
+    "meta": 1548744984375,
+    "relativePath": "res\\ui\\common\\btn-close.png"
+  },
+  "697fb1c5-728c-4b3a-b81b-d7cc0b29a51c": {
+    "asset": 1548744761930,
+    "meta": 1548744984423,
+    "relativePath": "res\\ui\\common\\1-签到.jpg"
+  },
+  "7a2d95a5-c1b9-40b2-a345-66b8090d3474": {
+    "asset": 1548744761860,
+    "meta": 1548744984429,
+    "relativePath": "res\\ui\\common\\LuckyDraw-bk.png"
+  },
+  "412279f8-cc09-4a96-b9a8-f4ab8e9f233a": {
+    "asset": 1548744761856,
+    "meta": 1548744984444,
+    "relativePath": "res\\ui\\common\\LuckyDraw-prize.png"
+  },
+  "e239ace8-400f-4e94-8923-b6f17cd4dc74": {
+    "asset": 1548744761945,
+    "meta": 1548744984448,
+    "relativePath": "res\\ui\\common\\LuckyDraw-button.png"
+  },
+  "2a072b08-1d84-454e-be75-284b0ebc8d58": {
+    "asset": 1548744761934,
+    "meta": 1548744984471,
+    "relativePath": "res\\ui\\common\\sign-dateBk.png"
+  },
+  "3189be53-4ed9-4ba7-9aa8-52141b649e1c": {
+    "asset": 1548744761864,
+    "meta": 1548744984494,
+    "relativePath": "res\\ui\\common\\sign-Day7.png"
+  },
+  "4651d7df-7cb3-497c-8f97-61f18d85bbb1": {
+    "asset": 1548744761853,
+    "meta": 1548744984497,
+    "relativePath": "res\\ui\\common\\sign-received.png"
+  },
+  "2db8743b-873c-431a-8c5a-dfe9998fb626": {
+    "asset": 1548744761941,
+    "meta": 1548744984528,
+    "relativePath": "res\\ui\\common\\sign-receivedBg.png"
+  },
+  "b8672c0b-29d1-47fd-872d-ba29b6789133": {
+    "asset": 1548744761965,
+    "meta": 1548744984530,
+    "relativePath": "res\\ui\\common\\sign-received1.png"
+  },
+  "e137e939-f82a-4e58-a6c0-3ab437b2c001": {
+    "asset": 1548744761844,
+    "meta": 1548744984560,
+    "relativePath": "res\\ui\\common\\title-sign.png"
+  }
+}

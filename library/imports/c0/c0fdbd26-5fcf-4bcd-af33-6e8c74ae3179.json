@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yunxuan_tx6",
+    "texture": "e314a45a-1cf1-4653-b00b-c361e02833e6",
+    "atlas": "",
+    "rect": [
+      13,
+      27,
+      42,
+      35
+    ],
+    "offset": [
+      -72,
+      18.5
+    ],
+    "originalSize": [
+      212,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

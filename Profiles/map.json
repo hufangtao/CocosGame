@@ -1,0 +1,215 @@
+{
+  "0": {
+    "id": 0,
+    "path": "Map/test2",
+    "mapFloor": [
+      "floor1",
+      "floor2"
+    ],
+    "mapBlock": [
+      "block"
+    ],
+    "mapMonster": [
+      "monster"
+    ],
+    "mapBox": [
+      "box"
+    ],
+    "mapGame": [
+      4
+    ],
+    "mapPlayer": "player",
+    "playerStart": "start",
+    "playerEnd": [
+      "end1",
+      "end2"
+    ],
+    "reward": [
+      1204,
+      1110
+    ],
+    "monster": [
+      1001
+    ],
+    "drop": [
+      101
+    ],
+    "Desc": "P_1",
+    "": "沉船第0层"
+  },
+  "1": {
+    "id": 1,
+    "path": "Map/test3",
+    "mapFloor": [
+      "P_3"
+    ],
+    "mapBlock": [
+      1
+    ],
+    "mapMonster": [
+      2
+    ],
+    "mapBox": [
+      "box"
+    ],
+    "mapGame": [
+      0
+    ],
+    "mapPlayer": "player",
+    "playerStart": "start",
+    "playerEnd": [
+      "end"
+    ],
+    "reward": [
+      0
+    ],
+    "monster": [
+      0
+    ],
+    "drop": [
+      0
+    ],
+    "Desc": "P_2",
+    "": "沉船第1层"
+  },
+  "2": {
+    "id": 2,
+    "path": "Map/test4",
+    "mapFloor": [
+      "P_4"
+    ],
+    "mapBlock": [
+      1
+    ],
+    "mapMonster": [
+      2
+    ],
+    "mapBox": [
+      0
+    ],
+    "mapGame": [
+      0
+    ],
+    "mapPlayer": "player",
+    "playerStart": "start",
+    "playerEnd": [
+      "end"
+    ],
+    "reward": [
+      0
+    ],
+    "monster": [
+      0
+    ],
+    "drop": [
+      0
+    ],
+    "Desc": "P_3",
+    "": "沉船第2层"
+  },
+  "3": {
+    "id": 3,
+    "path": "Map/test5",
+    "mapFloor": [
+      "P_5"
+    ],
+    "mapBlock": [
+      1
+    ],
+    "mapMonster": [
+      2
+    ],
+    "mapBox": [
+      0
+    ],
+    "mapGame": [
+      0
+    ],
+    "mapPlayer": "player",
+    "playerStart": "start",
+    "playerEnd": [
+      "end"
+    ],
+    "reward": [
+      0
+    ],
+    "monster": [
+      0
+    ],
+    "drop": [
+      0
+    ],
+    "Desc": "P_4",
+    "": "沉船第3层"
+  },
+  "4": {
+    "id": 4,
+    "path": "Map/test6",
+    "mapFloor": [
+      "P_6"
+    ],
+    "mapBlock": [
+      1
+    ],
+    "mapMonster": [
+      2
+    ],
+    "mapBox": [
+      0
+    ],
+    "mapGame": [
+      0
+    ],
+    "mapPlayer": "player",
+    "playerStart": "start",
+    "playerEnd": [
+      "end"
+    ],
+    "reward": [
+      0
+    ],
+    "monster": [
+      0
+    ],
+    "drop": [
+      0
+    ],
+    "Desc": "P_5",
+    "": "沉船第4层"
+  },
+  "5": {
+    "id": 5,
+    "path": "Map/test7",
+    "mapFloor": [
+      "P_7"
+    ],
+    "mapBlock": [
+      1
+    ],
+    "mapMonster": [
+      0
+    ],
+    "mapBox": [
+      0
+    ],
+    "mapGame": [
+      0
+    ],
+    "mapPlayer": "player",
+    "playerStart": "start",
+    "playerEnd": [
+      "end"
+    ],
+    "reward": [
+      0
+    ],
+    "monster": [
+      0
+    ],
+    "drop": [
+      0
+    ],
+    "Desc": "P_6",
+    "": "沉船第5层"
+  }
+}

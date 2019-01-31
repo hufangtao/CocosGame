@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-duizhan",
+    "texture": "937ba850-6585-4912-88ac-ffb75bafb7ba",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      205,
+      114
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      209,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

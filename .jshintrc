@@ -1,0 +1,10 @@
+{
+  "asi": true,
+  "laxcomma": true,
+  "node": true,
+  "strict": false,
+  "esversion": 6,
+  "quotmark": "double",
+  "unused": "vars",
+  "devel": true
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_short_step",
+    "texture": "92de8679-f271-49a5-955a-fb49cb3a698b",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      509,
+      262
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      512,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

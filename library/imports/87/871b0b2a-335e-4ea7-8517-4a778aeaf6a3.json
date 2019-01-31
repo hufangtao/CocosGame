@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellow-GO",
+    "texture": "74b94588-fac7-48d7-870f-ecb882866af5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

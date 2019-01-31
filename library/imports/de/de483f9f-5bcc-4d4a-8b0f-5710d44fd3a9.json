@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-friendrank2",
+    "texture": "b2701901-0404-4089-991d-fdf672547270",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      133,
+      35
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      134,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

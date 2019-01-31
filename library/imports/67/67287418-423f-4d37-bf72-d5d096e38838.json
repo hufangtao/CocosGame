@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buff-toast",
+    "texture": "0ec2c4ee-531f-45cd-bf4c-65d39f805ace",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      391
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      391
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

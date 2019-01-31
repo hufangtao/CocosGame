@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-normal",
+    "texture": "783661de-6222-4f06-b2ed-a488d06529fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

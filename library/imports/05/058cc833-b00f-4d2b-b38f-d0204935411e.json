@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sign-dateBk",
+    "texture": "2a072b08-1d84-454e-be75-284b0ebc8d58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

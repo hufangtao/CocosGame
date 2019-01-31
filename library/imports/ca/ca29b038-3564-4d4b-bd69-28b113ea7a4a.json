@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-tili",
+    "texture": "6d9bba34-c272-4ea6-b243-aaa26bede829",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

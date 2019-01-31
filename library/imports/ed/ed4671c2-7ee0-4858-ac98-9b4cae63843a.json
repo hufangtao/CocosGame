@@ -1,0 +1,160 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aniGenBomb",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "content/sprTile": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "content/sprBg": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "bdc4a4de-ee4f-4eb9-9e72-2f26bc26e4b5"
+                }
+              },
+              {
+                "frame": 0.041666666666666664,
+                "value": {
+                  "__uuid__": "832c1b70-35df-46df-9bb7-a11ab0ab3f39"
+                }
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "73e7a401-5ebc-4cb3-ad2b-bd93d47f3e05"
+                }
+              },
+              {
+                "frame": 0.125,
+                "value": {
+                  "__uuid__": "85622d8b-9f44-4a75-846c-4fa6d31eb2ea"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "ac50f79d-7f5b-4178-898f-6a58b4f57d0c"
+                }
+              },
+              {
+                "frame": 0.20833333333333334,
+                "value": {
+                  "__uuid__": "faf5319a-7e4b-4077-ace2-2062d67174db"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "80c175b8-2afe-4200-9722-adc6cebb96f6"
+                }
+              },
+              {
+                "frame": 0.2916666666666667,
+                "value": {
+                  "__uuid__": "4790adad-b4f9-4c81-9bdf-df304f2cdd46"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "6689d45a-dee3-40e3-9ac1-7cb4801efd44"
+                }
+              },
+              {
+                "frame": 0.375,
+                "value": {
+                  "__uuid__": "c99db255-78cd-4dc5-bc36-a74e5be30fee"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "8924ba69-a604-4cbd-a110-3405f8e9cbee"
+                }
+              },
+              {
+                "frame": 0.4583333333333333,
+                "value": {
+                  "__uuid__": "128f739c-a3ef-4655-9643-09e2d123edfd"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "65548986-7e0e-400e-adf7-4131fbc948f5"
+                }
+              },
+              {
+                "frame": 0.5416666666666666,
+                "value": {
+                  "__uuid__": "e3db25ef-04ac-4e19-8e19-c55fd046b4e2"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "dd4e1222-8a7a-4fab-b7cb-ee1df820616c"
+                }
+              },
+              {
+                "frame": 0.625,
+                "value": {
+                  "__uuid__": "5f745dfc-6979-4f60-9f94-32333387c60d"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5416666666666666,
+      "func": "genBombEnd",
+      "params": []
+    }
+  ]
+}

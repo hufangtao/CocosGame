@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-fruites",
+    "texture": "ccc8e563-1a4b-414e-9f79-e10ee33a3098",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      255,
+      148
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      149
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

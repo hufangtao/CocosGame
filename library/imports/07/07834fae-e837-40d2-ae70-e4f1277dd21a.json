@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guoyuan",
+    "texture": "af63e9d5-16df-4f5a-bf06-0bbe6fe50671",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      500,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

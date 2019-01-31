@@ -1,0 +1,135 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "choose-scene",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 9.958333333333334,
+  "sample": 24,
+  "speed": 0.5,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "windmill": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 10
+            },
+            {
+              "frame": 1.7083333333333333,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 10
+            },
+            {
+              "frame": 3.7083333333333335,
+              "value": 0
+            },
+            {
+              "frame": 4.083333333333333,
+              "value": 0
+            },
+            {
+              "frame": 4.916666666666667,
+              "value": 10
+            },
+            {
+              "frame": 5.791666666666667,
+              "value": 0
+            },
+            {
+              "frame": 6.166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 7,
+              "value": 10
+            },
+            {
+              "frame": 7.875,
+              "value": 0
+            },
+            {
+              "frame": 8.25,
+              "value": 0
+            },
+            {
+              "frame": 9.083333333333334,
+              "value": 10
+            },
+            {
+              "frame": 9.958333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "cloud1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                359,
+                398
+              ]
+            },
+            {
+              "frame": 5,
+              "value": [
+                315,
+                398
+              ]
+            }
+          ]
+        }
+      },
+      "cloud2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -459,
+                -470
+              ]
+            },
+            {
+              "frame": 9.958333333333334,
+              "value": [
+                569,
+                -470
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 200
+            },
+            {
+              "frame": 5,
+              "value": 255
+            },
+            {
+              "frame": 9.958333333333334,
+              "value": 200
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellow-addTime",
+    "texture": "55c2bf6b-2ca9-44c5-bf1f-0b4397957515",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      45
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      125,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

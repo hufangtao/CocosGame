@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-exclamation",
+    "texture": "033287b6-dd55-44e7-863e-b3d53077a66a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

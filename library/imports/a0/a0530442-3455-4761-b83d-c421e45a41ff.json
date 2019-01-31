@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bomb-light2",
+    "texture": "f066beb6-328f-4540-a488-caf4cd54a6d2",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      8,
+      15
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      8,
+      16
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

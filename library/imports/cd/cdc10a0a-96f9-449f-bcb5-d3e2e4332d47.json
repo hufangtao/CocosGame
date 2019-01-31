@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Firework_06",
+    "texture": "a430c9a8-8e74-41f5-8f5f-8cab1d4fda81",
+    "atlas": "",
+    "rect": [
+      58,
+      60,
+      144,
+      144
+    ],
+    "offset": [
+      2,
+      -4
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

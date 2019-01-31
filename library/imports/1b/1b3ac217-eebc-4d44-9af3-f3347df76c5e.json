@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuanwo_1",
+    "texture": "a08b1878-b59a-40df-be86-d8dce1149301",
+    "atlas": "",
+    "rect": [
+      20,
+      20,
+      214,
+      215
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

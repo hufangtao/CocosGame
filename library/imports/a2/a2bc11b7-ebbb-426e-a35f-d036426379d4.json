@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading-lblBK",
+    "texture": "6ac8dd37-b23f-4cf6-8848-f8380e5d2265",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      101
+    ],
+    "capInsets": [
+      105,
+      0,
+      105,
+      0
+    ]
+  }
+}

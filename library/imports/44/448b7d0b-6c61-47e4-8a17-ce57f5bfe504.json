@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect2-gate1",
+    "texture": "aa04e002-704b-4e40-96a1-cd279e312b08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+"key": [0,1],
+"cols": ["mod","key","value"],
+"vals": [
+  [
+    "audit",
+    "turtable",
+    1
+  ],
+  [
+    "goods",
+    "red_paper",
+    1
+  ],
+  [
+    "main",
+    "default_score",
+    800
+  ],
+  [
+    "play",
+    "invalid_operation_limit",
+    20
+  ],
+  [
+    "play",
+    "match_score",
+    80
+  ],
+  [
+    "play",
+    "min_star",
+    15
+  ],
+  [
+    "play",
+    "round_deadline",
+    45
+  ],
+  [
+    "turntable",
+    "cost_score",
+    300
+  ]
+]
+}

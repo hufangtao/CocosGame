@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-Readygo",
+    "texture": "12d995d1-522b-43fd-800f-68a97219f94c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      375,
+      279
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      376,
+      279
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

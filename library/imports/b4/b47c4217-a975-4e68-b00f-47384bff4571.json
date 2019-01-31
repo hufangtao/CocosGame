@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_turntable",
+    "texture": "a063b231-f020-4774-8731-4aa318c30e69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

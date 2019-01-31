@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aniZhazhiji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.20833333333333334,
+  "sample": 24,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "bomb": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "sprTile": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -180
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": 180
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

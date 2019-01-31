@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hcgx12",
+    "texture": "35a05f4c-6ed6-4091-b024-cd9814ff378a",
+    "atlas": "",
+    "rect": [
+      11,
+      9,
+      30,
+      29
+    ],
+    "offset": [
+      1,
+      1.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

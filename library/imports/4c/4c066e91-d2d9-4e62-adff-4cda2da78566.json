@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_cross",
+    "texture": "9c0af39f-5b56-4d21-85cd-1aa8c6e4bff5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      44,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      44,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

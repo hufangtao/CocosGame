@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "imgEnegyWord",
+    "texture": "8f34fa7b-e033-4ed6-9043-9e5ace18e72f",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      279,
+      95
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      280,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

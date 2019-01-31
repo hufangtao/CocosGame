@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Score-bar4",
+    "texture": "d457c3ff-d81f-4337-aa79-e9ef95b75f68",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      25
+    ],
+    "capInsets": [
+      19,
+      0,
+      17,
+      0
+    ]
+  }
+}

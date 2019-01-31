@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "second-bk",
+    "texture": "7651522c-fd7a-4a52-93a0-14b45a291307",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      196
+    ],
+    "capInsets": [
+      0,
+      125,
+      0,
+      59
+    ]
+  }
+}

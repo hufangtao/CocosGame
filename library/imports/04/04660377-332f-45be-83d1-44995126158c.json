@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guide-npc",
+    "texture": "99826f7e-be6a-4dc8-996d-9affd5320dea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      242,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

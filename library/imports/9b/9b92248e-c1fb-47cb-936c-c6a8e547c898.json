@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading-bigEffect",
+    "texture": "52124b55-e522-43bf-985c-70cc4148d9bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      420,
+      420
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      420,
+      420
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lose-bk-cloud",
+    "texture": "66084ed7-077e-4906-9089-0484abc9443e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      350,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

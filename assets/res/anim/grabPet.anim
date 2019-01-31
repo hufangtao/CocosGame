@@ -1,0 +1,219 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "grabPet",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "content/nodStars": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.05,
+              "value": true
+            },
+            {
+              "frame": 0.3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "content/nodStars/nodStar1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -58.6,
+                  85.4,
+                  22.2,
+                  85.4,
+                  -160.2,
+                  85.4
+                ]
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -369.6,
+                0
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "content/nodStars/nodStar2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -59.5,
+                  -80.8,
+                  28.7,
+                  -80.8,
+                  -155.7,
+                  -80.8
+                ]
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -369.6,
+                0
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "content/nodStars/nodStar3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -78.1,
+                  49.2,
+                  3.8,
+                  49.2,
+                  -179,
+                  49.2
+                ]
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -369.6,
+                0
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "content/nodStars/nodStar4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": [
+                [
+                  -81.8,
+                  -43.6,
+                  13.9,
+                  -43.6,
+                  -170.7,
+                  -43.6
+                ]
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -369.6,
+                0
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "content/nodStars/nodStar5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -369.6,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "content/nodStars/nodStar6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                -369.6,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "content/nodSpine": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.9,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 0.05,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mode-pve2-friend",
+    "texture": "be77e846-5d50-45b1-9f3f-eeb9264f4582",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

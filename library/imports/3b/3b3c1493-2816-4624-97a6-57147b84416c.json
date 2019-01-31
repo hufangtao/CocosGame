@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-pve2",
+    "texture": "a7e07201-672a-46eb-ac82-67e519e981dc",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      132,
+      35
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      134,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

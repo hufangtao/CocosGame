@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bk-match",
+    "texture": "e76c7d2a-defb-4bdb-9136-f066b5276f7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      564,
+      697
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      564,
+      697
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TV-effect-shadow",
+    "texture": "7f917d49-78d7-4c47-b308-582b2c3d9755",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      192,
+      193
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      195,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "SysTurntable",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "key": [
+      0
+    ],
+    "cols": [
+      "id",
+      "prob",
+      "goodsId",
+      "goodsNum",
+      "showImg",
+      "desc"
+    ],
+    "vals": [
+      [
+        1,
+        140,
+        1,
+        1,
+        "shop_goods_1",
+        "1元红包"
+      ],
+      [
+        2,
+        722,
+        4,
+        666,
+        "shop_goods_2",
+        "666积分"
+      ],
+      [
+        3,
+        9125,
+        4,
+        88,
+        "shop_goods_3",
+        "88积分"
+      ],
+      [
+        4,
+        0,
+        5,
+        1,
+        "shop_goods_4",
+        "iphoneX"
+      ],
+      [
+        5,
+        1,
+        1,
+        100,
+        "shop_goods_5",
+        "100元红包"
+      ],
+      [
+        6,
+        12,
+        1,
+        10,
+        "shop_goods_6",
+        "10元红包"
+      ]
+    ],
+    "id_list": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

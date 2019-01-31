@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_short_step",
+    "texture": "a2b00810-61ef-4f5f-bea3-04f9883ba96b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

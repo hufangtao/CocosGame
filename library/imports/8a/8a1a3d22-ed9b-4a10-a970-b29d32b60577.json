@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cracker_row",
+    "texture": "84ca70e1-4495-4325-aff2-1dbafc6d4bb2",
+    "atlas": "",
+    "rect": [
+      0,
+      17,
+      80,
+      54
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

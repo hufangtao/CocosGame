@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aniZZJ",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Sprite": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -44
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 110
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wordTomorrow",
+    "texture": "b1ee670f-54a3-45bd-a3e0-d36b7fe2a0c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

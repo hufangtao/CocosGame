@@ -1,0 +1,1 @@
+{"version":3,"sources":["UIDefines.ts"],"names":[],"mappings":";;;;;AAAA,UAAU;AACV,IAAY,WAGX;AAHD,WAAY,WAAW;IACrB,iDAAM,CAAA;IACN,2CAAG,CAAA;AACL,CAAC,EAHW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAGtB","file":"","sourceRoot":"..\\..\\..\\..\\..\\..\\assets\\scripts\\app\\component","sourcesContent":["// 确认面板的类型\r\nexport enum ConfirmType {\r\n  YES_NO,\r\n  YES,\r\n}\r\n"]}

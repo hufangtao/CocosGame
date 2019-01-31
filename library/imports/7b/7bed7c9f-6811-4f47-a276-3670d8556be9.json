@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guide-hand2",
+    "texture": "9f1ffa11-e785-4366-b089-c09b95093314",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      77,
+      73
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      79,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

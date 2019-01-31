@@ -1,0 +1,1 @@
+(function(){var e="ResRemoteUrl",n=window.ResRemoteUrl=function(){this.id=e,this.async=!0,this.pipeline=null,this.REMOTE_SERVER_ROOT=""};n.ID=e,n.prototype.handle=function(e,n){console.log("ResRemoteUrl"),e.url.substring(0,Partner.HEAD_IMG_HOST.length)!=Partner.HEAD_IMG_HOST&&(e.url=Partner.CDN_HOST+e.url),n(null,e)};window.resRemoteUrl=new n})();

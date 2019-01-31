@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-qiandao",
+    "texture": "dc736e9d-cd00-4df6-9863-f769c0fa65c5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

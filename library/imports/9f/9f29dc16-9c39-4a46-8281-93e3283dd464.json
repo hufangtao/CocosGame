@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_encourage_2",
+    "texture": "a2ebc339-4587-4dbb-a9c3-8d271989b6bd",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      321,
+      127
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      323,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

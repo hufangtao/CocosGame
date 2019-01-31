@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellow_more_award",
+    "texture": "7f4dfbae-946e-40d4-a6b3-d096018fc32d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      139,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

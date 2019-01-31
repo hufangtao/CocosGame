@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "outline_golden",
+    "texture": "d5fcbc40-7ed3-4d8a-8ec5-0964bd7b63a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      557,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      557,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

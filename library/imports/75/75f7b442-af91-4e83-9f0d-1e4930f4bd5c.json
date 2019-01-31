@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-pvp2",
+    "texture": "004a7cce-cdc3-45b0-b2ae-e67b34bdb9c9",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      134,
+      35
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      134,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellow-addStep",
+    "texture": "a0f520bc-ee39-431b-b6be-182665eafea1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      45
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      113,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

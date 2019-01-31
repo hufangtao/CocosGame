@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-TiaoZhanJieShu",
+    "texture": "2b5ffc00-d53e-4eb4-89e2-65411b2d49d1",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      478,
+      194
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      480,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

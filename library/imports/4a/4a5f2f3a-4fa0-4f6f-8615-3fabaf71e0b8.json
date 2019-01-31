@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-Zhong",
+    "texture": "6ab02817-9b55-4ae9-b358-67818ea39756",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      71,
+      78
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      76,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

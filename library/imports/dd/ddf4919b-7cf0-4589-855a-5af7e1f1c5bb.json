@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sign-Day7",
+    "texture": "3189be53-4ed9-4ba7-9aa8-52141b649e1c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      504,
+      199
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      504,
+      199
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

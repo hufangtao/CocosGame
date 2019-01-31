@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wordOk",
+    "texture": "36779dfc-ffd6-47c7-ac67-6c373e1b34a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

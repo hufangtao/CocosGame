@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "green-giveup",
+    "texture": "37af69a9-4e61-4d9f-a5d0-a95b77859522",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      153,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      153,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LuckyDraw-prize",
+    "texture": "412279f8-cc09-4a96-b9a8-f4ab8e9f233a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      437,
+      442
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      437,
+      442
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

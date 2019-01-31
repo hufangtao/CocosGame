@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_game_tip",
+    "texture": "ed231e76-067a-4647-881d-28b62f06debc",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      266,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

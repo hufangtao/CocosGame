@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-luobo",
+    "texture": "84606b1c-0792-4459-9da4-2ffbe713c16a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      170,
+      231
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      170,
+      232
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

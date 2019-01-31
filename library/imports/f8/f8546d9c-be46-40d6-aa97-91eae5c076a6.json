@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "white_brownstroke",
+    "texture": "f2ca901b-0f96-44ef-bda9-3f340390f457",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      447,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      447,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

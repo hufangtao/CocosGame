@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mode-pvp2",
+    "texture": "1cc4de39-933e-4068-bce8-51527c69a8da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      129
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      129
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

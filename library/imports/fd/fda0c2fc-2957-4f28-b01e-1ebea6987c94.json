@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-dot",
+    "texture": "f2054df6-844e-4fa4-9f67-36ca5befdf04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

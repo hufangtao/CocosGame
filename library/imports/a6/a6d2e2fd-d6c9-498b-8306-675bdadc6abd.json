@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt-exceed",
+    "texture": "ecfe3dab-7052-46b7-ae03-1d8f48cbdc26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      308,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      308,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading-star",
+    "texture": "3f00d3a2-b8f6-41b8-ab89-f4def452029d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      44,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

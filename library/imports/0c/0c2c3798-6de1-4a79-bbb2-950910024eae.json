@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnStartPve",
+    "texture": "70713f5f-db25-43bb-8aee-f3b5bc342a2b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      96
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "refrash",
+    "texture": "5078ec87-d8b5-487f-89b7-d4058aaf9f38",
+    "atlas": "",
+    "rect": [
+      8,
+      0,
+      63,
+      80
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

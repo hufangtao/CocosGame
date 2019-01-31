@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-jinbi",
+    "texture": "7e45772f-9ee6-49e4-bc2f-a08a968191b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

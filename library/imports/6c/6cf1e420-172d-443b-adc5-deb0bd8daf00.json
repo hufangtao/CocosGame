@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "base-unlocked",
+    "texture": "e542e0fe-e2d1-4fdd-b505-180a8edfbe30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

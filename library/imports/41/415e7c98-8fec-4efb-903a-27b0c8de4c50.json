@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "green-restart",
+    "texture": "43aee029-8f4f-4a5e-b4f3-bcbf0d3447f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      155,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

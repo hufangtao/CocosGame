@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bk-title-win",
+    "texture": "cee9596f-f053-40e1-8cc8-f00373a9a9e0",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      511,
+      196
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      512,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

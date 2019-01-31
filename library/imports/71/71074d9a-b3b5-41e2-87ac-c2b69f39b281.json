@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title-PersonalInformation",
+    "texture": "7895edc3-86cf-4e6f-b906-a35c86e09b36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      267,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      267,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

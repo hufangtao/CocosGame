@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tili-plus",
+    "texture": "de60f2a4-6d6a-4d43-ab29-51fefc470a97",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      134,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      136,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

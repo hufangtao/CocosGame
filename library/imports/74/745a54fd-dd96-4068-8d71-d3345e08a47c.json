@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pve-title-lose",
+    "texture": "ad5a0d21-f878-42d9-90d5-2cb44daa30eb",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      512,
+      152
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      512,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

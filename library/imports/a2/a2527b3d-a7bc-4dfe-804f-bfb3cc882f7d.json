@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-GengHuan",
+    "texture": "f049320c-d234-4a5d-943d-4756040d84e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      37
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      64,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

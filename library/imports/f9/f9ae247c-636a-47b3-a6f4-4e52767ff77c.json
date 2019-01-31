@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tv-buff3",
+    "texture": "743c6dd8-20ee-4abe-ade4-aaee18512a98",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      78,
+      77
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

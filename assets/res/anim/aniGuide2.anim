@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aniGuide2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.16666666666666666,
+  "sample": 24,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e1bf7cf2-be8e-4115-af41-1cdb1afecd0b"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "7bed7c9f-6811-4f47-a276-3670d8556be9"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "7bed7c9f-6811-4f47-a276-3670d8556be9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

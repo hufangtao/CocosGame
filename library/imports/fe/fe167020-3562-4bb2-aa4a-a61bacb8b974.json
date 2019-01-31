@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baoxiang",
+    "texture": "848ea219-0e5d-4ef2-8f5c-910e27b3eee1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

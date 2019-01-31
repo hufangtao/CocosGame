@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-5heart",
+    "texture": "045f1f57-93d9-43c9-b8ba-1c191e09d82a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

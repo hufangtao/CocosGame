@@ -1,0 +1,27 @@
+{
+"key": [0],
+"cols": ["id","sample","frames","times","res"],
+"vals": [
+  [
+    1,
+    8,
+    4,
+    1,
+    "open_box"
+  ],
+  [
+    2,
+    21,
+    21,
+    0,
+    "loading"
+  ],
+  [
+    3,
+    26,
+    13,
+    1,
+    "fight"
+  ]
+]
+}

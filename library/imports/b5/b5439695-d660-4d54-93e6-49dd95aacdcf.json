@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pvpscore_blue",
+    "texture": "e5969cca-2117-4add-a275-0fd639febe62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

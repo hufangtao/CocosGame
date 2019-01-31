@@ -1,0 +1,156 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "ServerList",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "key": [
+      0
+    ],
+    "cols": [
+      "id",
+      "platform",
+      "name",
+      "ip",
+      "opentime",
+      "opStage",
+      "default",
+      "port",
+      "security",
+      "path",
+      "group"
+    ],
+    "vals": [
+      [
+        8,
+        1,
+        "S8",
+        "dsqpk-gate2.dayukeji.com",
+        "20180614",
+        1,
+        1,
+        7008,
+        true,
+        null,
+        8
+      ],
+      [
+        204,
+        1,
+        "内网-S204",
+        "192.168.20.142",
+        "20180418",
+        1,
+        1,
+        7204,
+        false,
+        null,
+        0
+      ],
+      [
+        221,
+        1,
+        "fruit_dev",
+        "sgaxx-gate2.dayukeji.com",
+        "20180418",
+        1,
+        1,
+        9220,
+        true,
+        null,
+        0
+      ],
+      [
+        501,
+        1,
+        "fruit_wechat",
+        "sgaxx-gate2.dayukeji.com",
+        "20181030",
+        1,
+        1,
+        9221,
+        true,
+        null,
+        0
+      ],
+      [
+        502,
+        1,
+        "fruit_qqplay",
+        "sgaxx-gate2.dayukeji.com",
+        "20181030",
+        1,
+        1,
+        9222,
+        true,
+        null,
+        0
+      ],
+      [
+        503,
+        1,
+        "fruit_xiaomi",
+        "sgaxx-gate2.dayukeji.com",
+        "20181113",
+        1,
+        1,
+        9223,
+        true,
+        null,
+        0
+      ],
+      [
+        212,
+        1,
+        "S212",
+        "dsqpk-gate.dayukeji.com",
+        "20180614",
+        1,
+        1,
+        7222,
+        true,
+        null,
+        5
+      ],
+      [
+        220,
+        1,
+        "内网-敬坤",
+        "192.168.20.143",
+        "20180418",
+        1,
+        1,
+        7220,
+        false,
+        null,
+        0
+      ],
+      [
+        224,
+        1,
+        "内网-田野",
+        "192.168.20.111",
+        "20180418",
+        1,
+        1,
+        9220,
+        false,
+        null,
+        0
+      ]
+    ],
+    "group_list": {
+      "0": [
+        221,
+        501,
+        502
+      ],
+      "5": [
+        212
+      ],
+      "8": [
+        8
+      ]
+    }
+  }
+}

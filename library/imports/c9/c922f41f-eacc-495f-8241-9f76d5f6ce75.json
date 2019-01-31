@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-Pei",
+    "texture": "1c68b0e2-e103-422e-a59b-95d399650497",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      76,
+      75
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      76,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

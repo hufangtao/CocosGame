@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loading-fruit",
+    "texture": "bde7bd30-ed72-4396-8932-15f579fe7dec",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

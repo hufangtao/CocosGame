@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LuckyDraw-bk",
+    "texture": "7a2d95a5-c1b9-40b2-a345-66b8090d3474",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      507,
+      908
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      508,
+      908
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

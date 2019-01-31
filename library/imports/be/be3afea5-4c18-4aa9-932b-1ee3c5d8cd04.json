@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red-continueMatch",
+    "texture": "4287e5e2-c561-4529-97fa-ed350512ab86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

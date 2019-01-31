@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TV-effect-lightdot",
+    "texture": "a87910d8-9ff1-4f04-a090-a9e49f6eeaf3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      350,
+      331
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      331
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

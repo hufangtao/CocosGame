@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pvpscore_red",
+    "texture": "7c116f86-a8fb-4f81-a8da-20bef9f44543",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

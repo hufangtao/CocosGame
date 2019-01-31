@@ -1,0 +1,27 @@
+{
+"key": [0],
+"cols": ["id","scene","title","img"],
+"vals": [
+  [
+    1,
+    1,
+    "我就是精致的juju女孩",
+    "juju.jpg"
+  ],
+  [
+    2,
+    1,
+    "你是我的小呀小水果",
+    "fruit.jpg"
+  ]
+],
+"flaunt_list" : [1,2],
+"invite_list" : [3,
+4,
+8,
+9],
+"manual_list" : [1,
+2,
+6,
+7]
+}

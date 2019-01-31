@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "SysShare",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "key": [
+      0
+    ],
+    "cols": [
+      "id",
+      "scene",
+      "title",
+      "img"
+    ],
+    "vals": [
+      [
+        1,
+        1,
+        "我就是精致的juju女孩",
+        "juju.jpg"
+      ],
+      [
+        2,
+        1,
+        "你是我的小呀小水果",
+        "fruit.jpg"
+      ],
+      [
+        3,
+        1,
+        "在这片水果园中有一群积极向上的好青年",
+        "guoyuan.png"
+      ],
+      [
+        4,
+        1,
+        "终于知道为什么我最近脑子不太好使",
+        "juzi.png"
+      ]
+    ],
+    "flaunt_list": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "invite_list": [
+      3,
+      4,
+      8,
+      9
+    ],
+    "manual_list": [
+      1,
+      2,
+      6,
+      7
+    ]
+  }
+}

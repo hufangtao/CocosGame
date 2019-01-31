@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tab-allrank2",
+    "texture": "d79aa759-46e8-4e17-9509-f7bbc5d233a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      35
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      134,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

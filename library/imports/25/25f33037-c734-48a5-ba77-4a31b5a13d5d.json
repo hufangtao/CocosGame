@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pveScore",
+    "texture": "aeaad7f7-e450-4866-aca0-6f2fad09d573",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      193,
+      24
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      194,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

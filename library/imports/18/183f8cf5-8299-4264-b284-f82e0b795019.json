@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank-bk-me",
+    "texture": "9f56857e-8fc1-4882-8c80-f98038d91052",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      16
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      16
+    ],
+    "capInsets": [
+      66,
+      8,
+      10,
+      8
+    ]
+  }
+}

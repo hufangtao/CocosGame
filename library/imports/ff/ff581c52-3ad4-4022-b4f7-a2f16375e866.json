@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ChooseLv-bk",
+    "texture": "a3f01bb5-e9c2-4e10-97d8-59f5d310c1e2",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      697,
+      227
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      698,
+      228
+    ],
+    "capInsets": [
+      0,
+      148,
+      0,
+      73
+    ]
+  }
+}

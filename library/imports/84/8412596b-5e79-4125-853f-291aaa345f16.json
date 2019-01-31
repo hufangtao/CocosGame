@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red-exitpve",
+    "texture": "1d2b734a-e572-444c-9bc0-56ff0d1da88e",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      155,
+      46
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      156,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

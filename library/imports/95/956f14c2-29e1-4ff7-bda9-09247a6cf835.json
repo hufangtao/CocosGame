@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red-opinvite",
+    "texture": "69ab7963-ad9d-4d02-adef-601206e138f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      45
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      156,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

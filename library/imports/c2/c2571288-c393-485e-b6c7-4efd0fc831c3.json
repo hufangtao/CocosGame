@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuiche-big",
+    "texture": "cc8d6feb-6f49-4dc7-9253-0a886e7caf9e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

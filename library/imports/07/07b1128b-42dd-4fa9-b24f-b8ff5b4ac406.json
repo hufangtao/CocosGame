@@ -1,0 +1,3501 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "Map",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "level_0": {
+      "grid": {
+        "empty": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [
+          {
+            "index": 15,
+            "type": 2
+          },
+          {
+            "index": 24,
+            "type": 2
+          },
+          {
+            "index": 5,
+            "type": 3
+          },
+          {
+            "index": 14,
+            "type": 1
+          },
+          {
+            "index": 23,
+            "type": 1
+          },
+          {
+            "index": 32,
+            "type": 3
+          },
+          {
+            "index": 4,
+            "type": 1
+          },
+          {
+            "index": 13,
+            "type": 4
+          },
+          {
+            "index": 22,
+            "type": 3
+          },
+          {
+            "index": 61,
+            "type": 1
+          },
+          {
+            "index": 51,
+            "type": 2
+          },
+          {
+            "index": 60,
+            "type": 4
+          },
+          {
+            "index": 69,
+            "type": 3
+          },
+          {
+            "index": 50,
+            "type": 3
+          },
+          {
+            "index": 59,
+            "type": 4
+          },
+          {
+            "index": 68,
+            "type": 2
+          },
+          {
+            "index": 49,
+            "type": 3
+          },
+          {
+            "index": 58,
+            "type": 4
+          },
+          {
+            "index": 67,
+            "type": 1
+          },
+          {
+            "index": 57,
+            "type": 2
+          },
+          {
+            "index": 36,
+            "type": 1
+          },
+          {
+            "index": 45,
+            "type": 3
+          },
+          {
+            "index": 54,
+            "type": 4
+          },
+          {
+            "index": 37,
+            "type": 2
+          },
+          {
+            "index": 46,
+            "type": 3
+          },
+          {
+            "index": 55,
+            "type": 5
+          }
+        ]
+      }
+    },
+    "level_1": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          25,
+          26,
+          27,
+          28,
+          34,
+          35,
+          36,
+          37,
+          43,
+          44,
+          45,
+          46,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        24,
+        33,
+        42,
+        51
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [
+          {
+            "index": 30,
+            "type": 1
+          },
+          {
+            "index": 31,
+            "type": 1
+          },
+          {
+            "index": 21,
+            "type": 2
+          },
+          {
+            "index": 22,
+            "type": 3
+          },
+          {
+            "index": 29,
+            "type": 3
+          },
+          {
+            "index": 32,
+            "type": 2
+          },
+          {
+            "index": 39,
+            "type": 3
+          },
+          {
+            "index": 40,
+            "type": 3
+          }
+        ],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 3,
+      "step": 15,
+      "time": 0,
+      "score": [
+        2500,
+        3500,
+        4200,
+        6000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "subtype": null,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "subtype": null,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_2": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          16,
+          17,
+          18,
+          19,
+          25,
+          26,
+          27,
+          28,
+          34,
+          35,
+          36,
+          37,
+          43,
+          44,
+          45,
+          46,
+          52,
+          53,
+          54,
+          55,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        15,
+        24,
+        33,
+        42,
+        51,
+        60
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 20,
+      "time": 0,
+      "score": [
+        3600,
+        4800,
+        6000,
+        8000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "subtype": null,
+            "count": 12
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "subtype": null,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "subtype": null,
+            "count": 15
+          }
+        ]
+      ]
+    },
+    "level_3": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          18,
+          27,
+          36,
+          45,
+          54,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          17,
+          26,
+          35,
+          44,
+          53,
+          62
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        16,
+        25,
+        34,
+        43,
+        52,
+        61
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 25,
+      "time": 0,
+      "score": [
+        3600,
+        4800,
+        6000,
+        8000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "subtype": null,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "subtype": null,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "subtype": null,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 4,
+            "subtype": 3,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 5,
+            "subtype": null,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_4": {
+      "grid": {
+        "empty": [
+          7,
+          8,
+          25,
+          26,
+          31,
+          32,
+          33,
+          34,
+          35,
+          40,
+          41,
+          42,
+          43,
+          44,
+          52,
+          53,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        17,
+        62
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [
+          {
+            "index": 56,
+            "type": 1
+          },
+          {
+            "index": 57,
+            "type": 1
+          },
+          {
+            "index": 58,
+            "type": 1
+          },
+          {
+            "index": 59,
+            "type": 1
+          },
+          {
+            "index": 60,
+            "type": 1
+          },
+          {
+            "index": 47,
+            "type": 2
+          },
+          {
+            "index": 48,
+            "type": 3
+          },
+          {
+            "index": 49,
+            "type": 3
+          },
+          {
+            "index": 50,
+            "type": 4
+          },
+          {
+            "index": 51,
+            "type": 2
+          },
+          {
+            "index": 55,
+            "type": 2
+          },
+          {
+            "index": 61,
+            "type": 3
+          },
+          {
+            "index": 65,
+            "type": 3
+          },
+          {
+            "index": 66,
+            "type": 4
+          },
+          {
+            "index": 67,
+            "type": 2
+          },
+          {
+            "index": 68,
+            "type": 2
+          },
+          {
+            "index": 69,
+            "type": 3
+          },
+          {
+            "index": 10,
+            "type": 3
+          },
+          {
+            "index": 11,
+            "type": 3
+          },
+          {
+            "index": 12,
+            "type": 3
+          },
+          {
+            "index": 13,
+            "type": 3
+          },
+          {
+            "index": 14,
+            "type": 3
+          },
+          {
+            "index": 15,
+            "type": 3
+          },
+          {
+            "index": 16,
+            "type": 3
+          },
+          {
+            "index": 1,
+            "type": 1
+          },
+          {
+            "index": 2,
+            "type": 1
+          },
+          {
+            "index": 3,
+            "type": 4
+          },
+          {
+            "index": 4,
+            "type": 2
+          },
+          {
+            "index": 5,
+            "type": 1
+          },
+          {
+            "index": 6,
+            "type": 4
+          },
+          {
+            "index": 9,
+            "type": 4
+          },
+          {
+            "index": 17,
+            "type": 4
+          },
+          {
+            "index": 19,
+            "type": 4
+          },
+          {
+            "index": 20,
+            "type": 4
+          },
+          {
+            "index": 21,
+            "type": 4
+          },
+          {
+            "index": 22,
+            "type": 2
+          },
+          {
+            "index": 23,
+            "type": 1
+          },
+          {
+            "index": 24,
+            "type": 2
+          }
+        ],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 25,
+      "time": 0,
+      "score": [
+        5000,
+        7000,
+        8000,
+        10000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 2,
+            "count": 4
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 3,
+            "subtype": 3,
+            "count": 2
+          }
+        ]
+      ]
+    },
+    "level_5": {
+      "grid": {
+        "empty": [
+          18,
+          19,
+          20,
+          24,
+          25,
+          26,
+          45,
+          46,
+          47,
+          51,
+          52,
+          53
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        35,
+        44,
+        62,
+        71
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [
+          {
+            "index": 21,
+            "type": 2
+          },
+          {
+            "index": 22,
+            "type": 2
+          },
+          {
+            "index": 23,
+            "type": 2
+          },
+          {
+            "index": 30,
+            "type": 2
+          },
+          {
+            "index": 31,
+            "type": 2
+          },
+          {
+            "index": 32,
+            "type": 2
+          },
+          {
+            "index": 39,
+            "type": 2
+          },
+          {
+            "index": 40,
+            "type": 2
+          },
+          {
+            "index": 41,
+            "type": 2
+          },
+          {
+            "index": 12,
+            "type": 4
+          },
+          {
+            "index": 13,
+            "type": 4
+          },
+          {
+            "index": 14,
+            "type": 4
+          },
+          {
+            "index": 29,
+            "type": 4
+          },
+          {
+            "index": 38,
+            "type": 4
+          },
+          {
+            "index": 33,
+            "type": 4
+          },
+          {
+            "index": 42,
+            "type": 4
+          },
+          {
+            "index": 50,
+            "type": 4
+          },
+          {
+            "index": 49,
+            "type": 4
+          },
+          {
+            "index": 48,
+            "type": 4
+          }
+        ],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 3,
+      "step": 15,
+      "time": 0,
+      "score": [
+        6000,
+        8000,
+        12000,
+        15000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 2,
+            "count": 2
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 4,
+            "count": 2
+          }
+        ]
+      ]
+    },
+    "level_6": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          16,
+          17,
+          18,
+          19,
+          25,
+          26,
+          27,
+          28,
+          34,
+          35,
+          36,
+          37,
+          43,
+          44,
+          45,
+          46,
+          52,
+          53,
+          54,
+          55,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        15,
+        24,
+        33,
+        42,
+        51,
+        60
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "block": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 25,
+      "time": 0,
+      "score": [
+        3600,
+        4800,
+        6000,
+        8000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "subtype": null,
+            "count": 15
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "subtype": null,
+            "count": 18
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 2,
+            "subtype": null,
+            "count": 2
+          }
+        ]
+      ]
+    },
+    "level_7": {
+      "grid": {
+        "empty": [
+          0,
+          8,
+          63,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        17,
+        26,
+        35,
+        44,
+        53,
+        62
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 22,
+      "time": 0,
+      "score": [
+        8000,
+        11000,
+        20000,
+        30000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 2,
+            "count": 3
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 3,
+            "count": 3
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 2,
+            "type": 4,
+            "count": 1
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 15
+          }
+        ]
+      ]
+    },
+    "level_8": {
+      "grid": {
+        "empty": [
+          0,
+          8,
+          63,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        17,
+        26,
+        35,
+        44,
+        53,
+        62
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": [
+          {
+            "upgate": 26,
+            "downgate": 1
+          },
+          {
+            "upgate": 35,
+            "downgate": 9
+          }
+        ]
+      },
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [
+        {
+          "tileType": 3,
+          "type": [
+            1
+          ],
+          "count": 3
+        },
+        {
+          "tileType": 2,
+          "type": [
+            1
+          ]
+        }
+      ],
+      "blockcount": 4,
+      "step": 30,
+      "time": 0,
+      "score": [
+        8000,
+        12125,
+        15000,
+        18750
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 6
+          }
+        ]
+      ]
+    },
+    "level_9": {
+      "grid": {
+        "empty": [
+          6,
+          7,
+          8,
+          16,
+          17,
+          26,
+          53,
+          61,
+          62,
+          69,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        35,
+        44
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 3,
+            "type": 1
+          },
+          {
+            "index": 4,
+            "type": 1
+          },
+          {
+            "index": 11,
+            "type": 1
+          },
+          {
+            "index": 14,
+            "type": 1
+          },
+          {
+            "index": 19,
+            "type": 1
+          },
+          {
+            "index": 24,
+            "type": 1
+          },
+          {
+            "index": 27,
+            "type": 1
+          },
+          {
+            "index": 34,
+            "type": 1
+          },
+          {
+            "index": 36,
+            "type": 1
+          },
+          {
+            "index": 43,
+            "type": 1
+          },
+          {
+            "index": 46,
+            "type": 1
+          },
+          {
+            "index": 51,
+            "type": 1
+          },
+          {
+            "index": 56,
+            "type": 1
+          },
+          {
+            "index": 59,
+            "type": 1
+          },
+          {
+            "index": 66,
+            "type": 1
+          },
+          {
+            "index": 67,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 30,
+      "time": 0,
+      "score": [
+        6000,
+        8400,
+        10200,
+        12000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 15
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 18
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 1,
+            "count": 16
+          }
+        ]
+      ]
+    },
+    "level_10": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          7,
+          8,
+          9,
+          17,
+          54,
+          62,
+          63,
+          64,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        26,
+        35,
+        44,
+        53
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 4,
+            "type": 1
+          },
+          {
+            "index": 13,
+            "type": 1
+          },
+          {
+            "index": 22,
+            "type": 1
+          },
+          {
+            "index": 31,
+            "type": 1
+          },
+          {
+            "index": 40,
+            "type": 1
+          },
+          {
+            "index": 49,
+            "type": 1
+          },
+          {
+            "index": 58,
+            "type": 1
+          },
+          {
+            "index": 67,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [
+        {
+          "tileType": 3,
+          "type": [
+            1,
+            2
+          ],
+          "count": 3
+        }
+      ],
+      "blockcount": 4,
+      "step": 35,
+      "time": 0,
+      "score": [
+        6000,
+        8400,
+        10200,
+        12000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 4
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 2,
+            "count": 4
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 1,
+            "count": 8
+          }
+        ]
+      ]
+    },
+    "level_11": {
+      "grid": {
+        "empty": [
+          27,
+          28,
+          34,
+          35,
+          36,
+          37,
+          43,
+          44
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        53,
+        62,
+        71
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 0,
+      "time": 30,
+      "score": [
+        6000,
+        7500,
+        10000,
+        15000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 18
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 20
+          }
+        ]
+      ]
+    },
+    "level_12": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          3,
+          7,
+          8,
+          9,
+          10,
+          11,
+          17,
+          18,
+          19,
+          27,
+          34,
+          35,
+          36,
+          43,
+          44,
+          45,
+          46,
+          54,
+          55,
+          56,
+          62,
+          63,
+          64,
+          65,
+          66,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        26,
+        53
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 4,
+            "type": 1
+          },
+          {
+            "index": 5,
+            "type": 1
+          },
+          {
+            "index": 6,
+            "type": 1
+          },
+          {
+            "index": 12,
+            "type": 1
+          },
+          {
+            "index": 13,
+            "type": 1
+          },
+          {
+            "index": 14,
+            "type": 1
+          },
+          {
+            "index": 15,
+            "type": 1
+          },
+          {
+            "index": 16,
+            "type": 1
+          },
+          {
+            "index": 22,
+            "type": 1
+          },
+          {
+            "index": 23,
+            "type": 1
+          },
+          {
+            "index": 24,
+            "type": 1
+          },
+          {
+            "index": 29,
+            "type": 1
+          },
+          {
+            "index": 38,
+            "type": 1
+          },
+          {
+            "index": 49,
+            "type": 1
+          },
+          {
+            "index": 50,
+            "type": 1
+          },
+          {
+            "index": 51,
+            "type": 1
+          },
+          {
+            "index": 57,
+            "type": 1
+          },
+          {
+            "index": 58,
+            "type": 1
+          },
+          {
+            "index": 59,
+            "type": 1
+          },
+          {
+            "index": 60,
+            "type": 1
+          },
+          {
+            "index": 61,
+            "type": 1
+          },
+          {
+            "index": 67,
+            "type": 1
+          },
+          {
+            "index": 68,
+            "type": 1
+          },
+          {
+            "index": 69,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [
+        {
+          "tileType": 3,
+          "type": [
+            1
+          ],
+          "count": 1
+        }
+      ],
+      "blockcount": 3,
+      "step": 0,
+      "time": 40,
+      "score": [
+        10000,
+        14000,
+        20000,
+        25000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 8
+          }
+        ]
+      ]
+    },
+    "level_13": {
+      "grid": {
+        "empty": [],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35,
+        44,
+        53,
+        62,
+        71
+      ],
+      "tile": {
+        "empty": [
+          30,
+          31,
+          32,
+          39,
+          40,
+          41,
+          48,
+          49,
+          50,
+          57,
+          58,
+          59,
+          66,
+          67,
+          68
+        ],
+        "bomb": [],
+        "pet": [],
+        "wall": [
+          {
+            "index": 29,
+            "type": 1
+          },
+          {
+            "index": 38,
+            "type": 1
+          },
+          {
+            "index": 47,
+            "type": 1
+          },
+          {
+            "index": 56,
+            "type": 1
+          },
+          {
+            "index": 65,
+            "type": 1
+          },
+          {
+            "index": 33,
+            "type": 1
+          },
+          {
+            "index": 42,
+            "type": 1
+          },
+          {
+            "index": 51,
+            "type": 1
+          },
+          {
+            "index": 60,
+            "type": 1
+          },
+          {
+            "index": 69,
+            "type": 1
+          }
+        ],
+        "tableware": [
+          {
+            "index": 0,
+            "type": 1
+          },
+          {
+            "index": 9,
+            "type": 1
+          },
+          {
+            "index": 18,
+            "type": 1
+          },
+          {
+            "index": 27,
+            "type": 1
+          },
+          {
+            "index": 36,
+            "type": 1
+          },
+          {
+            "index": 45,
+            "type": 2
+          },
+          {
+            "index": 54,
+            "type": 1
+          },
+          {
+            "index": 63,
+            "type": 1
+          },
+          {
+            "index": 1,
+            "type": 1
+          },
+          {
+            "index": 10,
+            "type": 1
+          },
+          {
+            "index": 19,
+            "type": 1
+          },
+          {
+            "index": 28,
+            "type": 1
+          },
+          {
+            "index": 37,
+            "type": 1
+          },
+          {
+            "index": 46,
+            "type": 1
+          },
+          {
+            "index": 55,
+            "type": 1
+          },
+          {
+            "index": 64,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [
+        {
+          "tileType": 3,
+          "type": [
+            1
+          ],
+          "count": 1
+        },
+        {
+          "tileType": 2,
+          "type": [
+            1
+          ],
+          "count": 1
+        }
+      ],
+      "blockcount": 4,
+      "step": 60,
+      "time": 0,
+      "score": [
+        12000,
+        18000,
+        21000,
+        30000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_14": {
+      "grid": {
+        "empty": [],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35,
+        44,
+        53,
+        62,
+        71
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [
+          {
+            "index": 11,
+            "type": 1
+          },
+          {
+            "index": 12,
+            "type": 1
+          },
+          {
+            "index": 13,
+            "type": 1
+          },
+          {
+            "index": 14,
+            "type": 1
+          },
+          {
+            "index": 15,
+            "type": 1
+          },
+          {
+            "index": 20,
+            "type": 1
+          },
+          {
+            "index": 24,
+            "type": 1
+          },
+          {
+            "index": 29,
+            "type": 1
+          },
+          {
+            "index": 38,
+            "type": 1
+          },
+          {
+            "index": 47,
+            "type": 1
+          },
+          {
+            "index": 51,
+            "type": 1
+          },
+          {
+            "index": 56,
+            "type": 1
+          },
+          {
+            "index": 57,
+            "type": 1
+          },
+          {
+            "index": 58,
+            "type": 1
+          },
+          {
+            "index": 59,
+            "type": 1
+          },
+          {
+            "index": 60,
+            "type": 1
+          }
+        ],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 30,
+      "time": 0,
+      "score": [
+        4800,
+        7800,
+        9600,
+        12000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 4,
+            "type": 1,
+            "count": 16
+          }
+        ]
+      ]
+    },
+    "level_15": {
+      "grid": {
+        "empty": [
+          6,
+          15,
+          24,
+          31,
+          40,
+          47,
+          56,
+          65
+        ],
+        "transport": [],
+        "gate": [
+          {
+            "upgate": 5,
+            "downgate": 7
+          },
+          {
+            "upgate": 14,
+            "downgate": 16
+          },
+          {
+            "upgate": 23,
+            "downgate": 25
+          },
+          {
+            "upgate": 30,
+            "downgate": 32
+          },
+          {
+            "upgate": 39,
+            "downgate": 41
+          },
+          {
+            "upgate": 46,
+            "downgate": 48
+          },
+          {
+            "upgate": 55,
+            "downgate": 57
+          },
+          {
+            "upgate": 64,
+            "downgate": 66
+          }
+        ]
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35,
+        44,
+        53,
+        62,
+        71
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 19,
+            "type": 1
+          },
+          {
+            "index": 20,
+            "type": 1
+          },
+          {
+            "index": 21,
+            "type": 1
+          },
+          {
+            "index": 22,
+            "type": 1
+          },
+          {
+            "index": 23,
+            "type": 1
+          },
+          {
+            "index": 28,
+            "type": 1
+          },
+          {
+            "index": 32,
+            "type": 1
+          },
+          {
+            "index": 37,
+            "type": 1
+          },
+          {
+            "index": 41,
+            "type": 1
+          },
+          {
+            "index": 46,
+            "type": 1
+          },
+          {
+            "index": 50,
+            "type": 1
+          },
+          {
+            "index": 30,
+            "type": 1
+          },
+          {
+            "index": 39,
+            "type": 1
+          },
+          {
+            "index": 48,
+            "type": 1
+          },
+          {
+            "index": 57,
+            "type": 1
+          },
+          {
+            "index": 58,
+            "type": 1
+          },
+          {
+            "index": 59,
+            "type": 1
+          },
+          {
+            "index": 60,
+            "type": 1
+          },
+          {
+            "index": 61,
+            "type": 1
+          },
+          {
+            "index": 34,
+            "type": 1
+          },
+          {
+            "index": 43,
+            "type": 1
+          },
+          {
+            "index": 52,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [
+        {
+          "tileType": 3,
+          "type": [
+            1,
+            2
+          ],
+          "count": 2
+        }
+      ],
+      "blockcount": 4,
+      "step": 40,
+      "time": 0,
+      "score": [
+        5000,
+        7200,
+        9600,
+        12000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 5
+          }
+        ]
+      ]
+    },
+    "level_16": {
+      "grid": {
+        "empty": [],
+        "transport": [],
+        "gate": [
+          {
+            "upgate": 44,
+            "downgate": 0
+          },
+          {
+            "upgate": 53,
+            "downgate": 9
+          },
+          {
+            "upgate": 62,
+            "downgate": 18
+          },
+          {
+            "upgate": 71,
+            "downgate": 27
+          }
+        ]
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [
+          {
+            "index": 20,
+            "type": 1
+          },
+          {
+            "index": 21,
+            "type": 1
+          },
+          {
+            "index": 22,
+            "type": 1
+          },
+          {
+            "index": 23,
+            "type": 1
+          },
+          {
+            "index": 29,
+            "type": 1
+          },
+          {
+            "index": 32,
+            "type": 1
+          },
+          {
+            "index": 38,
+            "type": 1
+          },
+          {
+            "index": 41,
+            "type": 1
+          },
+          {
+            "index": 47,
+            "type": 1
+          },
+          {
+            "index": 48,
+            "type": 1
+          },
+          {
+            "index": 49,
+            "type": 1
+          },
+          {
+            "index": 50,
+            "type": 1
+          }
+        ],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 32,
+      "time": 0,
+      "score": [
+        9000,
+        12000,
+        18000,
+        30000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 40
+          }
+        ]
+      ]
+    },
+    "level_17": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          9,
+          54,
+          63,
+          64
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35,
+        44,
+        53,
+        62,
+        71
+      ],
+      "trickDown": {
+        "transport": []
+      },
+      "trickUp": {
+        "gate": []
+      },
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 23,
+            "type": 3
+          }
+        ]
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 22,
+      "time": 0,
+      "score": [
+        6000,
+        7500,
+        9000,
+        12000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 4,
+            "count": 20
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 3,
+            "count": 3
+          }
+        ]
+      ]
+    },
+    "level_18": {
+      "grid": {
+        "empty": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "transport": [],
+        "gate": [
+          {
+            "upgate": 53,
+            "downgate": 9
+          },
+          {
+            "upgate": 62,
+            "downgate": 18
+          },
+          {
+            "upgate": 71,
+            "downgate": 27
+          }
+        ]
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [
+          {
+            "index": 3,
+            "type": 1
+          },
+          {
+            "index": 12,
+            "type": 1
+          },
+          {
+            "index": 21,
+            "type": 1
+          },
+          {
+            "index": 30,
+            "type": 1
+          },
+          {
+            "index": 50,
+            "type": 1
+          },
+          {
+            "index": 59,
+            "type": 1
+          },
+          {
+            "index": 68,
+            "type": 1
+          }
+        ],
+        "tableware": [
+          {
+            "index": 23,
+            "type": 3
+          }
+        ]
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 30,
+      "time": 0,
+      "score": [
+        6000,
+        10500,
+        12000,
+        15000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 3,
+            "count": 6
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 4,
+            "type": 1,
+            "count": 7
+          }
+        ]
+      ]
+    },
+    "level_19": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          7,
+          8,
+          9,
+          17,
+          54,
+          62,
+          63,
+          64,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        26,
+        35,
+        44,
+        53
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 0,
+      "time": 40,
+      "score": [
+        6000,
+        9000,
+        12000,
+        15000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 3,
+            "count": 5
+          }
+        ]
+      ]
+    },
+    "level_20": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          6,
+          7,
+          8,
+          9,
+          10,
+          16,
+          17,
+          18,
+          26,
+          45,
+          53,
+          54,
+          55,
+          61,
+          62,
+          63,
+          64,
+          65,
+          69,
+          70,
+          71
+        ],
+        "transport": [
+          {
+            "type": 1,
+            "start": 4,
+            "end": 67
+          }
+        ],
+        "gate": []
+      },
+      "fallDownPoint": [
+        35,
+        44
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [
+        {
+          "tileType": 3,
+          "type": [
+            1,
+            2
+          ],
+          "count": 3
+        }
+      ],
+      "blockcount": 4,
+      "step": 40,
+      "time": 0,
+      "score": [
+        8000,
+        15000,
+        18000,
+        20000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 8
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 2,
+            "count": 5
+          }
+        ]
+      ]
+    },
+    "level_21": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          7,
+          8,
+          9,
+          17,
+          54,
+          62,
+          63,
+          64,
+          70,
+          71
+        ],
+        "transport": [
+          {
+            "type": 2,
+            "start": 10,
+            "end": 55
+          },
+          {
+            "type": 1,
+            "start": 16,
+            "end": 61
+          }
+        ],
+        "gate": []
+      },
+      "fallDownPoint": [
+        26,
+        35,
+        44,
+        53
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 40,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_22": {
+      "grid": {
+        "empty": [
+          1,
+          7,
+          9,
+          12,
+          13,
+          14,
+          17,
+          54,
+          57,
+          58,
+          59,
+          62,
+          64,
+          70,
+          31,
+          40
+        ],
+        "transport": [],
+        "gate": [
+          {
+            "upgate": 30,
+            "downgate": 32
+          },
+          {
+            "upgate": 39,
+            "downgate": 41
+          },
+          {
+            "upgate": 0,
+            "downgate": 2
+          },
+          {
+            "upgate": 6,
+            "downgate": 8
+          },
+          {
+            "upgate": 11,
+            "downgate": 15
+          },
+          {
+            "upgate": 56,
+            "downgate": 60
+          },
+          {
+            "upgate": 63,
+            "downgate": 65
+          },
+          {
+            "upgate": 69,
+            "downgate": 71
+          }
+        ]
+      },
+      "fallDownPoint": [
+        8,
+        26,
+        35,
+        44,
+        53,
+        71
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 19,
+            "type": 1
+          },
+          {
+            "index": 28,
+            "type": 1
+          },
+          {
+            "index": 37,
+            "type": 1
+          },
+          {
+            "index": 46,
+            "type": 1
+          },
+          {
+            "index": 47,
+            "type": 1
+          },
+          {
+            "index": 48,
+            "type": 1
+          },
+          {
+            "index": 23,
+            "type": 1
+          },
+          {
+            "index": 24,
+            "type": 1
+          },
+          {
+            "index": 25,
+            "type": 1
+          },
+          {
+            "index": 34,
+            "type": 1
+          },
+          {
+            "index": 43,
+            "type": 1
+          },
+          {
+            "index": 52,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [],
+      "blockcount": 4,
+      "step": 40,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 5
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 3,
+            "count": 3
+          }
+        ]
+      ]
+    },
+    "level_23": {
+      "grid": {
+        "empty": [
+          0,
+          6,
+          7,
+          8,
+          16,
+          17,
+          26,
+          53,
+          61,
+          62,
+          71,
+          70,
+          69,
+          63
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        35,
+        44
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 35,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 20
+          },
+          {
+            "objectiveType": 2,
+            "tileType": 1,
+            "type": 3,
+            "count": 15
+          }
+        ]
+      ]
+    },
+    "level_24": {
+      "grid": {
+        "empty": [
+          0,
+          8,
+          9,
+          17,
+          54,
+          62,
+          63,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        7,
+        26,
+        35,
+        44,
+        53,
+        70
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 30,
+      "time": 0,
+      "score": [
+        6300,
+        10000,
+        12300,
+        15000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 20
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 4,
+            "count": 15
+          },
+          {
+            "objectiveType": 2,
+            "tileType": 1,
+            "type": 5,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_25": {
+      "grid": {
+        "empty": [
+          6,
+          7,
+          8,
+          16,
+          17,
+          26,
+          53,
+          61,
+          62,
+          69,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        35,
+        44
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 40,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 12
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "count": 16
+          },
+          {
+            "objectiveType": 2,
+            "tileType": 1,
+            "type": 1,
+            "count": 15
+          },
+          {
+            "objectiveType": 2,
+            "tileType": 1,
+            "type": 4,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_26": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          16,
+          17,
+          26,
+          53,
+          54,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        35,
+        44
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [
+          {
+            "index": 10,
+            "type": 1
+          },
+          {
+            "index": 18,
+            "type": 1
+          },
+          {
+            "index": 19,
+            "type": 1
+          },
+          {
+            "index": 27,
+            "type": 1
+          },
+          {
+            "index": 28,
+            "type": 1
+          },
+          {
+            "index": 36,
+            "type": 1
+          },
+          {
+            "index": 37,
+            "type": 1
+          },
+          {
+            "index": 45,
+            "type": 1
+          },
+          {
+            "index": 46,
+            "type": 1
+          },
+          {
+            "index": 55,
+            "type": 1
+          }
+        ],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 0,
+      "time": 40,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 25
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "count": 28
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 4,
+            "type": 1,
+            "count": 10
+          }
+        ]
+      ]
+    },
+    "level_27": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          9,
+          54,
+          63,
+          64
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35,
+        44,
+        53,
+        62,
+        71
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 40,
+      "time": 0,
+      "score": [
+        6300,
+        10600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 5,
+            "count": 20
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 20
+          }
+        ]
+      ]
+    },
+    "level_28": {
+      "grid": {
+        "empty": [
+          0,
+          1,
+          7,
+          8,
+          9,
+          17,
+          54,
+          62,
+          63,
+          64,
+          70,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        26,
+        35,
+        44,
+        53
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 45,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "count": 12
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 15
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 4,
+            "count": 18
+          }
+        ]
+      ]
+    },
+    "level_29": {
+      "grid": {
+        "empty": [
+          27,
+          28,
+          34,
+          35,
+          36,
+          37,
+          43,
+          44
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        53,
+        62,
+        71
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 40,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 20
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 4,
+            "count": 10
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "count": 12
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 2
+          }
+        ]
+      ]
+    },
+    "level_30": {
+      "grid": {
+        "empty": [
+          0,
+          6,
+          7,
+          8,
+          16,
+          17,
+          26,
+          53,
+          61,
+          62,
+          71,
+          70,
+          69,
+          63
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        35,
+        44
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": [
+          {
+            "index": 2,
+            "type": 1
+          },
+          {
+            "index": 4,
+            "type": 1
+          },
+          {
+            "index": 10,
+            "type": 1
+          },
+          {
+            "index": 12,
+            "type": 1
+          },
+          {
+            "index": 14,
+            "type": 1
+          },
+          {
+            "index": 18,
+            "type": 1
+          },
+          {
+            "index": 20,
+            "type": 1
+          },
+          {
+            "index": 22,
+            "type": 1
+          },
+          {
+            "index": 24,
+            "type": 1
+          },
+          {
+            "index": 28,
+            "type": 1
+          },
+          {
+            "index": 30,
+            "type": 1
+          },
+          {
+            "index": 32,
+            "type": 1
+          },
+          {
+            "index": 36,
+            "type": 1
+          },
+          {
+            "index": 38,
+            "type": 1
+          },
+          {
+            "index": 40,
+            "type": 1
+          },
+          {
+            "index": 42,
+            "type": 1
+          },
+          {
+            "index": 46,
+            "type": 1
+          },
+          {
+            "index": 48,
+            "type": 1
+          },
+          {
+            "index": 50,
+            "type": 1
+          },
+          {
+            "index": 54,
+            "type": 1
+          },
+          {
+            "index": 56,
+            "type": 1
+          },
+          {
+            "index": 58,
+            "type": 1
+          },
+          {
+            "index": 60,
+            "type": 1
+          },
+          {
+            "index": 64,
+            "type": 1
+          },
+          {
+            "index": 66,
+            "type": 1
+          },
+          {
+            "index": 68,
+            "type": 1
+          }
+        ]
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 40,
+      "time": 0,
+      "score": [
+        6300,
+        12600,
+        15300,
+        18000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 5,
+            "type": 1,
+            "count": 20
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 15
+          }
+        ],
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 3,
+            "type": 1,
+            "count": 1
+          }
+        ]
+      ]
+    },
+    "level_31": {
+      "grid": {
+        "empty": [
+          0,
+          17,
+          18,
+          35,
+          36,
+          53,
+          54,
+          71
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        26,
+        44,
+        62
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 20,
+      "time": 0,
+      "score": [
+        5000,
+        6500,
+        8000,
+        12000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 12
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 12
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "count": 10
+          },
+          {
+            "objectiveType": 1,
+            "tileType": 1,
+            "type": 4,
+            "count": 0
+          }
+        ]
+      ]
+    },
+    "level_32": {
+      "grid": {
+        "empty": [
+          21,
+          22,
+          23,
+          24,
+          48,
+          49,
+          50,
+          51
+        ],
+        "transport": [],
+        "gate": []
+      },
+      "fallDownPoint": [
+        8,
+        17,
+        26,
+        35,
+        44,
+        53,
+        62,
+        71
+      ],
+      "tile": {
+        "empty": [],
+        "bomb": [],
+        "pet": [],
+        "wall": [],
+        "tableware": []
+      },
+      "spawnItem": [],
+      "blockcount": 5,
+      "step": 25,
+      "time": 0,
+      "score": [
+        6000,
+        7500,
+        9500,
+        13000
+      ],
+      "objective": [
+        [
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 1,
+            "count": 16
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 2,
+            "count": 16
+          },
+          {
+            "objectiveType": 0,
+            "tileType": 1,
+            "type": 3,
+            "count": 16
+          },
+          {
+            "objectiveType": 1,
+            "tileType": 1,
+            "type": 5,
+            "count": 0
+          }
+        ]
+      ]
+    }
+  }
+}

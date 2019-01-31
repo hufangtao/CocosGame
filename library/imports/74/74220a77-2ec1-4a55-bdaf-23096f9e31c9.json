@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pve-cloud",
+    "texture": "f6d80230-6cfa-4efa-8097-4737c480a97c",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      600,
+      503
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      600,
+      506
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      184
+    ]
+  }
+}

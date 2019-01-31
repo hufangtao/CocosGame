@@ -1,0 +1,154 @@
+{
+  "1": {
+    "id": 1,
+    "name": "P_1",
+    "desc": "P_2",
+    "type": 1,
+    "grid": 0,
+    "route": "Item",
+    "icon": 1,
+    "getEvent": [
+      1
+    ],
+    "useEvent": [
+      1
+    ],
+    "order": 0,
+    "typeId": [
+      1
+    ],
+    "source": [
+      "P_1"
+    ],
+    "param": [
+      0
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "P_1",
+    "desc": "P_2",
+    "type": 2,
+    "grid": 1,
+    "route": "Item",
+    "icon": 2,
+    "getEvent": [
+      0
+    ],
+    "useEvent": [
+      0
+    ],
+    "order": 0,
+    "typeId": [
+      0
+    ],
+    "source": [
+      "P_2"
+    ],
+    "param": [
+      0
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "P_1",
+    "desc": "P_2",
+    "type": 3,
+    "grid": 1,
+    "route": "Item",
+    "icon": 3,
+    "getEvent": [
+      0
+    ],
+    "useEvent": [
+      0
+    ],
+    "order": 0,
+    "typeId": [
+      1
+    ],
+    "source": [
+      "P_3"
+    ],
+    "param": [
+      0
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "P_1",
+    "desc": "P_2",
+    "type": 4,
+    "grid": 1,
+    "route": "Item",
+    "icon": 4,
+    "getEvent": [
+      0
+    ],
+    "useEvent": [
+      0
+    ],
+    "order": 0,
+    "typeId": [
+      0
+    ],
+    "source": [
+      "P_4"
+    ],
+    "param": [
+      0
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "P_1",
+    "desc": "P_2",
+    "type": 5,
+    "grid": 1,
+    "route": "Item",
+    "icon": 5,
+    "getEvent": [
+      0
+    ],
+    "useEvent": [
+      0
+    ],
+    "order": 0,
+    "typeId": [
+      1,
+      2
+    ],
+    "source": [
+      "P_5"
+    ],
+    "param": [
+      2,
+      2
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "P_1",
+    "desc": "P_2",
+    "type": 6,
+    "grid": 0,
+    "route": "Item",
+    "icon": 6,
+    "getEvent": [
+      2
+    ],
+    "useEvent": [
+      0
+    ],
+    "order": 0,
+    "typeId": [
+      0
+    ],
+    "source": [
+      "P_6"
+    ],
+    "param": [
+      0
+    ]
+  }
+}

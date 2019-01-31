@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "green-login",
+    "texture": "d1367c2f-aa80-4f0d-afc1-6775181f1207",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      80,
+      44
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      80,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

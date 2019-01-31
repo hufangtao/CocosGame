@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhazhiji-big",
+    "texture": "51c5caf7-3e61-4b92-8479-e503d3bd8543",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      95,
+      100
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

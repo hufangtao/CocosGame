@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "adv-decoration",
+    "texture": "446a891c-2a98-4977-8b1b-9ed1d55df8de",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      110,
+      212
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      212
+    ],
+    "capInsets": [
+      52,
+      0,
+      57,
+      0
+    ]
+  }
+}

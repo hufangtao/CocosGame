@@ -1,0 +1,60 @@
+{
+"key": [0],
+"cols": ["id","name","type","subType","showIcon","titleImg"],
+"vals": [
+  [
+    1,
+    "1元红包",
+    2,
+    0,
+    "item_1",
+    "item_name_1"
+  ],
+  [
+    2,
+    "10元红包",
+    2,
+    0,
+    "item_2",
+    "item_name_2"
+  ],
+  [
+    3,
+    "100元红包",
+    2,
+    0,
+    "item_3",
+    "item_name_3"
+  ],
+  [
+    4,
+    "积分",
+    1,
+    0,
+    "item_5",
+    null
+  ],
+  [
+    5,
+    "iphoneX",
+    3,
+    0,
+    "item_4",
+    "item_name_4"
+  ],
+  [
+    100,
+    "10000积分",
+    1,
+    0,
+    "item_5",
+    null
+  ]
+],
+"id_list" : [1,
+2,
+3,
+4,
+5,
+100]
+}

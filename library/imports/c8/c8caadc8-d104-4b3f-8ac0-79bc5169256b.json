@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-jiangli",
+    "texture": "7556316b-6ca2-4aeb-9253-d7e9772d11bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

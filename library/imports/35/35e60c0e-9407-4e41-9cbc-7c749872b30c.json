@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pvpLag",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        }
+      ]
+    },
+    "paths": {
+      "blue": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -100
+            }
+          ]
+        }
+      },
+      "red": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -100
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -100,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "red/pvpscore_red": {
+        "comps": {
+          "cc.Label": {
+            "fontSize": [
+              {
+                "frame": 0.16666666666666666,
+                "value": 60
+              },
+              {
+                "frame": 0.5,
+                "value": 100
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

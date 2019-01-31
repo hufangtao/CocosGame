@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pve-bk-blue",
+    "texture": "d72e1bff-de61-4fe5-b0b9-868ce585f4c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      32
+    ],
+    "capInsets": [
+      3,
+      0,
+      4,
+      0
+    ]
+  }
+}

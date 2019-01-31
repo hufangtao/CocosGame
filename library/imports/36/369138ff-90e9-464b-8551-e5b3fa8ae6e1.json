@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-shop",
+    "texture": "56fe9257-9da0-469e-8bdc-edfc4e528cdd",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      63,
+      35
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      64,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

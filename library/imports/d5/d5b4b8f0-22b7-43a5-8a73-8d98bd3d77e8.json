@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wordShare",
+    "texture": "fc35b33b-7ae5-40ec-8676-1f345fda8940",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      45
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      114,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

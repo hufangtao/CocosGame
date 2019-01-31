@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-score",
+    "texture": "90107d3c-a0ad-4128-ad78-efeb9b3a35cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

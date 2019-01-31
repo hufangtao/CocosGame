@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LuckyDraw-button",
+    "texture": "e239ace8-400f-4e94-8923-b6f17cd4dc74",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      129,
+      129
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      130,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

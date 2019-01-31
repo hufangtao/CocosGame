@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Partner.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "declare class Partner{\r\n}"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect-star-white",
+    "texture": "766229fe-6bb6-4a83-b7b1-7cede58f2ad5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

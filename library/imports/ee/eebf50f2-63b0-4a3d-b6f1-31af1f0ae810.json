@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ranknum_blue",
+    "texture": "cd397514-efb7-435e-8d7c-f925a419be78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      231,
+      30
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      232,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

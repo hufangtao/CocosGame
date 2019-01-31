@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yunxuan_tx10",
+    "texture": "1719802a-47d5-4717-bd81-df66c9d9e519",
+    "atlas": "",
+    "rect": [
+      114,
+      77,
+      81,
+      24
+    ],
+    "offset": [
+      48.5,
+      -26
+    ],
+    "originalSize": [
+      212,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

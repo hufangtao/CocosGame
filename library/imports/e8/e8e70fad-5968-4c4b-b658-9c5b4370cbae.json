@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bk-tube",
+    "texture": "6b84edfb-f2a8-4933-a26b-42c58b0f9ea7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

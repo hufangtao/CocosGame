@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bk-txt",
+    "texture": "22f00d29-faca-440f-84ec-ef29757b35c6",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      105,
+      106
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      106,
+      106
+    ],
+    "capInsets": [
+      49,
+      21,
+      26,
+      82
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellow_achieve_prop",
+    "texture": "fcd892e5-2b91-426e-93aa-c6a340f23101",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      148,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      148,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

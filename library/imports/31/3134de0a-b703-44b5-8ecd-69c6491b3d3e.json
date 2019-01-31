@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-BonusTime",
+    "texture": "52e9a0f5-e8b5-4dba-9e03-4979e1d63e6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      546,
+      155
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      546,
+      155
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

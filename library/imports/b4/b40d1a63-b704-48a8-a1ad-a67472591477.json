@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word-fenshu",
+    "texture": "f3044500-c9a3-42f9-86ce-edb9e308abbf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

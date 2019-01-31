@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "saoguang",
+    "texture": "dbb408a9-6291-43ae-badc-882f1a9f425a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      92,
+      100
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      93,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

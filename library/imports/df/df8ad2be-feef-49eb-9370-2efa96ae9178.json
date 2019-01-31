@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ChooseLv-Btn5",
+    "texture": "33a3dcd3-5248-4f6f-80b1-3cc68d4fcadb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      651,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      651,
+      172
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
